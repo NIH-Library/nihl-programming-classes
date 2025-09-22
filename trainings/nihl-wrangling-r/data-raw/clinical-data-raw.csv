@@ -1,0 +1,93 @@
+﻿PatientID,FullName,DOB,HeightCM,WeightKg,BloodPressure,CholesterolMGDL,Diagnosis
+1001,ALLISON HILL,1976/05/08,,,128/61 ,211,
+1002,noah rhodes,1941-09-04,160,59,134/81,,Diabetes
+1003,Angie Henderson,"January 07, 1996",166,55,122/85,214,Hypertension
+1004,DANIEL WAGNER,05-07-1964,179,92,101/76,207,Heart Disease
+1005,cristian santos,"November 12, 1978",182,57kg,126/70,183,Hypertension
+1006,Connie Lawrence,1976-10-28,182cm,80,106/88,,NA
+1007,ABIGAIL SHAFFER,"April 20, 1949",155,,148/60,248mg/dL,
+1008,Gabrielle Davis,11-24-1947,150,68kg,139/86,217mg/dL,Asthma
+1009,RYAN MUNOZ,1942/01/26,151,86,155/98,,Asthma
+1010,monica herrera,03-14-1960,156cm,89,126/96,,Heart Disease
+1011,Jamie Arnold,1964/01/15,183,54,117/66,,
+1012,LISA HENSLEY,1993/05/26,164,,123/95,,NA
+1013,michele williams,"October 17, 1997",157,55,108/95,179mg/dL,Diabetes
+1014,Dylan Miller,1941/12/09,,75,121/73 ,169,Asthma
+1015,BRIAN RAMIREZ,1963-07-29,168cm,80,155/89,,Diabetes
+1016,holly wood,1953-07-09,164,54kg,126/60,232,Asthma
+1017,Derek Zuniga,1985-08-21,169,61,118/88,197,Diabetes
+1018,LISA JACKSON,"March 16, 1956",163,,113/89,,NA
+1019,carla gray,1984-08-10,163,82,121/67,,NA
+1020,Margaret Hawkins Dds,"March 21, 1946",173cm,69kg,138/76,205mg/dL,
+1021,PATTY PEREZ,"April 17, 1963",,57,137/75 ,220,
+1022,ethan adams,1992-04-23,174,57,102/86,210,Asthma
+1023,Tommy Walter,04-28-1977,162,89,141/60,233,
+1024,MATTHEW FOSTER,"May 23, 1999",164,,124/86,183mg/dL,NA
+1025,judy baker,1998/10/01,163cm,85,141/66,217mg/dL,Hypertension
+1026,zachary hicks,"March 24, 1990",,97kg,145/70 ,,
+1027,Anthony Rodriguez,1949/09/28,177,76,105/97,179,Heart Disease
+1028,REBECCA HENDERSON,"May 03, 1955",179cm,,150/72,162,Heart Disease
+1029,james ferrell,"January 22, 1998",176,87,139/61,186mg/dL,Heart Disease
+1030,Tricia Valencia,1950-04-14,167,79kg,157/96,213mg/dL,Heart Disease
+1031,Jeffrey Chavez,10/04/1951,,81,136/86 ,250mg/dL,Heart Disease
+1032,SHERRI BAKER,1999-03-16,185,,104/61,173mg/dL,
+1033,cassandra gaines,04-13-1967,164,81,143/79,223mg/dL,Hypertension
+1034,BRITTANY FARMER,"June 07, 1951",152,75,130/61,171mg/dL,Heart Disease
+1035,paula moreno,05-07-1989,186cm,85kg,110/81,236mg/dL,Heart Disease
+1036,anthony humphrey,03-30-1967,178,56,144/98,,
+1037,Angelica Tucker,"October 25, 1993",179,58kg,115/60,162mg/dL,
+1038,john pierce,01-09-1998,181,89,135/96,151mg/dL,Hypertension
+1039,Shane Henderson,"March 30, 1989",151,62,113/90,,Heart Disease
+1040,JOSHUA BLAIR,"May 25, 1994",184,,123/100,162,
+1041,eric carney,"February 11, 1956",,94,131/83 ,152mg/dL,Asthma
+1042,Jessica Holmes,1957-05-19,170cm,56,140/93,,Heart Disease
+1043,DANNY MORGAN,1950/01/21,168,67,160/98,,NA
+1044,crystal robinson,1992/10/21,182,68kg,102/90,174,Hypertension
+1045,Mark Perez,12/12/1986,157,90,112/99,198,
+1046,SHANNON JONES,07-31-1946,186,,102/99,,Heart Disease
+1047,michael lewis,04/04/1965,161cm,60,108/89,,Diabetes
+1048,RICHARD AGUIRRE,1941/11/10,166,94,153/70,162mg/dL,Hypertension
+1049,brent jordan,08-26-1997,166,100,138/82,246,
+1050,John Daniel,04-04-1971,187,57,102/99,174,NA
+1051,VICTORIA GARCIA,12/05/1954,188cm,,126/76,,NA
+1052,gerald hensley,"October 21, 1952",188,76,133/70,203mg/dL,Diabetes
+1053,Connor West,"October 17, 1994",164,100,101/72,223,Asthma
+1054,DONALD WRIGHT,07-19-1970,,77,100/87 ,242mg/dL,NA
+1055,jessica callahan,1963/01/07,187,95kg,113/82,177,Heart Disease
+1056,Amber Kidd,1959-12-29,184cm,91,101/88,154,NA
+1057,TRACY HOUSE,"January 23, 1995",171,,147/97,,
+1058,carol tucker,05-07-1993,173,86,158/88,207,Heart Disease
+1059,James Brown,08/07/1998,174,98kg,149/79,226,Asthma
+1060,WILLIAM BAKER,1954-09-17,180,63,102/80,157mg/dL,Asthma
+1061,jordan henderson,1954/05/24,,94,155/99 ,,Diabetes
+1062,Whitney Peters,1940/11/01,168,76,141/83,,
+1063,BRITTNEY PHILLIPS,"February 21, 1984",183,,111/91,185,
+1064,lauren daniels,1952/05/14,155,55,151/93,176mg/dL,Hypertension
+1065,Amy Silva,"May 04, 1966",172,73,134/94,154mg/dL,Diabetes
+1066,SARAH MOORE,"July 24, 1961",166cm,98,153/94,,Hypertension
+1067,angela lopez,"March 08, 1958",187,79kg,129/98,,Heart Disease
+1068,Megan Young,"January 16, 1998",,60,113/63 ,200mg/dL,Hypertension
+1069,STEVE SANCHEZ,"December 13, 1943",190,,151/94,,Heart Disease
+1070,lisa barnes,07/11/1991,168,84,140/62,160,Hypertension
+1071,MIKE ALLEN,"February 13, 1963",153,90,129/60,,Heart Disease
+1072,Paul Jones,11-21-1973,158,89,105/74,,Heart Disease
+1073,ZACHARY FERRELL,"June 04, 1966",,,154/90 ,170,NA
+1074,daniel baker,06-19-1985,185cm,52,148/65,169,Asthma
+1075,CHRISTOPHER BASS,09-18-1975,155,82,158/62,166,NA
+1076,lisa archer,1961/10/04,184,87kg,121/95,,
+1077,Aimee Montoya,"February 07, 1941",184,82,125/64,194mg/dL,Diabetes
+1078,MATTHEW MCMILLAN,1947/01/27,181cm,,118/74,236,
+1079,brian rodriguez,11-27-1998,,90,156/95 ,165,Hypertension
+1080,Denise Jacobs,1956/12/31,151,52kg,111/89,,Hypertension
+1081,CHRISTINA WALTERS,1951-05-18,174,80,113/67,175mg/dL,Diabetes
+1082,john whitehead,09-25-1978,178,75,153/84,165mg/dL,Diabetes
+1083,Anna Henderson,1957-04-16,177cm,88,149/88,,Heart Disease
+1084,AARON WISE,10-29-1941,178,,151/71,,
+1085,deborah figueroa,08/08/1946,159,79,157/92,151,
+1086,Jessica Smith,10-27-1979,,93,110/98 ,,Diabetes
+1087,STEPHEN MCKEE,1968/10/18,179,78,160/95,,Diabetes
+1066,SARAH MOORE,"July 24, 1961",166cm,98,153/94,,Hypertension
+1067,angela lopez,"March 08, 1958",187,79kg,129/98,,Heart Disease
+1068,Megan Young,"January 16, 1998",,60,113/63 ,200mg/dL,Hypertension
+1069,STEVE SANCHEZ,"December 13, 1943",190,,151/94,,Heart Disease
+1070,lisa barnes,07/11/1991,168,84,140/62,160,Hypertension
