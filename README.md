@@ -74,9 +74,11 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### Open materials
+### Training Handouts
 
-`-   /trainings/nihl-wrangling-r/handouts`
-`-   /trainings/nihl-ggplot-custom/handouts`
-`-   /trainings/nihl-ggplot-intro/handouts`
-`-   /trainings/nihl-quarto/handouts`
+-   `/trainings/`
+    -   `nihl-into-r-rstudio/handouts`
+    -   `nihl-wrangling-r/handouts`
+    -   `nihl-ggplot-intro/handouts`
+    -   `nihl-ggplot-custom/handouts`
+    -   `nihl-quarto/handouts`
