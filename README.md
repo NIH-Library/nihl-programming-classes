@@ -74,11 +74,52 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### Training Handouts
+## Repository Structure
 
--   `/trainings/`
-    -   `nihl-into-r-rstudio/handouts`
-    -   `nihl-wrangling-r/handouts`
-    -   `nihl-ggplot-intro/handouts`
-    -   `nihl-ggplot-custom/handouts`
-    -   `nihl-quarto/handouts`
+The repository is organized into training-specific folders under `trainings/`. Each training folder follows a similar layout:
+
+```         
+trainings/
+  nihl-ggplot-custom/
+    handouts/     # slides and handouts
+    images/       # images used in lessons
+    docs/         # training-specific documentation not part of the training
+    figures/      # generated figures/plots
+    data-raw/     # original input data (read-only)
+    data-output/  # processed/derived outputs
+    src/          # training-specific source code or utilities
+  nihl-into-r-rstudio/
+    handouts/
+    images/
+    docs/
+    figures/
+    data-raw/
+    data-output/
+    src/
+  nihl-quarto/
+    handouts/
+    images/
+    docs/
+    figures/
+    data-raw/
+    data-output/
+    src/
+  nihl-wrangling-r/
+    handouts/
+    images/
+    docs/
+    figures/
+    data-raw/
+    data-output/
+    src/
+  nihl-ggplot-intro/
+    handouts/
+    images/
+    docs/
+    figures/
+    data-raw/
+    data-output/
+    src/
+```
+
+> **Note:** These are the recommended folder structures for our programming classes. You are free to use a different folder structure, but please keep this in mind during the live coding sections of our trainings.
