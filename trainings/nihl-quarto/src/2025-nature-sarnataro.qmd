@@ -1,0 +1,13 @@
+---
+title: "Mitochondrial origins of the pressure to sleep"
+format: html
+editor: visual
+---
+
+Link to [article](https://www.nature.com/articles/s41586-025-09261-y) or <https://www.nature.com/articles/s41586-025-09261-y>
+
+# Abstract
+
+To gain a comprehensive, unbiased perspective on molecular changes in the brain that may underlie the need for sleep, we have characterized the transcriptomes of single cells isolated from rested and sleep-deprived flies. Here we report that transcripts upregulated after sleep deprivation, in sleep-control neurons projecting to the dorsal fan-shaped body (dFBNs) but not ubiquitously in the brain, encode almost exclusively proteins with roles in mitochondrial respiration and ATP synthesis \[1, 2\]. These gene expression changes are accompanied by mitochondrial fragmentation, enhanced mitophagy and an increase in the number of contacts between mitochondria and the endoplasmic reticulum, creating conduits for the replenishment of peroxidized lipids \[3, 4, 5\]. The morphological changes are reversible after recovery sleep and blunted by the installation of an electron overflow in the respiratory chain \[6, 7\]. Inducing or preventing mitochondrial fission or fusion in n dFBNs alters sleep and the electrical properties of sleep-control cells in opposite directions: hyperfused mitochondria increase, whereas fragmented mitochondria decrease, neuronal excitability and sleep \[8, 9\]. ATP concentrations in dFBNs rise after enforced waking because of diminished ATP consumption during the arousal-mediated inhibition of these neurons, which augments their mitochondrial electron leak. Consistent with this view, uncoupling electron flux from ATP synthesis relieves the pressure to sleep, while exacerbating mismatches between electron supply and ATP demand (by powering ATP synthesis with a light-driven proton pump) precipitates sleep \[15\]. Sleep, like ageing may be an inescapable consequence of aerobic metabolism \[18, 18\].
+
+# References
