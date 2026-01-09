@@ -34,7 +34,7 @@ git clone https://github.com/NIH-Library/nihl-programming-classes.git
 cd nihl-programming-classes
 ```
 
-### Option B — RStudio (recommended for class)
+### Option B — RStudio
 
 1.  Open RStudio → File ▸ New Project.
 2.  Choose Version Control → Git.
@@ -44,6 +44,15 @@ cd nihl-programming-classes
 6.  Click Create Project. RStudio will clone the repo and open it.
 
 *Tip:* Ensure Git is installed and visible to RStudio (Tools ▸ Global Options ▸ Git/SVN).
+
+### Option C — Downloading Project Structure Repo (recommended for class)
+
+We have created a standalone folder structure that can be used for all of our programming classes:
+
+1.  Download the following zipped folder to your computer.
+2.  Unzip the folder in your documents folder.
+3.  Deleted the zipped folder that you downloaded from GitHub.
+4.  Instructions for opening and working with this project will be covered in the training.
 
 ### Set up environments R setup (RStudio)
 
