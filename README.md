@@ -88,38 +88,6 @@ trainings/
     data-raw/     # original input data (read-only)
     data-output/  # processed/derived outputs
     src/          # training-specific source code or utilities
-  nihl-into-r-rstudio/
-    handouts/
-    images/
-    docs/
-    figures/
-    data-raw/
-    data-output/
-    src/
-  nihl-quarto/
-    handouts/
-    images/
-    docs/
-    figures/
-    data-raw/
-    data-output/
-    src/
-  nihl-wrangling-r/
-    handouts/
-    images/
-    docs/
-    figures/
-    data-raw/
-    data-output/
-    src/
-  nihl-ggplot-intro/
-    handouts/
-    images/
-    docs/
-    figures/
-    data-raw/
-    data-output/
-    src/
 ```
 
 > **Note:** These are the recommended folder structures for our programming classes. You are free to use a different folder structure, but please keep this in mind during the live coding sections of our trainings.
