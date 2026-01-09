@@ -2,8 +2,6 @@
 
 This repository hosts materials for NIH Library programming trainings. It’s designed for reproducibility, so everyone can run the same code and get the same results.
 
-Repo: <https://github.com/NIH-Library/nihlibrary-programming-classes.git>
-
 ------------------------------------------------------------------------
 
 ## Trainings in This Repo
@@ -27,6 +25,8 @@ Each training has its own folder under `trainings/`.
 
 ## Clone the repository
 
+These example use the URL for the [nihl-programming-classes](https://github.com/NIH-Library/nihl-programming-classes) repo.
+
 ### Option A — Git (command line)
 
 ``` bash
@@ -36,9 +36,9 @@ cd nihl-programming-classes
 
 ### Option B — RStudio (recommended for class)
 
-1.  Open RStudio → File ▸ New Project…
+1.  Open RStudio → File ▸ New Project.
 2.  Choose Version Control → Git.
-3.  Repository URL: `https://github.com/NIH-Library/nihl-programming-classes.git`
+3.  Repository URL: <https://github.com/NIH-Library/nihl-programming-classes.git>
 4.  Project directory name: `nihl-prog-classes`
 5.  Choose a parent directory (e.g., *Documents*).
 6.  Click Create Project. RStudio will clone the repo and open it.
@@ -90,4 +90,4 @@ trainings/
     src/          # training-specific source code or utilities
 ```
 
-> **Note:** These are the recommended folder structures for our programming classes. You are free to use a different folder structure, but please keep this in mind during the live coding sections of our trainings.
+> Note: These are the recommended folder structures for our programming classes. You are free to use a different folder structure, but please keep this in mind during the live-coding sections of our trainings.
