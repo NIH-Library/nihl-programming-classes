@@ -49,7 +49,7 @@ cd nihl-programming-classes
 
 We have created a standalone folder structure that can be used for all of our programming classes:
 
-1.  Download the following zipped folder to your computer.
+1.  Download the following zipped [folder](https://github.com/NIH-Library/nihl-programming-classes/blob/81bee0bc04d53a03289d1349381c0093076c692d/nihl-prog-classes.zip) to your computer.
 2.  Unzip the folder in your documents folder.
 3.  Deleted the zipped folder that you downloaded from GitHub.
 4.  Instructions for opening and working with this project will be covered in the training.
