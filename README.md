@@ -49,10 +49,11 @@ cd nihl-programming-classes
 
 We have created a standalone folder structure that can be used for all of our programming classes:
 
-1.  Download the zipped folder to your computer, we recommend the TAR compressed file.
+1.  Download the zipped folder to your computer, we recommend the TAR compressed file, located in the [trainings folder](https://github.com/NIH-Library/nihl-programming-classes/tree/060d1eb4bc7a6c502eee749202c5f191428c6ee0/trainings).
 2.  Unzip the folder in your documents folder.
-3.  Deleted the zipped folder that you downloaded from GitHub.
-4.  Instructions for opening and working with this project will be covered in the training.
+3.  Copy the entire folder to your Document library.
+4.  Deleted the zipped folder that you downloaded from GitHub.
+5.  Instructions for opening and working with this project will be covered in the training.
 
 ### Set up environments R setup (RStudio)
 
