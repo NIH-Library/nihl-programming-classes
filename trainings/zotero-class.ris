@@ -4406,7 +4406,7 @@ L2  - https://wilkelab.org/SDS375/syllabus.html
 ER  - 
 
 TY  - JOUR
-TI  - Inducing Sleep by Remote Control Facilitates Memory Consolidation in <i>Drosophila</i>
+TI  - Inducing Sleep by Remote Control Facilitates Memory Consolidation in Drosophila
 AU  - Donlea, Jeffrey M.
 AU  - Thimgan, Matthew S.
 AU  - Suzuki, Yasuko
@@ -4619,5 +4619,24 @@ LA  - en
 SN  - 1465-7392, 1476-4679
 UR  - https://www.nature.com/articles/ncb0999_298
 Y2  - 2026/01/12/21:17:59
+ER  - 
+
+TY  - JOUR
+TI  - Phospholipid synthesis in a membrane fraction associated with mitochondria.
+AU  - Vance, J E
+T2  - Journal of Biological Chemistry
+DA  - 1990/05//
+PY  - 1990
+DO  - 10.1016/S0021-9258(19)39106-9
+DP  - DOI.org (Crossref)
+VL  - 265
+IS  - 13
+SP  - 7248
+EP  - 7256
+J2  - Journal of Biological Chemistry
+LA  - en
+SN  - 00219258
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0021925819391069
+Y2  - 2026/01/13/19:24:49
 ER  - 
 
