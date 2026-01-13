@@ -1,0 +1,4623 @@
+TY  - CHAP
+TI  - Perceiving Color
+AU  - Goldstein, E. Bruce
+AU  - Cacciamani, Laura
+T2  - Sensation and perception
+CY  - Belmont, CA
+DA  - 2022///
+PY  - 2022
+ET  - 11th
+SP  - 197
+EP  - 213
+PB  - Wadsworth, Cengage Learning
+SN  - 978-0-357-44647-8
+KW  - Perception.
+KW  - Senses and sensation.
+ER  - 
+
+TY  - JOUR
+TI  - Vision: The Retina
+AU  - Henley, Casey
+DA  - 2021/01/01/
+PY  - 2021
+DP  - openbooks.lib.msu.edu
+LA  - en
+PB  - Michigan State University Libraries
+ST  - Vision
+UR  - https://openbooks.lib.msu.edu/neuroscience/chapter/vision-the-retina/
+Y2  - 2023/05/21/23:27:47
+L2  - https://openbooks.lib.msu.edu/neuroscience/chapter/vision-the-retina/
+ER  - 
+
+TY  - CHAP
+TI  - Visualizing uncertainty
+AU  - Wilke, Claus O.
+T2  - Fundamentals of data visualization: a primer on making informative and compelling figures
+CY  - Sebastopol, CA
+DA  - 2019///
+PY  - 2019
+ET  - First edition.
+SP  - 181
+EP  - 284
+PB  - O'Reilly Media
+SN  - 978-1-4920-3108-6 1-4920-3108-9
+KW  - Information visualization. Visual analytics. Visualization Data processing. Data Visualization.
+ER  - 
+
+TY  - JOUR
+TI  - The practice of visual data communication: What works
+AU  - Schwabish, Jonathan
+T2  - Psychological Science in the Public Interest
+DA  - 2021///
+PY  - 2021
+DO  - 10.1177/15291006211057899
+VL  - 22
+IS  - 3
+SP  - 97
+EP  - 109
+SN  - 1529-1006
+UR  - https://doi.org/10.1177/15291006211057899
+N1  - doi: 10.1177/15291006211057899
+KW  - *Communication Humans
+ER  - 
+
+TY  - CHAP
+TI  - Color
+AU  - Schwabish, Jonathan
+T2  - Better presentations
+T3  - A guide for scholars, researchers, and wonks
+AB  - We like to think that our work speaks for itself and that the visual appeal of our presentations has no effect on the audience’s reception of the content. In reality, the design of your presentation plays a major role in what your audience sees, what they focus on, and how they perceive your message. One study, by New York University Professor Jan L. Plass and others, showed that an attractive visual design (through layout, colors, and imagery) can help evoke positive emotions and foster learning. Employing great design in a technical presentation is not about making your slides “pop” or
+DA  - 2017///
+PY  - 2017
+SP  - 29
+EP  - 50
+PB  - Columbia University Press
+SN  - null
+UR  - http://www.jstor.org.proxycu.wrlc.org/stable/10.7312/schw17520.6
+ER  - 
+
+TY  - CHAP
+TI  - The scaffolding slides
+AU  - Schwabish, Jonathan
+T2  - Better presentations
+T3  - A guide for scholars, researchers, and wonks
+AB  - If you’ve followed the strategies presented so far, you now have a presentation that features less text, clean data visualizations designed to focus audience attention, and images intended to support your points and engage your viewers. With all of this in place, there is one final family of slides—what I call scaffolding slides—that will ensure your audience is able to follow your argument and understand your message. The purpose of scaffolding slides is to guide and focus your audience’s attention as you transition from one section to another, and to drive home important points. They act as scaffolding
+DA  - 2017///
+PY  - 2017
+SP  - 135
+EP  - 143
+PB  - Columbia University Press
+SN  - null
+UR  - http://www.jstor.org.proxycu.wrlc.org/stable/10.7312/schw17520.11
+ER  - 
+
+TY  - CHAP
+TI  - Type
+AU  - Schwabish, Jonathan
+T2  - Better presentations
+T3  - A guide for scholars, researchers, and wonks
+AB  - The principle of focus leads me to urge you to put less on your slides—less text, less clutter—all with the goal of helping you guide your audience’s attention to what is actually important. Text is another aspect of design that presenters don’t always consider, and yet it can make an enormous difference for your audience. When text is used, it should be used with purpose. As with color, the choices you make regarding the look of your text affect what your audience sees and their overall perception of your presentation. The importance of the design of your text
+DA  - 2017///
+PY  - 2017
+SP  - 51
+EP  - 61
+PB  - Columbia University Press
+SN  - null
+UR  - http://www.jstor.org.proxycu.wrlc.org/stable/10.7312/schw17520.7
+ER  - 
+
+TY  - CHAP
+TI  - Presenting
+AU  - Schwabish, Jonathan
+T2  - Better presentations
+T3  - A guide for scholars, researchers, and wonks
+AB  - You’ve made it this far. You’ve developed your content, constructed an outline, crafted your opening and closing statements, and chosen the overall look of the presentation. You’ve created slides that are light on text and heavy on data visualizations and images, and that will engage your audience with a message they will (hopefully) be persuaded by and act upon. Now that you’ve put in all this work, it’s time to actually give your presentation. Aside from your content and slides, your presence in front of your audience will help shape how they react to your message. You may have spent
+DA  - 2017///
+PY  - 2017
+SP  - 147
+EP  - 156
+PB  - Columbia University Press
+SN  - null
+UR  - http://www.jstor.org.proxycu.wrlc.org/stable/10.7312/schw17520.12
+ER  - 
+
+TY  - CHAP
+TI  - Time
+AU  - Schwabish, Jonathan
+T2  - Better data visualizations
+T3  - A guide for scholars, researchers, and wonks
+AB  - The graphs in this chapter show changes over time. Your readers will most likely be familiar with visuals like line, area, and stacked area charts. But others, like connected scatterplots and cycle charts, may need more labeling and annotation for the reader to navigate them successfully. Many of the visuals in this chapter are variations on the line or area chart. Some let us include more data on the page than usual, while others allow us to combine changes over time with some other view of the data. With horizon charts and streamgraphs, for example, we can include more data
+DA  - 2021///
+PY  - 2021
+SP  - 133
+EP  - 178
+PB  - Columbia University Press
+SN  - 978-0-231-19310-8
+UR  - http://www.jstor.org.proxycu.wrlc.org/stable/10.7312/schw19310.8
+ER  - 
+
+TY  - CHAP
+TI  - Relationship
+AU  - Schwabish, Jonathan
+T2  - Better data visualizations
+T3  - A guide for scholars, researchers, and wonks
+AB  - The charts in this chapter show relationships and correlations between two or more variables. Perhaps the most familiar chart type in this class is the scatterplot, a chart in which the data are encoded to a single horizontal and vertical axis. Other shapes and objects can also be used to visualize the relationship between two or more variables—a parallel coordinates plot uses lines, while a chord diagram uses arcs within a circle. These charts can show the reader correlations and even causal relationships. For this chapter, I use the color palette and font from a famous bubble chart created
+DA  - 2021///
+PY  - 2021
+SP  - 249
+EP  - 288
+PB  - Columbia University Press
+SN  - 978-0-231-19310-8
+UR  - http://www.jstor.org.proxycu.wrlc.org/stable/10.7312/schw19310.11
+ER  - 
+
+TY  - CHAP
+TI  - Distribution
+AU  - Schwabish, Jonathan
+T2  - Better data visualizations
+T3  - A guide for scholars, researchers, and wonks
+AB  - This chapter covers visualizations of data distributions and statistical uncertainties. These may be inherently difficult for many readers because they may not be as familiar with the statistical terminology or the graphs themselves, which may look quite different from the standard graphs they are used to seeing. Charts like the fan chart and the box-and-whisker plot show statistical measures like confidence intervals and percentiles. Violin plots, which depict entire distributions, may look so foreign that your reader will need detailed explanations to understand them. This doesn’t mean that these charts are inherently ¡em¿bad¡/em¿ at visualizing data—proper labeling and design
+DA  - 2021///
+PY  - 2021
+SP  - 179
+EP  - 216
+PB  - Columbia University Press
+SN  - 978-0-231-19310-8
+UR  - http://www.jstor.org.proxycu.wrlc.org/stable/10.7312/schw19310.9
+ER  - 
+
+TY  - CHAP
+TI  - Part-to-whole
+AU  - Schwabish, Jonathan
+T2  - Better data visualizations
+T3  - A guide for scholars, researchers, and wonks
+AB  - This class of charts shows how the shares of some amount relate to the total. The most popular and familiar graph in this class is the pie chart, which introduces a variety of perceptual challenges, as we’ll see. Other charts in this class like the treemap and sunburst have different perceptual issues and, as always, we must ask ourselves whether we must show ¡em¿all¡/em¿ of the components and how they sum to the total. Graphs in this chapter can also be used to visualize hierarchical data—data that can be grouped into layers where natural groups exist—which we have
+DA  - 2021///
+PY  - 2021
+SP  - 289
+EP  - 310
+PB  - Columbia University Press
+SN  - 978-0-231-19310-8
+UR  - http://www.jstor.org.proxycu.wrlc.org/stable/10.7312/schw19310.12
+ER  - 
+
+TY  - CHAP
+TI  - Visual processing and perceptual rankings
+AU  - Schwabish, Jonathan
+T2  - Better data visualizations
+T3  - A guide for scholars, researchers, and wonks
+AB  - Before we start creating our charts and graphs, we need to cover some basic theory of how the brain perceives visual stimuli. This will guide you as you decide what chart type is most appropriate to visualize your data. When we consider how to visualize our data, we must ask ourselves how accurately the reader can perceive the data values. Are some graphs better equipped to guide the reader to the specific difference between, say, 2 percent and 2.3 percent? If so, how should we think about those differences as we create our visualizations? There’s a thread of research in
+DA  - 2021///
+PY  - 2021
+SP  - 13
+EP  - 28
+PB  - Columbia University Press
+SN  - 978-0-231-19310-8
+UR  - http://www.jstor.org.proxycu.wrlc.org/stable/10.7312/schw19310.4
+ER  - 
+
+TY  - CHAP
+TI  - Form and function: Let your audience’s needs drive your data visualization choices
+AU  - Schwabish, Jonathan
+T2  - Better data visualizations
+T3  - A guide for scholars, researchers, and wonks
+AB  - The primary focus of this book is on static data visualizations. That is, those visualizations that are not interactive and do not move. But interactive and animated visualizations are becoming more common even in academic fields, and the tools to make interactive visuals are, year by year, becoming easier to use, cheaper (even free), and more powerful. Aside from the standard design decisions about color, layout, and font that apply to static visualizations, there is another set for interactive visualizations. Where will the button go? What will it look like? How will the user be guided to different parts of
+DA  - 2021///
+PY  - 2021
+SP  - 53
+EP  - 64
+PB  - Columbia University Press
+SN  - 978-0-231-19310-8
+UR  - http://www.jstor.org.proxycu.wrlc.org/stable/10.7312/schw19310.6
+ER  - 
+
+TY  - CHAP
+TI  - Five guidelines for better data visualizations
+AU  - Schwabish, Jonathan
+T2  - Better data visualizations
+T3  - A guide for scholars, researchers, and wonks
+AB  - Whenever I create a data visualization, whether it’s static, interactive, or part of a report or blog post or even a tweet, I follow five primary guidelines. 1. Show the data 2. Reduce the clutter 3. Integrate the graphics and text 4. Avoid the spaghetti chart 5. Start with gray Showing the data and reducing the clutter means reducing extraneous gridlines, markers, and shades that obscure the actual data. Active titles, better labels, and helpful annotations will integrate your chart with the text around it. When charts are dense with many data series, you can use color strategically to highlight series of interest or break
+DA  - 2021///
+PY  - 2021
+SP  - 29
+EP  - 52
+PB  - Columbia University Press
+SN  - 978-0-231-19310-8
+UR  - http://www.jstor.org.proxycu.wrlc.org/stable/10.7312/schw19310.5
+ER  - 
+
+TY  - JOUR
+TI  - Reproducible research for scientific computing: Tools and strategies for changing the culture
+AU  - R. J. LeVeque
+AU  - I. M. Mitchell
+AU  - V. Stodden
+T2  - Computing in Science & Engineering
+DA  - 2012/08//July
+PY  - 2012
+DO  - 10.1109/MCSE.2012.38
+VL  - 14
+IS  - 4
+SP  - 13
+EP  - 17
+J2  - Computing in Science & Engineering
+SN  - 1558-366X
+ER  - 
+
+TY  - ELEC
+TI  - Managing Open and Reproducible Computational Projects: What is special in data science project ?
+AU  - Sharan, Malvika
+AU  - Colomb, Julien
+DA  - 2023///
+PY  - 2023
+UR  - https://carpentries-incubator.github.io/managing-computational-projects/03-overview.html
+Y2  - 2023/04/13/14:23:25
+L2  - https://carpentries-incubator.github.io/managing-computational-projects/03-overview.html
+ER  - 
+
+TY  - COMP
+TI  - ggridges: Ridgeline Plots in 'ggplot2'
+AU  - Wilke, Claus O.
+DA  - 2022///
+PY  - 2022
+UR  - https://wilkelab.org/ggridges/
+N1  - R package version 0.5.4
+ER  - 
+
+TY  - COMP
+TI  - hms: Pretty time of day
+AU  - Müller, Kirill
+DA  - 2023///
+PY  - 2023
+UR  - https://hms.tidyverse.org/, https://github.com/tidyverse/hms
+N1  - https://hms.tidyverse.org/, https://github.com/tidyverse/hms
+ER  - 
+
+TY  - JOUR
+TI  - Dates and times made easy with lubridate
+AU  - Grolemund, Garrett
+AU  - Wickham, Hadley
+T2  - Journal of Statistical Software
+AB  - This paper presents the lubridate package for R, which facilitates working with dates and times. Date-times create various technical problems for the data analyst. The paper highlights these problems and offers practical advice on how to solve them using &lt;b&gt;lubridate&lt;/b&gt;. The paper also introduces a conceptual framework for arithmetic with date-times in R.
+DA  - 2011///
+PY  - 2011
+DO  - 10.18637/jss.v040.i03
+VL  - 40
+IS  - 3
+SP  - 1
+EP  - 25
+SN  - 1548-7660
+UR  - https://www.jstatsoft.org/index.php/jss/article/view/v040i03
+ER  - 
+
+TY  - JOUR
+TI  - Ten simple rules for reproducible computational research
+AU  - Sandve, Geir Kjetil
+AU  - Nekrutenko, Anton
+AU  - Taylor, James
+AU  - Hovig, Eivind
+T2  - PLOS Computational Biology
+DA  - 2013///
+PY  - 2013
+DO  - 10.1371/journal.pcbi.1003285
+VL  - 9
+IS  - 10
+SP  - e1003285
+SN  - 1553-7358 (Electronic) 1553-734X (Print) 1553-734X (Linking)
+UR  - https://doi.org/10.1371/journal.pcbi.1003285
+N1  - Sandve, Geir Kjetil Nekrutenko, Anton Taylor, James Hovig, Eivind eng HG005133/HG/NHGRI NIH HHS/ R01 HG004909/HG/NHGRI NIH HHS/ U41 HG006620/HG/NHGRI NIH HHS/ HG006620/HG/NHGRI NIH HHS/ HG004909/HG/NHGRI NIH HHS/ R21 HG005133/HG/NHGRI NIH HHS/ Research Support, N.I.H., Extramural Research Support, Non-U.S. Gov't Research Support, U.S. Gov't, Non-P.H.S. 2013/11/10 PLoS Comput Biol. 2013 Oct;9(10):e1003285. doi: 10.1371/journal.pcbi.1003285. Epub 2013 Oct 24.
+KW  - Biomedical Research/*standards Computational Biology/*standards *Reproducibility of Results
+ER  - 
+
+TY  - JOUR
+TI  - Reproducible research in computational science
+AU  - Peng, Roger D.
+T2  - Science (New York, N.Y.)
+AB  - Computational science has led to exciting new developments, but the nature of the work has exposed limitations in our ability to evaluate published findings. Reproducibility has the potential to serve as a minimum standard for judging scientific claims when full independent replication of a study is not possible.
+DA  - 2011///
+PY  - 2011
+DO  - doi:10.1126/science.1213847
+VL  - 334
+IS  - 6060
+SP  - 1226
+EP  - 1227
+J2  - Science
+SN  - 1095-9203 (Electronic) 0036-8075 (Print) 0036-8075 (Linking)
+UR  - https://www.science.org/doi/abs/10.1126/science.1213847
+N1  - Peng, Roger D eng R01 ES019560/ES/NIEHS NIH HHS/ 2011/12/07 Science. 2011 Dec 2;334(6060):1226-7. doi: 10.1126/science.1213847.
+KW  - Biomedical Research/*standards Biostatistics *Computational Biology *Computers Editorial Policies Publishing *Reproducibility of Results Research/*standards
+ER  - 
+
+TY  - CHAP
+TI  - Regression
+AU  - Lane, David M
+T2  - Introduction to Statistics
+DA  - 2007///
+PY  - 2007
+SP  - 462
+EP  - 496
+UR  - https://onlinestatbook.com/2/regression/regression.html
+ER  - 
+
+TY  - JOUR
+TI  - Imaging retinal activity in the living eye
+AU  - Hunter, Jennifer J.
+AU  - Merigan, William H.
+AU  - Schallek, Jesse B.
+T2  - Annual Review of Vision Science
+AB  - Retinal function has long been studied with psychophysical methods in humans, whereas detailed functional studies of vision have been conducted mostly in animals owing to the invasive nature of physiological approaches. There are exceptions to this generalization, for example, the electroretinogram. This review examines exciting recent advances using in vivo retinal imaging to understand the function of retinal neurons. In some cases, the methods have existed for years and are still being optimized. In others, new methods such as optophysiology are revealing novel patterns of retinal function in animal models that have the potential to change our understanding of the functional capacity of the retina. Together, the advances in retinal imaging mark an important milestone that shifts attention away from anatomy alone and begins to probe the function of healthy and diseased eyes.
+DA  - 2019///
+PY  - 2019
+DO  - 10.1146/annurev-vision-091517-034239
+VL  - 5
+IS  - 1
+SP  - 15
+EP  - 45
+SN  - 2374-4642
+UR  - https://doi.org/10.1146/annurev-vision-091517-034239
+N1  - doi: 10.1146/annurev-vision-091517-034239
+KW  - Animals Humans Ophthalmoscopy Optics and Photonics Retina/*diagnostic imaging/*physiology Retinal Neurons/*physiology Tomography
+KW  - Ocular/physiology adaptive optics calcium indicator functional imaging intrinsic signals neurovascular coupling optical coherence tomography
+KW  - Optical Coherence Vision
+ER  - 
+
+TY  - CHAP
+TI  - Visualizing trends
+AU  - Wilke, C.
+T2  - Fundamentals of data visualization: a primer on making informative and compelling figures
+CY  - Sebastopol, CA
+DA  - 2019///
+PY  - 2019
+ET  - First edition.
+SP  - 145
+EP  - 159
+PB  - O'Reilly Media
+SN  - 978-1-4920-3108-6 1-4920-3108-9
+KW  - Data Visualization.
+KW  - Information visualization.
+KW  - Visual analytics.
+KW  - Visualization Data processing.
+ER  - 
+
+TY  - CHAP
+TI  - Scales and Guides
+AU  - Pedersen, Hadley Wickham, Danielle Navarro, and Thomas Lin
+T2  - ggplot2: Elegant Graphics for Data Analysis
+AB  - The scales toolbox in Chapters 10 to 12 provides extensive guidance for how to work with scales, focusing on solving common data visualisation problems. The practical goals of the toolbox mean...
+DA  - 2022///
+PY  - 2022
+LA  - en
+UR  - https://ggplot2-book.org/scales-guides.html#scales-guides
+Y2  - 2023/02/27/18:54:01
+ER  - 
+
+TY  - JOUR
+TI  - R Markdown as a dynamic interface for teaching: Modules from math and biology classrooms
+AU  - Grayson, Kristine L.
+AU  - Hilliker, Angela K.
+AU  - Wares, Joanna R.
+T2  - Mathematical Biosciences
+AB  - Advancing technologies, including interactive tools, are changing classroom pedagogy across academia. Here, we discuss the R Markdown interface, which allows for the creation of partial or complete interactive classroom modules for courses using the R programming language. R Markdown files mix sections of R code with formatted text, including LaTeX, which are rendered together to form complete reports and documents. These features allow instructors to create classroom modules that guide students through concepts, while providing areas for coding and text response by students. Students can also learn to create their own reports for more independent assignments. After presenting the features and uses of R Markdown to enhance teaching and learning, we present examples of materials from two courses. In a Computational Modeling course for math students, we used R Markdown to guide students through exploring mathematical models to understand the principle of herd immunity. In a Data Visualization and Communication course for biology students, we used R Markdown for teaching the fundamentals of R programming and graphing, and for students to learn to create reproducible data investigations. Through these examples, we demonstrate the benefits of R Markdown as a dynamic teaching and learning tool.
+DA  - 2022/07/01/
+PY  - 2022
+DO  - 10.1016/j.mbs.2022.108844
+VL  - 349
+SP  - 108844
+J2  - Mathematical Biosciences
+SN  - 0025-5564
+UR  - https://www.sciencedirect.com/science/article/pii/S0025556422000499
+KW  - Data visualization
+KW  - Herd immunity
+KW  - Pedagogy
+KW  - R markdown
+KW  - Teaching programming
+ER  - 
+
+TY  - JOUR
+TI  - Color crafting: Automating the construction of designer quality color ramps
+AU  - Smart, S.
+AU  - Wu, K.
+AU  - Szafir, D. A.
+T2  - IEEE Transactions on Visualization and Computer Graphics
+AB  - Visualizations often encode numeric data using sequential and diverging color ramps. Effective ramps use colors that are sufficiently discriminable, align well with the data, and are aesthetically pleasing. Designers rely on years of experience to create high-quality color ramps. However, it is challenging for novice visualization developers that lack this experience to craft effective ramps as most guidelines for constructing ramps are loosely defined qualitative heuristics that are often difficult to apply. Our goal is to enable visualization developers to readily create effective color encodings using a single seed color. We do this using an algorithmic approach that models designer practices by analyzing patterns in the structure of designer-crafted color ramps. We construct these models from a corpus of 222 expert-designed color ramps, and use the results to automatically generate ramps that mimic designer practices. We evaluate our approach through an empirical study comparing the outputs of our approach with designer-crafted color ramps. Our models produce ramps that support accurate and aesthetically pleasing visualizations at least as well as designer ramps and that outperform conventional mathematical approaches.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1109/TVCG.2019.2934284
+VL  - 26
+IS  - 1
+SP  - 1215
+EP  - 1225
+SN  - 1941-0506
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/31425090
+N1  - Smart, Stephen Wu, Keke Szafir, Danielle Albers eng Research Support, U.S. Gov't, Non-P.H.S. 2019/08/20 IEEE Trans Vis Comput Graph. 2020 Jan;26(1):1215-1225. doi: 10.1109/TVCG.2019.2934284. Epub 2019 Aug 19.
+ER  - 
+
+TY  - CHAP
+TI  - Faceting
+AU  - Wickham, H.
+AU  - Navarro, Danielle
+AU  - Pedersen, Thomas Lin
+T2  - ggplot2: Elegant Graphics for Data Analysis
+DA  - 2022///
+PY  - 2022
+ET  - 3
+UR  - https://ggplot2-book.org/facet.html
+N1  - Chapter 17
+ER  - 
+
+TY  - CHAP
+TI  - Human Color Perception
+AU  - Boynton, Robert M.
+T2  - Science of Vision
+A2  - Leibovic, K. N.
+AB  - Common sense would suggest that the word color refers to the special quality that color photography, television, or printing adds to black-and-white, or colorless, versions of the same scene. However, in a technical sense the word “color” is also used to refer to variations in lightness, implying that color exists also in black-and-white reproductions. Wyszecki and Stiles’s (1982) Color Science (a massive, authoritative handbook concerned mainly with the physical basis of color vision) offers the following definition (p. 487):
+CY  - New York, NY
+DA  - 1990///
+PY  - 1990
+DO  - 10.1007/978-1-4612-3406-7_8
+SP  - 211
+EP  - 253
+PB  - Springer New York
+SN  - 978-1-4612-3406-7
+UR  - https://doi.org/10.1007/978-1-4612-3406-7_8
+ER  - 
+
+TY  - CHAP
+TI  - What We Can Easily See
+AU  - Ware, Colin
+T2  - Visual Thinking for Information Design
+DA  - 2021///
+PY  - 2021
+PB  - Morgan Kaufmann
+SN  - 978-0-12-823567-6
+ER  - 
+
+TY  - CHAP
+TI  - Visual Queries
+AU  - Ware, Colin
+T2  - Visual Thinking for Information Design
+DA  - 2021///
+PY  - 2021
+PB  - Morgan Kaufmann
+SN  - 978-0-12-823567-6
+ER  - 
+
+TY  - CHAP
+TI  - Low-Level Visual Processing: The Retina
+AU  - Kandel, Eric R. AU  - Koester, John AU  - Mack, Sarah AU  - Siegelbaum, Steven
+T2  - Principles of neural science
+CN  - QP355.2 .P76 2021
+CY  - New York
+DA  - 2021///
+PY  - 2021
+ET  - Sixth edition.
+PB  - McGraw Hill
+SN  - 978-1-259-64223-4
+AN  - 21837462
+N1  - <p>2020951979<br/>edited by Eric R. Kandel, John D. Koester, Sarah H. Mack, Steven A. Siegelbaum.<br/>color illustrations ; 29 cm<br/>Includes bibliographical references and index.</p>
+KW  - Neurology.
+KW  - Neurons.
+ER  - 
+
+TY  - BOOK
+TI  - Principles of neural science
+AU  - Kandel, Eric R. AU  - Koester, John AU  - Mack, Sarah AU  - Siegelbaum, Steven
+AB  - "As in previous editions, the goal of this sixth edition of Principles of Neural Science is to provide readers with insight into how genes, molecules, neurons and the circuits they form give rise to mind"--
+CN  - QP355.2 .P76 2021
+CY  - New York
+DA  - 2021///
+PY  - 2021
+ET  - Sixth edition.
+SP  - l, 1646 pages
+PB  - McGraw Hill
+SN  - 978-1-259-64223-4
+AN  - 21837462
+N1  - <p>2020951979<br/>edited by Eric R. Kandel, John D. Koester, Sarah H. Mack, Steven A. Siegelbaum.<br/>color illustrations ; 29 cm<br/>Includes bibliographical references and index.</p>
+KW  - Neurology.
+KW  - Neurons.
+ER  - 
+
+TY  - CHAP
+TI  - The Constructive Nature of Visual Processing
+AU  - Kandel, Eric R. AU  - Koester, John AU  - Mack, Sarah AU  - Siegelbaum, Steven
+T2  - Principles of neural science
+CN  - QP355.2 .P76 2021
+CY  - New York
+DA  - 2021///
+PY  - 2021
+ET  - Sixth edition.
+PB  - McGraw Hill
+SN  - 978-1-259-64223-4
+AN  - 21837462
+N1  - <p>2020951979<br/>edited by Eric R. Kandel, John D. Koester, Sarah H. Mack, Steven A. Siegelbaum.<br/>color illustrations ; 29 cm<br/>Includes bibliographical references and index.</p>
+KW  - Neurology.
+KW  - Neurons.
+ER  - 
+
+TY  - BOOK
+TI  - Semiology of graphics: diagrams, networks, maps
+AU  - Bertin, Jacques
+CY  - Madison, Wis, London
+DA  - 1983///
+PY  - 1983
+DP  - The Open Library
+SP  - xi,415
+LA  - eng
+PB  - University of Wisconsin Press
+SN  - 978-0-299-09060-9
+ST  - Semiology of graphics
+KW  - Cartography.
+KW  - Graphic methods.
+ER  - 
+
+TY  - ELEC
+TI  - Relationships
+AU  - Heiss, Andrew
+T2  - Data Visualization
+AB  - Readings   Chapter 9 in Alberto Cairo, The Truthful Art1  Chapter 12 in Claus Wilke, Fundamentals of Data Visualization2  Kieran Healy, “Two y-axes”  Two Alternatives to Using a Second Y-Axis & Illusion of success & Dissecting two axes  Dual-Scaled Axes in Graphs: Are They Ever the Best Solution?
+DA  - 2021/06/28/T00:00:00+00:00
+PY  - 2021
+LA  - en-us
+UR  - https://datavizs21.classes.andrewheiss.com/content/07-content/
+Y2  - 2022/11/19/21:07:07
+L2  - https://datavizs21.classes.andrewheiss.com/content/07-content/#slides
+ER  - 
+
+TY  - CHAP
+TI  - Why: Task Abstraction
+AU  - Munzner, Tamara
+T2  - Visualization analysis and design
+CN  - QA76.9.I52 M86 2015
+CY  - Boca Raton
+DA  - 2014///
+PY  - 2014
+SP  - 42
+EP  - 64
+PB  - CRC Press, Taylor & Francis Group
+SN  - 9781466508910 (Pack - Book and Ebook acid-free paper)
+AN  - 18165423
+N1  - <p>2014020715<br/>Tamara Munzner, Department of Computer Science, University of British Columbia.<br/>25 cm<br/>"An A K Peters Book."<br/>Includes bibliographical references (pages 373-395) and indexes.</p>
+KW  - Information visualization.
+ER  - 
+
+TY  - CHAP
+TI  - Marks and Channels
+AU  - Munzner, Tamara
+T2  - Visualization analysis and design
+CN  - QA76.9.I52 M86 2015
+CY  - Boca Raton
+DA  - 2014///
+PY  - 2014
+SP  - 95
+EP  - 115
+PB  - CRC Press, Taylor & Francis Group
+SN  - 9781466508910 (Pack - Book and Ebook acid-free paper)
+AN  - 18165423
+N1  - <p>2014020715<br/>Tamara Munzner, Department of Computer Science, University of British Columbia.<br/>25 cm<br/>"An A K Peters Book."<br/>Includes bibliographical references (pages 373-395) and indexes.</p>
+KW  - Information visualization.
+ER  - 
+
+TY  - JOUR
+TI  - Data Organization in Spreadsheets
+AU  - Broman, Karl W.
+AU  - Woo, Kara H.
+T2  - The American Statistician
+AB  - ABSTRACTSpreadsheets are widely used software tools for data entry, storage, analysis, and visualization. Focusing on the data entry and storage aspects, this article offers practical recommendations for organizing spreadsheet data to reduce errors and ease later analyses. The basic principles are: be consistent, write dates like YYYY-MM-DD, do not leave any cells empty, put just one thing in a cell, organize the data as a single rectangle (with subjects as rows and variables as columns, and with a single header row), create a data dictionary, do not include calculations in the raw data files, do not use font color or highlighting as data, choose good names for things, make backups, use data validation to avoid data entry errors, and save the data in plain text files.
+DA  - 2018/01/02/
+PY  - 2018
+DO  - 10.1080/00031305.2017.1375989
+VL  - 72
+IS  - 1
+SP  - 2
+EP  - 10
+SN  - 0003-1305
+UR  - https://doi.org/10.1080/00031305.2017.1375989 https://www.tandfonline.com/doi/pdf/10.1080/00031305.2017.1375989?needAccess=true
+ER  - 
+
+TY  - JOUR
+TI  - Guided Search 2.0 A revised model of visual search
+AU  - Wolfe, Jeremy M.
+T2  - Psychonomic Bulletin & Review
+DA  - 1994///
+PY  - 1994
+DO  - 10.3758/bf03200774
+VL  - 1
+IS  - 2
+SP  - 202
+EP  - 238
+SN  - 1069-9384
+UR  - https://dx.doi.org/10.3758/bf03200774
+ER  - 
+
+TY  - JOUR
+TI  - The role of categorization in visual search for orientation
+AU  - Wolfe, Jeremy M.
+AU  - Friedman-Hill, Stacia R.
+AU  - Stewart, Marion I.
+AU  - O'Connell, Kathleen M.
+T2  - Journal of Experimental Psychology: Human Perception and Performance
+DA  - 1992///
+PY  - 1992
+DO  - 10.1037/0096-1523.18.1.34
+VL  - 18
+IS  - 1
+SP  - 34
+EP  - 49
+SN  - 1939-1277
+UR  - https://dx.doi.org/10.1037/0096-1523.18.1.34
+ER  - 
+
+TY  - JOUR
+TI  - Visual search in scenes involves selective and nonselective pathways
+AU  - Wolfe, Jeremy M.
+AU  - Võ, Melissa L. H.
+AU  - Evans, Karla K.
+AU  - Greene, Michelle R.
+T2  - Trends in Cognitive Sciences
+DA  - 2011///
+PY  - 2011
+DO  - 10.1016/j.tics.2010.12.001
+VL  - 15
+IS  - 2
+SP  - 77
+EP  - 84
+SN  - 1364-6613
+UR  - https://dx.doi.org/10.1016/j.tics.2010.12.001
+ER  - 
+
+TY  - CHAP
+TI  - Map Color and Other Channels
+AU  - Munzner, Tamara
+T2  - Visualization analysis and design
+CN  - QA76.9.I52 M86 2015
+CY  - Boca Raton
+DA  - 2014///
+PY  - 2014
+SP  - 218
+EP  - 241
+PB  - CRC Press, Taylor & Francis Group
+SN  - 9781466508910 (Pack - Book and Ebook acid-free paper)
+AN  - 18165423
+N1  - <p>2014020715<br/>Tamara Munzner, Department of Computer Science, University of British Columbia.<br/>25 cm<br/>"An A K Peters Book."<br/>Includes bibliographical references (pages 373-395) and indexes.</p>
+KW  - Information visualization.
+ER  - 
+
+TY  - CHAP
+TI  - What is Color?
+AU  - Feisner, Edith Anderson
+AU  - Reed, Ron
+T2  - Color studies
+CY  - New York
+DA  - 2014///
+PY  - 2014
+ET  - Third edition /
+SP  - xvi,
+EP  - 279 pages
+PB  - Fairchild Books
+SN  - 9781609015312 (paperback)
+KW  - Color in art.
+KW  - Color.
+ER  - 
+
+TY  - CHAP
+TI  - Visualizing time series and other functions of an independent variable
+AU  - Wilke, C.
+T2  - Fundamentals of data visualization: a primer on making informative and compelling figures
+CY  - Sebastopol, CA
+DA  - 2019///
+PY  - 2019
+ET  - First edition.
+SP  - 131
+EP  - 144
+PB  - O'Reilly Media
+SN  - 978-1-4920-3108-6 1-4920-3108-9
+KW  - Data Visualization.
+KW  - Information visualization.
+KW  - Visual analytics.
+KW  - Visualization Data processing.
+ER  - 
+
+TY  - CHAP
+TI  - Visualizing distributions: Histograms and density plots
+AU  - Wilke, C.
+T2  - Fundamentals of data visualization: a primer on making informative and compelling figures
+CY  - Sebastopol, CA
+DA  - 2019///
+PY  - 2019
+ET  - First edition.
+SP  - 59
+EP  - 79
+PB  - O'Reilly Media
+SN  - 978-1-4920-3108-6 1-4920-3108-9
+KW  - Data Visualization.
+KW  - Information visualization.
+KW  - Visual analytics.
+KW  - Visualization Data processing.
+ER  - 
+
+TY  - CHAP
+TI  - Visualizing geospatial data
+AU  - Wilke, C.
+T2  - Fundamentals of data visualization: a primer on making informative and compelling figures
+CY  - Sebastopol, CA
+DA  - 2019///
+PY  - 2019
+ET  - First edition.
+SP  - 161
+EP  - 180
+PB  - O'Reilly Media
+SN  - 978-1-4920-3108-6 1-4920-3108-9
+KW  - Data Visualization.
+KW  - Information visualization.
+KW  - Visual analytics.
+KW  - Visualization Data processing.
+ER  - 
+
+TY  - CHAP
+TI  - Visualizing distributions: Empirical cumulative distribution functions and q-q plots
+AU  - Wilke, C.
+T2  - Fundamentals of data visualization: a primer on making informative and compelling figures
+CY  - Sebastopol, CA
+DA  - 2019///
+PY  - 2019
+ET  - First edition.
+SP  - 71
+EP  - 80
+PB  - O'Reilly Media
+SN  - 978-1-4920-3108-6 1-4920-3108-9
+KW  - Data Visualization.
+KW  - Information visualization.
+KW  - Visual analytics.
+KW  - Visualization Data processing.
+ER  - 
+
+TY  - CHAP
+TI  - Use Larger Axis Labels
+AU  - Wilke, C.
+T2  - Fundamentals of data visualization: a primer on making informative and compelling figures
+CY  - Sebastopol, CA
+DA  - 2019///
+PY  - 2019
+ET  - First edition.
+SP  - 291
+EP  - 296
+PB  - O'Reilly Media
+SN  - 978-1-4920-3108-6 1-4920-3108-9
+KW  - Data Visualization.
+KW  - Information visualization.
+KW  - Visual analytics.
+KW  - Visualization Data processing.
+ER  - 
+
+TY  - CHAP
+TI  - Visualizing data: Mapping data onto aesthetics
+AU  - Wilke, C.
+T2  - Fundamentals of data visualization: a primer on making informative and compelling figures
+CY  - Sebastopol, CA
+DA  - 2019///
+PY  - 2019
+ET  - First edition.
+SP  - 7
+EP  - 12
+PB  - O'Reilly Media
+SN  - 978-1-4920-3108-6 1-4920-3108-9
+KW  - Data Visualization.
+KW  - Information visualization.
+KW  - Visual analytics.
+KW  - Visualization Data processing.
+ER  - 
+
+TY  - CHAP
+TI  - Visualizing Nested Proportions
+AU  - Wilke, C.
+T2  - Fundamentals of data visualization: a primer on making informative and compelling figures
+CY  - Sebastopol, CA
+DA  - 2019///
+PY  - 2019
+ET  - First edition.
+SP  - 105
+EP  - 116
+PB  - O'Reilly Media
+SN  - 978-1-4920-3108-6 1-4920-3108-9
+KW  - Data Visualization.
+KW  - Information visualization.
+KW  - Visual analytics.
+KW  - Visualization Data processing.
+ER  - 
+
+TY  - CHAP
+TI  - Visualizing associations among two or more quantitative variables
+AU  - Wilke, C.
+T2  - Fundamentals of data visualization: a primer on making informative and compelling figures
+CY  - Sebastopol, CA
+DA  - 2019///
+PY  - 2019
+ET  - First edition.
+SP  - 117
+EP  - 130
+PB  - O'Reilly Media
+SN  - 978-1-4920-3108-6 1-4920-3108-9
+KW  - Data Visualization.
+KW  - Information visualization.
+KW  - Visual analytics.
+KW  - Visualization Data processing.
+ER  - 
+
+TY  - CHAP
+TI  - Titles, captions, and tables
+AU  - Wilke, C.
+T2  - Fundamentals of data visualization: a primer on making informative and compelling figures
+CY  - Sebastopol, CA
+DA  - 2019///
+PY  - 2019
+ET  - First edition.
+SP  - 267
+EP  - 276
+PB  - O'Reilly Media
+SN  - 978-1-4920-3108-6 1-4920-3108-9
+KW  - Data Visualization.
+KW  - Information visualization.
+KW  - Visual analytics.
+KW  - Visualization Data processing.
+ER  - 
+
+TY  - CHAP
+TI  - Visualizing many distributions at once
+AU  - Wilke, C.
+T2  - Fundamentals of data visualization: a primer on making informative and compelling figures
+CY  - Sebastopol, CA
+DA  - 2019///
+PY  - 2019
+ET  - First edition.
+SP  - 81
+EP  - 92
+PB  - O'Reilly Media
+SN  - 978-1-4920-3108-6 1-4920-3108-9
+KW  - Data Visualization.
+KW  - Information visualization.
+KW  - Visual analytics.
+KW  - Visualization Data processing.
+ER  - 
+
+TY  - CHAP
+TI  - Visualizing Proportions
+AU  - Wilke, C.
+T2  - Fundamentals of data visualization: a primer on making informative and compelling figures
+CY  - Sebastopol, CA
+DA  - 2019///
+PY  - 2019
+ET  - First edition.
+SP  - 93
+EP  - 104
+PB  - O'Reilly Media
+SN  - 978-1-4920-3108-6 1-4920-3108-9
+KW  - Data Visualization.
+KW  - Information visualization.
+KW  - Visual analytics.
+KW  - Visualization Data processing.
+ER  - 
+
+TY  - BOOK
+TI  - Fundamentals of data visualization: a primer on making informative and compelling figures
+AU  - Wilke, C.
+CY  - Sebastopol, CA
+DA  - 2019///
+PY  - 2019
+ET  - First edition.
+PB  - O'Reilly Media,
+SN  - 978-1-4920-3108-6 1-4920-3108-9
+KW  - Data Visualization.
+KW  - Information visualization.
+KW  - Visual analytics.
+KW  - Visualization Data processing.
+KW  - Datenverarbeitung
+KW  - Handbooks and manuals.
+KW  - Informationsgrafik
+KW  - Visualisierung
+ER  - 
+
+TY  - CHAP
+TI  - The Principle of Proportional Ink
+AU  - Wilke, C.
+T2  - Fundamentals of data visualization: a primer on making informative and compelling figures
+CY  - Sebastopol, CA
+DA  - 2019///
+PY  - 2019
+ET  - First edition.
+SP  - 207
+EP  - 218
+PB  - O'Reilly Media
+SN  - 978-1-4920-3108-6 1-4920-3108-9
+KW  - Data Visualization.
+KW  - Information visualization.
+KW  - Visual analytics.
+KW  - Visualization Data processing.
+ER  - 
+
+TY  - CHAP
+TI  - Visualizing Amounts
+AU  - Wilke, C.
+T2  - Fundamentals of data visualization: a primer on making informative and compelling figures
+CY  - Sebastopol, CA
+DA  - 2019///
+PY  - 2019
+ET  - First edition.
+SP  - 45
+EP  - 58
+PB  - O'Reilly Media
+SN  - 978-1-4920-3108-6 1-4920-3108-9
+KW  - Data Visualization.
+KW  - Information visualization.
+KW  - Visual analytics.
+KW  - Visualization Data processing.
+ER  - 
+
+TY  - JOUR
+TI  - What attributes guide the deployment of visual attention and how do they do it?
+AU  - Wolfe, Jeremy M.
+AU  - Horowitz, Todd S.
+T2  - Nature Reviews Neuroscience
+AB  - As you drive into the centre of town, cars and trucks approach from several directions, and pedestrians swarm into the intersection. The wind blows a newspaper into the gutter and a pigeon does something unexpected on your windshield. This would be a demanding and stressful situation, but you would probably make it to the other side of town without mishap. Why is this situation taxing, and how do you cope?
+DA  - 2004/06/01/
+PY  - 2004
+DO  - 10.1038/nrn1411
+VL  - 5
+IS  - 6
+SP  - 495
+EP  - 501
+SN  - 1471-0048
+UR  - https://doi.org/10.1038/nrn1411
+AN  - 15152199
+N1  - <p>Wolfe, Jeremy M<br/>Horowitz, Todd S<br/>eng<br/>Review<br/>England<br/>Nat Rev Neurosci. 2004 Jun;5(6):495-501. doi: 10.1038/nrn1411.</p>
+KW  - Humans
+KW  - Animals
+KW  - Attention/*physiology
+KW  - Brain/*physiology
+KW  - Cues
+KW  - Pattern Recognition, Visual/physiology
+KW  - Psychomotor Performance/*physiology
+KW  - Visual Perception/*physiology
+ER  - 
+
+TY  - JOUR
+TI  - Color Channels, Not Color Appearance or Color Categories, Guide Visual Search for Desaturated Color Targets
+AU  - Lindsey, Delwin T.
+AU  - Brown, Angela M.
+AU  - Reijnen, Ester
+AU  - Rich, Anina N.
+AU  - Kuzmova, Yoana I.
+AU  - Wolfe, Jeremy M.
+T2  - Psychological Science
+AB  - In this article, we report that in visual search, desaturated reddish targets are much easier to find than other desaturated
+targets, even when perceptual differences between targets and distractors are carefully equated. Observers searched for
+desaturated targets among mixtures of white and saturated distractors. Reaction times were hundreds of milliseconds faster
+for the most effective (reddish) targets than for the least effective (purplish) targets. The advantage for desaturated reds did
+not reflect an advantage for the lexical category “pink,” because reaction times did not follow named color categories. Many
+pink stimuli were not found quickly, and many quickly found stimuli were not labeled “pink.” Other possible explanations (e.g.,
+linear-separability effects) also failed. Instead, we propose that guidance of visual search for desaturated colors is based on a
+combination of low-level color-opponent signals that is different from the combinations that produce perceived color. We
+speculate that this guidance might reflect a specialization for human skin.
+DA  - 2010///
+PY  - 2010
+DO  - 10.1177/0956797610379861
+VL  - 21
+IS  - 9
+SP  - 1208
+EP  - 1214
+SN  - 0956-7976
+UR  - https://dx.doi.org/10.1177/0956797610379861
+ER  - 
+
+TY  - JOUR
+TI  - Part-whole information is useful in visual search for size x size but not orientation x orientation conjunctions
+AU  - Bilsky, A. B.
+AU  - Wolfe, J. M.
+T2  - Percept Psychophys
+AB  - In visual search tasks, subjects look for a target among a variable number of distractor items. If the target is defined by a conjunction of two different features (e.g., color x orientation), efficient search is possible when parallel processing of information about orientation is used to guide the deployment of attention to the target. Another type of conjunction search has targets defined by two instances of one type of feature (e.g., a conjunction of two colors). In this case, search is inefficient when the target is an item defined by parts of two different colors but much more efficient if the target can be described as a whole item of one color with a park of another color (Wolfe, Friedman-Hill, & Bilsky, 1994). In this paper, we show that the same distinction holds for size. "Part-whole" size x size conjunction searches are efficient; "part-part" searches are not (Experiments 1-3). In contrast, all orientation x orientation searches are inefficient (Experiments 4-6). This difference between preattentive processing of color and size, on the one hand, and orientation, on the other, may reflect structural relationships between features in real-world objects.
+DA  - 1995/08//undefined
+PY  - 1995
+DO  - 10.3758/bf03206791
+VL  - 57
+IS  - 6
+SP  - 749
+EP  - 60
+SN  - 0031-5117 (Print) 0031-5117 (Linking)
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/7651800
+AN  - 7651800
+N1  - <p>Bilsky, A B<br/>Wolfe, J M<br/>eng<br/>R01-EY05087/EY/NEI NIH HHS/<br/>Research Support, U.S. Gov't, Non-P.H.S.<br/>Research Support, U.S. Gov't, P.H.S.<br/>Percept Psychophys. 1995 Aug;57(6):749-60. doi: 10.3758/bf03206791.</p>
+KW  - Humans
+KW  - Attention
+KW  - Reaction Time
+KW  - Adult
+KW  - Color Perception
+KW  - *Visual Perception
+KW  - Adolescent
+ER  - 
+
+TY  - CHAP
+TI  - Reduce Items and Attributes
+AU  - Munzner, Tamara
+T2  - Visualization analysis and design
+CN  - QA76.9.I52 M86 2015
+CY  - Boca Raton
+DA  - 2014///
+PY  - 2014
+SP  - 299
+EP  - 321
+PB  - CRC Press, Taylor & Francis Group
+SN  - 9781466508910 (Pack - Book and Ebook acid-free paper)
+AN  - 18165423
+N1  - <p>2014020715<br/>Tamara Munzner, Department of Computer Science, University of British Columbia.<br/>25 cm<br/>"An A K Peters Book."<br/>Includes bibliographical references (pages 373-395) and indexes.</p>
+KW  - Information visualization.
+ER  - 
+
+TY  - JOUR
+TI  - Escaping RGBland: Selecting colors for statistical graphics
+AU  - Zeileis, Achim
+AU  - Hornik, Kurt
+AU  - Murrell, Paul
+T2  - Computational Statistics & Data Analysis
+DA  - 2009///
+PY  - 2009
+DO  - 10.1016/j.csda.2008.11.033
+VL  - 53
+IS  - 9
+SP  - 3259
+EP  - 3270
+SN  - 0167-9473
+UR  - https://dx.doi.org/10.1016/j.csda.2008.11.033
+ER  - 
+
+TY  - CHAP
+TI  - Arrange Networks and Trees
+AU  - Munzner, Tamara
+T2  - Visualization analysis and design
+CN  - QA76.9.I52 M86 2015
+CY  - Boca Raton
+DA  - 2014///
+PY  - 2014
+SP  - 200
+EP  - 217
+PB  - CRC Press, Taylor & Francis Group
+SN  - 9781466508910 (Pack - Book and Ebook acid-free paper)
+AN  - 18165423
+N1  - <p>2014020715<br/>Tamara Munzner, Department of Computer Science, University of British Columbia.<br/>25 cm<br/>"An A K Peters Book."<br/>Includes bibliographical references (pages 373-395) and indexes.</p>
+KW  - Information visualization.
+ER  - 
+
+TY  - CHAP
+TI  - Rules of Thumb
+AU  - Munzner, Tamara
+T2  - Visualization analysis and design
+CN  - QA76.9.I52 M86 2015
+CY  - Boca Raton
+DA  - 2014///
+PY  - 2014
+SP  - 117
+EP  - 141
+PB  - CRC Press, Taylor & Francis Group
+SN  - 9781466508910 (Pack - Book and Ebook acid-free paper)
+AN  - 18165423
+N1  - <p>2014020715<br/>Tamara Munzner, Department of Computer Science, University of British Columbia.<br/>25 cm<br/>"An A K Peters Book."<br/>Includes bibliographical references (pages 373-395) and indexes.</p>
+KW  - Information visualization.
+ER  - 
+
+TY  - CHAP
+TI  - Arrange Spatial Data
+AU  - Munzner, Tamara
+T2  - Visualization analysis and design
+CN  - QA76.9.I52 M86 2015
+CY  - Boca Raton
+DA  - 2014///
+PY  - 2014
+SP  - 178
+EP  - 197
+PB  - CRC Press, Taylor & Francis Group
+SN  - 9781466508910 (Pack - Book and Ebook acid-free paper)
+AN  - 18165423
+N1  - <p>2014020715<br/>Tamara Munzner, Department of Computer Science, University of British Columbia.<br/>25 cm<br/>"An A K Peters Book."<br/>Includes bibliographical references (pages 373-395) and indexes.</p>
+KW  - Information visualization.
+ER  - 
+
+TY  - BLOG
+TI  - The Graphic Continuum
+AU  - Schwabish, Jonathan A.
+T2  - Scribblelive
+AB  - Jon Schwabish and Severino Ribecca recently released a poster taxonomy of different types of charts, and how they all relate to each other. We think this is a great resource for designers everywhere, so we were especially interested in their take on the project. The Graphic Continuum began as I Read more...
+DA  - April 1
+PY  - April 1
+UR  - http://www.scribblelive.com/blog/2014/10/01/graphic-continuum/
+ER  - 
+
+TY  - BOOK
+TI  - Better presentations : a guide for scholars, researchers, and wonks
+AU  - Schwabish, Jonathan A.
+CN  - HF5718.22 .S349 2017
+CY  - New York City
+DA  - 2017///
+PY  - 2017
+SP  - xii,177 pages
+PB  - Columbia University Press
+SN  - 9780231175203 (cloth alk. paper) 9780231175210 (pbk. alk. paper)
+AN  - 19064828
+N1  - <p>2016008168<br/>Jonathan Schwabish.<br/>24 cm<br/>Includes bibliographical references (pages 173-177) and index.</p>
+KW  - Business presentations.
+ER  - 
+
+TY  - BOOK
+TI  - Better data visualizations : a guide for scholars, researchers, and wonks
+AU  - Schwabish, Jonathan A.
+AB  - "Now more than ever, content must be visual if it is to travel far. Readers everywhere are overwhelmed with a flow of data, news, and text. Visuals can cut through the noise and make it easier for readers to recognize and recall information. Yet many researchers were never taught how to present their work visually. This book details essential strategies to create more effective data visualizations. Jonathan Schwabish walks readers through the steps of creating better graphs and how to move beyond simple line, bar, and pie charts. Through more than five hundred examples, he demonstrates the do's and don'ts of data visualization, the principles of visual perception, and how to make subjective style decisions around a chart's design. Schwabish surveys more than eighty visualization types, from histograms to horizon charts, ridgeline plots to choropleth maps, and explains how each has its place in the visual toolkit. It might seem intimidating, but everyone can learn how to create compelling, effective data visualizations. This book will guide you as you define your audience and goals, choose the graph that best fits for your data, and clearly communicate your message"--
+CN  - QA76.9.I52 S393 2021
+CY  - New York
+DA  - 2021///
+PY  - 2021
+SP  - pages cm
+PB  - Columbia University Press
+SN  - 978-0-231-19310-8 978-0-231-19311-5
+AN  - 21594143
+N1  - <p>2020017814<br/>Jonathan Schwabish.<br/>Includes bibliographical references and index.<br/>Introduction: How I learned to visualize my data -- Visual processing and perceptual rankings -- Five guidelines for better data visualization -- Form and function -- Comparing categories -- Time -- Distribution -- Geospatial -- Relationship -- Part-to-whole -- Qualitative -- Tables -- Developing a data visualization style guide -- Redesigns.</p>
+KW  - Information visualization.
+KW  - Visual analytics.
+ER  - 
+
+TY  - JOUR
+TI  - Potential catastrophic water outflow from Lake Dian, China: Possible hydrological and ecological risks
+AU  - Wu, Han
+AU  - Zhang, Hucai
+AU  - Zhang, Xiaonan
+AU  - Peng, Wei
+AU  - Liu, Qi
+AU  - Liu, Fengwen
+AU  - Zhang, Yun
+AU  - Duan, Lizeng
+T2  - CATENA
+AB  - Lake Dian, the largest lake on South China’s Yunnan-Guizhou Plateau, exhibits two abnormal funnel-like features in the deepest part of the lake. Nevertheless, how and when these funnels formed and their implications and potential environmental and ecological effects remain unclear. To address these questions, we carried out a detailed multi-method survey including underwater topographic monitoring, extraction of sediment records, and geophysical exploration across the funnel areas. Sediment records revealed a significant sedimentation hiatus around these features. For example, sediments with thicknesses of ca. 69.24 cm and 83.56 cm in cores D4 and D6 were eroded based on the calculated of sedimentation rates. Deformed sedimentary structures and a hiatus, together with large-scale funnel-shaped topography, prove that underlying karst collapse may trigger massive water outflow through these funnels, which could result in an erosional hiatus in the local lakebed. Continuous clay deposits in the upper part of the sedimentary column suggest that water leakage may have ceased since the 1930s. However, bathymetric surveys conducted in October 2015 and September 2019 indicated that the maximum lake depth increased by 0.97 m and 0.2 m in the large and small funnels, respectively, over this 4-year period. The corresponding increased volumes were 1520 m3 and 375 m3 in the large and small funnels, respectively. Numerous pits were distributed around the funnels. Cumulatively, these underwater topographic changes reveal that small-scale, slow water leakage has been developing, which could potentially trigger catastrophic water discharge due to increasing hydraulic pressure and/or underlying karstification. If catastrophic water outflow occurs, ~14.05 × 108 m3 of highly polluted water would not only contaminate the upper reaches of the large river and/or the lake itself, but would also endanger regional water security and induce widespread negative ecological impacts.
+DA  - 2021/12/01/
+PY  - 2021
+DO  - 10.1016/j.catena.2021.105589
+VL  - 207
+SP  - 105589
+SN  - 0341-8162
+UR  - https://www.sciencedirect.com/science/article/pii/S0341816221004471
+KW  - Catastrophic water discharge
+KW  - Karst collapse
+KW  - Lake Dian
+KW  - Sedimentary hiatus
+KW  - Water security
+ER  - 
+
+TY  - JOUR
+TI  - ColorBrewer.org: An online tool for selecting colour schemes for maps
+AU  - Harrower, M.
+AU  - Brewer, C. A.
+T2  - Cartographic Journal
+AB  - Choosing effective colour schemes for thematic maps is surprisingly difficult. Color Brewer is an online tool designed to take some of the guesswork out of this process by helping users select appropriate colour schemes for their specific mapping needs by considering: the number of data classes; the nature of their data (matched with sequential, diverging and qualitative schemes): and the end-use environment for the map (e.g., CRT, LCD, printed, projected, photocopied). ColorBrewer contains 'learn more' tutorials to help guide users, prompts them to test-drive colour schemes as both map and legend, and provides output in five colour specification systems.
+DA  - 2003///
+PY  - 2003
+DO  - 10.1179/000870403235002042
+VL  - 40
+IS  - 1
+SP  - 27
+EP  - 37
+J2  - Cartogr. J.
+LA  - English
+SN  - 00087041 (ISSN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0041813144&doi=10.1179%2f000870403235002042&partnerID=40&md5=367332d3b1835339bee32d7f026f8c14 https://www.tandfonline.com/doi/abs/10.1179/000870403235002042
+DB  - Scopus
+N1  - <p>Cited By :504<br/>Export Date: 17 August 2019<br/>Correspondence Address: Harrower, M.; Department of Geography, University of Wisconsin-Madison, 550 North Park Street, Madison, WI 53706, United States; email: maharrower@wisc.edu</p>
+KW  - software
+KW  - color
+KW  - cartography
+KW  - mapping
+KW  - thematic mapping
+ER  - 
+
+TY  - CHAP
+TI  - What: Data Abstraction
+AU  - Munzner, Tamara
+T2  - Visualization analysis and design
+CN  - QA76.9.I52 M86 2015
+CY  - Boca Raton
+DA  - 2014///
+PY  - 2014
+SP  - 20
+EP  - 40
+PB  - CRC Press, Taylor & Francis Group
+SN  - 9781466508910 (Pack - Book and Ebook acid-free paper)
+AN  - 18165423
+N1  - <p>2014020715<br/>Tamara Munzner, Department of Computer Science, University of British Columbia.<br/>25 cm<br/>"An A K Peters Book."<br/>Includes bibliographical references (pages 373-395) and indexes.</p>
+KW  - Information visualization.
+ER  - 
+
+TY  - CHAP
+TI  - Arrange Tables
+AU  - Munzner, Tamara
+T2  - Visualization analysis and design
+CN  - QA76.9.I52 M86 2015
+CY  - Boca Raton
+DA  - 2014///
+PY  - 2014
+SP  - 145
+EP  - 176
+PB  - CRC Press, Taylor & Francis Group
+SN  - 9781466508910 (Pack - Book and Ebook acid-free paper)
+AN  - 18165423
+N1  - <p>2014020715<br/>Tamara Munzner, Department of Computer Science, University of British Columbia.<br/>25 cm<br/>"An A K Peters Book."<br/>Includes bibliographical references (pages 373-395) and indexes.</p>
+KW  - Information visualization.
+ER  - 
+
+TY  - BOOK
+TI  - Visualization analysis and design
+AU  - Munzner, Tamara
+CN  - QA76.9.I52 M86 2015
+CY  - Boca Raton
+DA  - 2014///
+PY  - 2014
+PB  - CRC Press, Taylor & Francis Group
+SN  - 9781466508910 (Pack - Book and Ebook acid-free paper)
+AN  - 18165423
+N1  - <p>2014020715<br/>Tamara Munzner, Department of Computer Science, University of British Columbia.<br/>25 cm<br/>"An A K Peters Book."<br/>Includes bibliographical references (pages 373-395) and indexes.</p>
+KW  - Information visualization.
+ER  - 
+
+TY  - JOUR
+TI  - Tidy Data
+AU  - Wickham, Hadley
+T2  - Journal of Statistical Software
+AB  - A huge amount of effort is spent cleaning data to get it ready for analysis, but there has been little research on how to make data cleaning as easy and effective as possible. This paper tackles a small, but important, component of data cleaning: data tidying. Tidy datasets are easy to manipulate, model and visualize, and have a specific structure: each variable is a column, each observation is a row, and each type of observational unit is a table. This framework makes it easy to tidy messy datasets because only a small set of tools are needed to deal with a wide range of un-tidy datasets. This structure also makes it easier to develop tidy tools for data analysis, tools that both input and output tidy datasets. The advantages of a consistent data structure and matching tools are demonstrated with a case study free from mundane data manipulation chores.
+DA  - 2014/08//undefined
+PY  - 2014
+VL  - 59
+IS  - 10
+SP  - 1
+EP  - 23
+J2  - J Stat Softw
+LA  - English
+SN  - 1548-7660
+UR  - ://WOS:000341806800001
+AN  - WOS:000341806800001
+N1  - <p>Ap1do<br/>Times Cited:21<br/>Cited References Count:19</p>
+KW  - data cleaning
+KW  - data tidying
+KW  - r
+KW  - relational databases
+ER  - 
+
+TY  - ELEC
+TI  - Data Carpentry: Data Organization in Spreadsheets
+AU  - Bahlai, Christie
+AU  - Teal, Tracy K.
+AU  - Hoyt, Peter R
+DA  - 2018///
+PY  - 2018
+UR  - https://datacarpentry.org/spreadsheet-ecology-lesson/
+ER  - 
+
+TY  - ELEC
+TI  - R for Reproducible Scientific Analysis
+AU  - Software Carpentry Foundation
+DA  - 2018///
+PY  - 2018
+UR  - http://swcarpentry.github.io/r-novice-gapminder/
+ER  - 
+
+TY  - JOUR
+TI  - R generation
+AU  - Thieme, Nick
+T2  - Significance
+AB  - The story of a statistical programming language that became a subcultural phenomenon. By Nick Thieme
+DA  - 2018/08/01/
+PY  - 2018
+DO  - 10.1111/j.1740-9713.2018.01169.x
+VL  - 15
+IS  - 4
+SP  - 14
+EP  - 19
+SN  - 1740-9705
+UR  - https://doi.org/10.1111/j.1740-9713.2018.01169.x https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1740-9713.2018.01169.x
+Y2  - 2018/08/16/
+ER  - 
+
+TY  - ELEC
+TI  - ProjectTemplate
+AU  - Myles White, John
+DA  - 2017///
+PY  - 2017
+UR  - http://projecttemplate.net/index.html
+ER  - 
+
+TY  - ELEC
+TI  - Data Carpentry: R for data analysis and visualization of Ecological Data
+AU  - Michonneau, François
+AU  - Fournier, Auriel
+DA  - 2018///
+PY  - 2018
+UR  - http://www.datacarpentry.org/R-ecology-lesson/index.html
+ER  - 
+
+TY  - ELEC
+TI  - R for Reproducible Scientific Analysis: Project Management With RStudio
+AU  - Software Carpentry
+DA  - 2017///
+PY  - 2017
+UR  - http://swcarpentry.github.io/r-novice-gapminder/02-project-intro/
+ER  - 
+
+TY  - CHAP
+TI  - What is Viz, and Why Do It?
+AU  - Munzner, Tamara
+T2  - Visualization analysis and design
+CN  - QA76.9.I52 M86 2015
+CY  - Boca Raton
+DA  - 2014///
+PY  - 2014
+SP  - 1
+EP  - 18
+PB  - CRC Press, Taylor & Francis Group
+SN  - 9781466508910 (Pack - Book and Ebook acid-free paper)
+AN  - 18165423
+N1  - <p>2014020715<br/>Tamara Munzner, Department of Computer Science, University of British Columbia.<br/>25 cm<br/>"An A K Peters Book."<br/>Includes bibliographical references (pages 373-395) and indexes.</p>
+KW  - Information visualization.
+ER  - 
+
+TY  - VIDEO
+TI  - Learn to use Bibliometrix for Simple and Powerful Literature Analysis (and Great Charts)
+AU  - Gary Eckstein
+AB  - Improve your understanding and presentation of your field of study with this Bibliometrix tutorial. This tutorial shows how students and #researchers can perform scientometric and bibliometric analysis using bibliometrix without coding.
+DA  - 2022/07/13/
+PY  - 2022
+DP  - YouTube
+UR  - https://www.youtube.com/watch?v=5nXzL2yCkGQ
+Y2  - 2025/06/13/14:37:03
+ER  - 
+
+TY  - CHAP
+TI  - Data visualization
+AU  - Pattanaik, Sumanta N.
+AU  - Wiegand, R. Paul
+T2  - Handbook of human factors and ergonomics
+AB  - Summary This chapter discusses the art behind the creation by outlining the rules and best practices and provides the scientific reasoning behind them from the current understanding of human visual system. It provides a constructive understanding of how to use data visualization to convey meaning and narrative, as well as how to leverage data visualization for persuasion. Producing effective data visualizations starts with obtaining good data in the first place, as well as being able to manage that data so that it is in a format that is usable for analysis. Keeping track of the history of interactions and providing a mechanism to backtrack or undo the changes are important in interactive visualization. Storyboarding has become such an important part of data visualization that many software tools support their construction directly, including tools like Processing . The most common applications of scientific visualization involve visualizing the results of solutions to differential equation modeling of some kind.
+DA  - 2021///
+PY  - 2021
+SP  - 893
+EP  - 946
+PB  - John Wiley & Sons, Ltd
+SN  - 978-1-119-63611-3
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119636113.ch35
+N1  - DOI: https://doi.org/10.1002/9781119636113.ch35 Section: 35 tex.eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119636113.ch35
+KW  - data visualization
+KW  - human visual system
+KW  - human–computer interaction
+KW  - software tools
+KW  - web-based applications
+ER  - 
+
+TY  - CHAP
+TI  - RGB colorimetry
+T2  - Measuring colour
+AB  - Summary This chapter discusses the colorimetric procedures. The gamut of chromaticities that can be matched with a set of three colour matching stimuli is defined in the chapter by the triangle formed by the three points representing them in a chromaticity diagram. Having defined the chromaticities of the three matching primaries, and the units in which they are to be measured, the colorimetric system is complete, and the amounts of red, green, and blue light needed to match any colour are the tristimulus values, R,G,B, in the system. If the red, green, and blue primaries are used to match equal amounts of power per small constant-width wavelength interval throughout the spectrum, the results constitute a set of colour-matching functions. When television and computer displays are being used, it is necessary, for critical work, to check the characteristics of the display. Controlled Vocabulary Terms computer displays; image matching; monochromators
+DA  - 2011///
+PY  - 2011
+SP  - 231
+EP  - 240
+PB  - John Wiley & Sons, Ltd
+SN  - 978-1-119-97559-5
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119975595.ch11
+KW  - chromaticity
+KW  - colour-matching functions
+KW  - computer displays
+KW  - RGB colorimetry
+KW  - RGB tristimulus values
+KW  - stimuli
+ER  - 
+
+TY  - BOOK
+TI  - Measuring colour
+AU  - Hunt, R. W. G.
+AU  - Pointer, Michael
+T2  - Wiley-IS&T series in imaging science and technology
+CN  - QC495 .H84 2011
+CY  - Chichester, West Sussex, U.K
+DA  - 2011///
+PY  - 2011
+DP  - Library of Congress ISBN
+ET  - 4th ed
+SP  - 469
+PB  - Wiley
+SN  - 978-1-119-97537-3
+N1  - Colour vision -- Spectral weighting functions -- Relations between colour stimuli -- Light sources -- Obtaining spectral data and tristimulus values -- Metamerism and colour constancy -- Colour rendering by light sources -- Colour order systems -- Precision and accuracy in colorimetry -- Fluorescent colours -- RGB colorimetry -- Colorimetry with digital cameras -- Colorant mixtures -- Factors affecting the appearance of coloured objects -- The CIE colour appearance model CIACAM02 -- Models of colour appearance for stimuli of different sizes -- Model of colour appearance for unrelated colours in photopic and mesopic illuminances
+N1  - OCLC: ocn729863170
+N1  - "The classic authority on colour measurement now fully revised and updated with the latest CIE recommendationsThe measurement of colour is of major importance in many commercial applications, such as the textile, paint, and foodstuff industries; as well as having a significant role in the lighting, paper, printing, cosmetic, plastics, glass, chemical, photographic, television, transport, and communication industries.Building upon the success of earlier editions, the 4th edition of [start italics]Measuring Colour[end italics] has been updated throughout with new chapters on colour rendering by light sources; colorimetry with digital cameras; factors affecting the appearance of coloured objects, and details of new CIE colour appearance models.Key features: Presents colour measurement, not simply as a matter of instrumentation and engineering, but also involving the physiology and psychology of the human observer. Covers the principles of colour measurement rather than a guide to instruments. Provides the reader with the basic facts needed to measure colour. Describes and explains the interactions between how colour is affected by the type of lighting, by the nature of the objects illuminated, and by the properties of the colour vision of observers. Includes many worked examples, and a series of Appendices provides the numerical data needed in many colorimetric calculations. The addition of 4th edition co-author, Dr. Pointer, has facilitated the inclusion of extensive practical advice on measurement procedures and the latest CIE recommendations"-- "This book is intended to provide the reader with the basic facts needed to measure colour. It is a book about principles, rather than a guide to instruments"--
+KW  - Colorimetry
+ER  - 
+
+TY  - CHAP
+TI  - Colour science for video
+T2  - Digital Video and HD (Second Edition)
+A2  - Poynton, Charles
+CY  - Boston
+DA  - 2012/01/01/
+PY  - 2012
+DO  - 10.1016/B978-0-12-391926-7.50026-6
+SP  - 287
+EP  - 314
+PB  - Morgan Kaufmann
+SN  - 978-0-12-391926-7
+UR  - https://www.sciencedirect.com/science/article/pii/B9780123919267500266
+N1  - DOI: 10.1016/B978-0-12-391926-7.50026-6
+N1  - DOI: 10.1016/B978-0-12-391926-7.50026-6
+ER  - 
+
+TY  - ELEC
+TI  - Modify components of a theme
+AU  - Wickham, Hadley
+AB  - Themes are a powerful way to customize the non-data components of your plots:
+i.e. titles, labels, fonts, background, gridlines, and legends. Themes can be
+used to give plots a consistent customized look. Modify a single plot's theme
+using theme(); see theme_update() if you want modify the active theme, to
+affect all subsequent plots. Use the themes available in complete themes if you would like to use a complete theme such as
+theme_bw(), theme_minimal(), and more. Theme elements are documented
+together according to inheritance, read more about theme inheritance below.
+LA  - en
+UR  - https://ggplot2.tidyverse.org/reference/theme.html
+Y2  - 2025/01/24/14:00:19
+L2  - https://ggplot2.tidyverse.org/reference/theme.html
+ER  - 
+
+TY  - ELEC
+TI  - Introduction to ggplot2
+AU  - Wickham, Hadley
+AU  - Chang, Winston
+AU  - Henry, Lionel
+AU  - Pedersen, Thomas Lin
+AU  - Takahashi, Kohske
+AU  - Wilke, Claus, Woo, Kara
+AU  - Yutani, Hiroaki
+AU  - Dunnington, Dewey
+AU  - van den Brand, Teun
+AB  - An overview of the layered grammar of graphics.
+DA  - 2024/10/26/
+PY  - 2024
+LA  - en
+UR  - https://ggplot2.tidyverse.org/articles/ggplot2.html
+Y2  - 2024/11/23/14:54:50
+ER  - 
+
+TY  - CHAP
+TI  - Layers
+AU  - Wickham, H.
+AU  - Navarro, Danielle
+AU  - Pedersen, Thomas Lin
+T2  - ggplot2: Elegant Graphics for Data Analysis
+DA  - 2022///
+PY  - 2022
+ET  - 3
+UR  - https://ggplot2-book.org/toolbox.html
+ER  - 
+
+TY  - CHAP
+TI  - Color
+AU  - Ware, Colin
+T2  - Visual Thinking for Information Design
+DA  - 2021///
+PY  - 2021
+PB  - Morgan Kaufmann
+SN  - 978-0-12-823567-6
+L4  - https://doi.org/10.1016/B978-0-12-812875-6.00004-9
+N1  - Chapter 4
+N1  - DOI: 10.1016/B978-0-12-812875-6.00004-9
+ER  - 
+
+TY  - CHAP
+TI  - Attended and Unattended Processing Modes: The Role of Set for Spatial Location
+AU  - Posner, Michael
+T2  - Modes of Perceiving and Processing Information
+CY  - New York
+DA  - 1978///
+PY  - 1978
+ET  - 1st
+N1  - https://doi.org/10.4324/9781315802565
+ER  - 
+
+TY  - JOUR
+TI  - Morphological Variation Among Populations of the Mountain Brushtail Possum, Trichosurus-Caninus Ogilby (Phalangeridae, Marsupialia)
+AU  - Lindenmayer, Db
+AU  - Viggers, Kl
+AU  - Cunningham, Rb
+AU  - Donnelly, Cf
+T2  - Australian Journal of Zoology
+AB  - The results are described of a study of morphometric variation among populations of the mountain brushtail possum, Trichosurus caninus Ogilby. Trapping surveys were completed at seven sites from southern Victoria to central Queensland. The variables measured from each of the 102 animals captured included head length, skull width, total body length, tail length, pes length, length of the ear conch, body girth, belly girth and the pelage colour. Canonical variate analysis highlighted the existence of a marked separation between populations in Victoria and those in New South Wales and Queensland. The first canonical variate accounted for 89% of the variation between the populations and was dominated by the length of the ear conch, tail length and pes length. There also were differences between the populations for several other morphometric measures including the head and body length. We recorded considerable variation in the fur colour of T. caninus both within and between the populations surveyed. However, no consistent pattern in the geographic variation of fur coloration was evident. We do not know the ecological or evolutionary causes underlying the observed differences in morphological characteristics amongst the populations of T. caninus. Further work is planned to examine the genetic variability of the populations and to assess the taxonomic significance of our findings.
+DA  - 1995///
+PY  - 1995
+DO  - 10.1071/ZO9950449
+DP  - DOI.org (Crossref)
+VL  - 43
+IS  - 5
+SP  - 449
+J2  - Aust. J. Zool.
+LA  - en
+SN  - 0004-959X
+UR  - http://www.publish.csiro.au/?paper=ZO9950449
+Y2  - 2024/09/05/14:32:02
+ER  - 
+
+TY  - JOUR
+TI  - What shall we do with the preattentive processing stage: Use it or lose it?
+AU  - Wolfe, J. M
+AU  - Treisman, A.
+AU  - Horowitz, T. S
+T2  - Journal of Vision
+DA  - 2010/03/18/
+PY  - 2010
+DO  - 10.1167/3.9.572
+DP  - DOI.org (Crossref)
+VL  - 3
+IS  - 9
+SP  - 572
+EP  - 572
+J2  - Journal of Vision
+LA  - en
+SN  - 1534-7362
+ST  - What shall we do with the preattentive processing stage
+UR  - http://jov.arvojournals.org/Article.aspx?doi=10.1167/3.9.572
+Y2  - 2024/08/25/17:18:36
+L1  - https://pdfs.semanticscholar.org/fc05/b16c225cfbaf3441d596ab49b158326454e7.pdf
+ER  - 
+
+TY  - BOOK
+TI  - R for data science : import, tidy, transform, visualize, and model data
+AU  - Wickham, Hadley
+AU  - Çetinkaya-Rundel, Mine
+AU  - Grolemund, Garrett
+CY  - Sebastopol, CA
+DA  - 2023///
+PY  - 2023
+ET  - 2nd edition
+LA  - eng
+PB  - O'Reilly Media, Inc.
+SN  - 978-1-4920-9740-2
+ER  - 
+
+TY  - CHAP
+TI  - Introduction
+AU  - Wickham, Hadley
+AU  - Çetinkaya-Rundel, Mine
+AU  - Grolemund, Garrett
+T2  - R for data science : import, tidy, transform, visualize, and model data
+CY  - Sebastopol, CA
+DA  - 2023///
+PY  - 2023
+ET  - 2nd edition
+SP  - 4
+LA  - eng
+PB  - O'Reilly Media, Inc.
+SN  - 978-1-4920-9740-2
+ER  - 
+
+TY  - CHAP
+TI  - Workflow: Basics
+AU  - Wickham, Hadley
+AU  - Çetinkaya-Rundel, Mine
+AU  - Grolemund, Garrett
+T2  - R for data science : import, tidy, transform, visualize, and model data
+CY  - Sebastopol, CA
+DA  - 2023///
+PY  - 2023
+ET  - 2nd edition
+SP  - 31
+EP  - 35
+LA  - eng
+PB  - O'Reilly Media, Inc.
+SN  - 978-1-4920-9740-2
+ER  - 
+
+TY  - CHAP
+TI  - Data Transformation
+AU  - Wickham, Hadley
+AU  - Çetinkaya-Rundel, Mine
+AU  - Grolemund, Garrett
+T2  - R for data science : import, tidy, transform, visualize, and model data
+CY  - Sebastopol, CA
+DA  - 2023///
+PY  - 2023
+ET  - 2nd edition
+SP  - 39
+EP  - 62
+LA  - eng
+PB  - O'Reilly Media, Inc.
+SN  - 978-1-4920-9740-2
+N1  - Chapter 7
+ER  - 
+
+TY  - CHAP
+TI  - Data Tidying
+AU  - Wickham, Hadley
+AU  - Çetinkaya-Rundel, Mine
+AU  - Grolemund, Garrett
+T2  - R for data science : import, tidy, transform, visualize, and model data
+CY  - Sebastopol, CA
+DA  - 2023///
+PY  - 2023
+ET  - 2nd edition
+SP  - 69
+EP  - 85
+LA  - eng
+PB  - O'Reilly Media, Inc.
+SN  - 978-1-4920-9740-2
+N1  - Chapter 5
+ER  - 
+
+TY  - CHAP
+TI  - Communicate
+AU  - Wickham, Hadley
+AU  - Çetinkaya-Rundel, Mine
+AU  - Grolemund, Garrett
+T2  - R for data science : import, tidy, transform, visualize, and model data
+CY  - Sebastopol, CA
+DA  - 2023///
+PY  - 2023
+ET  - 2nd edition
+SP  - 505
+EP  - 530
+LA  - eng
+PB  - O'Reilly Media, Inc.
+SN  - 978-1-4920-9740-2
+N1  - Chapter 28
+ER  - 
+
+TY  - CHAP
+TI  - Exploratory Data Analysis
+AU  - Wickham, Hadley
+AU  - Çetinkaya-Rundel, Mine
+AU  - Grolemund, Garrett
+T2  - R for Data Science
+DA  - 2023///
+PY  - 2023
+ET  - 2
+SP  - 145
+EP  - 167
+LA  - en
+SN  - 978-1-4920-9740-2
+Y2  - 2023/04/13/
+ER  - 
+
+TY  - CHAP
+TI  - Communication
+AU  - Wickham, Hadley
+AU  - Çetinkaya-Rundel, Mine
+AU  - Grolemund, Garrett
+T2  - R for data science : import, tidy, transform, visualize, and model data
+CY  - Sebastopol, CA
+DA  - 2023///
+PY  - 2023
+ET  - 2nd edition
+SP  - 169
+EP  - 201
+LA  - eng
+PB  - O'Reilly Media, Inc.
+SN  - 978-1-4920-9740-2
+N1  - Chapter 11
+ER  - 
+
+TY  - CHAP
+TI  - Data Import
+AU  - Wickham, Hadley
+AU  - Çetinkaya-Rundel, Mine
+AU  - Grolemund, Garrett
+T2  - R for data science : import, tidy, transform, visualize, and model data
+CY  - Sebastopol, CA
+DA  - 2023///
+PY  - 2023
+ET  - 2nd edition
+SP  - 95
+EP  - 108
+LA  - eng
+PB  - O'Reilly Media, Inc.
+SN  - 978-1-4920-9740-2
+ER  - 
+
+TY  - CHAP
+TI  - Data Visualization
+AU  - Wickham, Hadley
+AU  - Çetinkaya-Rundel, Mine
+AU  - Grolemund, Garrett
+T2  - R for data science : import, tidy, transform, visualize, and model data
+CY  - Sebastopol, CA
+DA  - 2023///
+PY  - 2023
+ET  - 2nd edition
+SP  - 1
+EP  - 29
+LA  - eng
+PB  - O'Reilly Media, Inc.
+SN  - 978-1-4920-9740-2
+N1  - OCLC: on1390607935
+KW  - Information visualization
+KW  - Statistics
+KW  - R (Computer program language)
+KW  - Data mining
+KW  - Big data
+KW  - Computer programs
+KW  - Donn{\'e}es volumineuses
+KW  - Electronic data processing
+KW  - Exploration de donn{\'e}es (Informatique)
+KW  - Logiciels
+KW  - R (Langage de programmation)
+KW  - Visualisation de l'information
+ER  - 
+
+TY  - CHAP
+TI  - Quarto
+AU  - Wickham, Hadley
+AU  - Çetinkaya-Rundel, Mine
+AU  - Grolemund, Garrett
+T2  - R for data science : import, tidy, transform, visualize, and model data
+CY  - Sebastopol, CA
+DA  - 2023///
+PY  - 2023
+ET  - 2nd edition
+SP  - 505
+EP  - 529
+LA  - eng
+PB  - O'Reilly Media, Inc.
+SN  - 978-1-4920-9740-2
+ER  - 
+
+TY  - CHAP
+TI  - Dates and Time
+AU  - Wickham, Hadley
+AU  - Çetinkaya-Rundel, Mine
+AU  - Grolemund, Garrett
+T2  - R for data science : import, tidy, transform, visualize, and model data
+CY  - Sebastopol, CA
+DA  - 2023///
+PY  - 2023
+ET  - 2nd edition
+SP  - 297
+EP  - 319
+LA  - eng
+PB  - O'Reilly Media, Inc.
+SN  - 978-1-4920-9740-2
+N1  - Chapter 17
+ER  - 
+
+TY  - CHAP
+TI  - Quarto Formats
+AU  - Wickham, Hadley
+AU  - Çetinkaya-Rundel, Mine
+AU  - Grolemund, Garrett
+T2  - R for data science : import, tidy, transform, visualize, and model data
+CY  - Sebastopol, CA
+DA  - 2023///
+PY  - 2023
+ET  - 2nd edition
+SP  - 531
+EP  - 537
+LA  - eng
+PB  - O'Reilly Media, Inc.
+SN  - 978-1-4920-9740-2
+ER  - 
+
+TY  - CHAP
+TI  - Themes
+AU  - Wickham, H.
+AU  - Navarro, Danielle
+AU  - Pedersen, Thomas Lin
+T2  - ggplot2: Elegant Graphics for Data Analysis
+DA  - 2022///
+PY  - 2022
+ET  - 3
+UR  - https://ggplot2-book.org/themes#introduction
+ER  - 
+
+TY  - CHAP
+TI  - Choosing Tools to Visualize Data
+AU  - Yau, Nathan
+T2  - Visualize This: the flowingdata guide to design, visualization, and statistics second edition
+AB  - "Book Summary: N/A Contact: Hounsome, Carly"--
+CY  - Indianapolis
+DA  - 2024///
+PY  - 2024
+DP  - Library of Congress ISBN
+PB  - John Wiley and Sons
+SN  - 978-1-394-21486-0
+N1  - Chpater 2
+ER  - 
+
+TY  - BOOK
+TI  - Visualize This: the flowingdata guide to design, visualization, and statistics second edition
+AU  - Yau, Nathan
+AB  - "Book Summary: N/A Contact: Hounsome, Carly"--
+CY  - Indianapolis
+DA  - 2024///
+PY  - 2024
+DP  - Library of Congress ISBN
+PB  - John Wiley and Sons
+SN  - 978-1-394-21486-0
+ST  - Visualize This
+ER  - 
+
+TY  - JOUR
+TI  - Processing capacity requirements of stimulus encoding
+AU  - Millar, K.
+T2  - Acta Psychologica
+DA  - 1975/10//
+PY  - 1975
+DO  - 10.1016/0001-6918(75)90030-X
+DP  - DOI.org (Crossref)
+VL  - 39
+IS  - 5
+SP  - 393
+EP  - 410
+J2  - Acta Psychologica
+LA  - en
+SN  - 00016918
+UR  - https://linkinghub.elsevier.com/retrieve/pii/000169187590030X
+Y2  - 2024/05/18/16:54:00
+ER  - 
+
+TY  - MGZN
+TI  - A Drug-Decriminalization Fight Erupts in Oregon
+AU  - Kim, E. Tammy
+T2  - The New Yorker
+AB  - An ambitious law set forth a more humane way to address addiction. Then came the backlash.
+DA  - 2024/01/15/
+PY  - 2024
+DP  - www.newyorker.com
+LA  - en-US
+SN  - 0028-792X
+UR  - https://www.newyorker.com/magazine/2024/01/22/a-new-drug-war-in-oregon
+Y2  - 2024/04/28/14:05:00
+L2  - https://www.newyorker.com/magazine/2024/01/22/a-new-drug-war-in-oregon
+ER  - 
+
+TY  - CHAP
+TI  - Object Names
+AU  - Wickham, Hadley
+T2  - The tidyverse style guide
+AB  - 2.1 Object names  “There are only two hard things in Computer Science: cache invalidation and naming things.” — Phil Karlton Variable and function names should use only lowercase letters, numbers,...
+DA  - 2022///
+PY  - 2022
+DP  - style.tidyverse.org
+LA  - en
+UR  - https://style.tidyverse.org/syntax.html
+Y2  - 2024/04/21/17:37:16
+L2  - https://style.tidyverse.org/syntax.html
+ER  - 
+
+TY  - JOUR
+TI  - Data Visualization: Bringing Data to Life in an Introductory Statistics Course
+AU  - Hudiburgh, Lynette M.
+AU  - Garbinsky, Diana
+T2  - Journal of Statistics Education
+DA  - 2020/09/01/
+PY  - 2020
+DO  - 10.1080/10691898.2020.1796399
+DP  - DOI.org (Crossref)
+VL  - 28
+IS  - 3
+SP  - 262
+EP  - 279
+J2  - Journal of Statistics Education
+LA  - en
+SN  - 1069-1898
+ST  - Data Visualization
+UR  - https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1796399
+Y2  - 2024/04/20/12:48:37
+L1  - https://www.tandfonline.com/doi/pdf/10.1080/10691898.2020.1796399?needAccess=true
+ER  - 
+
+TY  - CHAP
+TI  - Bar Plots
+AU  - Harrison, Ewen
+AU  - Pius
+T2  - R for Health Data Science
+AB  - An introductory book for health data science using R.
+DP  - argoshare.is.ed.ac.uk
+UR  - https://argoshare.is.ed.ac.uk/healthyr_book/bar-plots.html
+Y2  - 2024/03/30/15:29:08
+L2  - https://argoshare.is.ed.ac.uk/healthyr_book/bar-plots.html
+ER  - 
+
+TY  - CHAP
+TI  - The diamonds dataset | R for Graduate Students
+AU  - Huynh, Y. Wendy
+AB  - This is a beginner’s guide to coding in R.
+DP  - bookdown.org
+UR  - https://bookdown.org/yih_huynh/Guide-to-R-Book/diamonds.html
+Y2  - 2024/03/22/17:49:22
+L2  - https://bookdown.org/yih_huynh/Guide-to-R-Book/diamonds.html
+ER  - 
+
+TY  - JOUR
+TI  - The misuse of colour in science communication
+AU  - Crameri, Fabio
+AU  - Shephard, Grace E.
+AU  - Heron, Philip J.
+T2  - Nature Communications
+AB  - Abstract
+            The accurate representation of data is essential in science communication. However, colour maps that visually distort data through uneven colour gradients or are unreadable to those with colour-vision deficiency remain prevalent in science. These include, but are not limited to, rainbow-like and red–green colour maps. Here, we present a simple guide for the scientific use of colour. We show how scientifically derived colour maps report true data variations, reduce complexity, and are accessible for people with colour-vision deficiencies. We highlight ways for the scientific community to identify and prevent the misuse of colour in science, and call for a proactive step away from colour misuse among the community, publishers, and the press.
+DA  - 2020/10/28/
+PY  - 2020
+DO  - 10.1038/s41467-020-19160-7
+DP  - DOI.org (Crossref)
+VL  - 11
+IS  - 1
+SP  - 5444
+J2  - Nat Commun
+LA  - en
+SN  - 2041-1723
+UR  - https://www.nature.com/articles/s41467-020-19160-7
+Y2  - 2024/03/12/12:55:21
+ER  - 
+
+TY  - CHAP
+TI  - Diverging Color Maps for Scientific Visualization
+AU  - Moreland, Kenneth
+T2  - Advances in Visual Computing
+A2  - Bebis, George
+A2  - Boyle, Richard
+A2  - Parvin, Bahram
+A2  - Koracin, Darko
+A2  - Kuno, Yoshinori
+A2  - Wang, Junxian
+A2  - Pajarola, Renato
+A2  - Lindstrom, Peter
+A2  - Hinkenjann, André
+A2  - Encarnação, Miguel L.
+A2  - Silva, Cláudio T.
+A2  - Coming, Daniel
+A3  - Hutchison, David
+A3  - Kanade, Takeo
+A3  - Kittler, Josef
+A3  - Kleinberg, Jon M.
+A3  - Mattern, Friedemann
+A3  - Mitchell, John C.
+A3  - Naor, Moni
+A3  - Nierstrasz, Oscar
+A3  - Pandu Rangan, C.
+A3  - Steffen, Bernhard
+A3  - Sudan, Madhu
+A3  - Terzopoulos, Demetri
+A3  - Tygar, Doug
+A3  - Vardi, Moshe Y.
+A3  - Weikum, Gerhard
+CY  - Berlin, Heidelberg
+DA  - 2009///
+PY  - 2009
+DO  - 10.1007/978-3-642-10520-3_9
+DP  - DOI.org (Crossref)
+VL  - 5876
+SP  - 92
+EP  - 103
+PB  - Springer Berlin Heidelberg
+SN  - 978-3-642-10519-7 978-3-642-10520-3
+UR  - http://link.springer.com/10.1007/978-3-642-10520-3_9
+Y2  - 2024/03/12/12:33:47
+N1  - Series Title: Lecture Notes in Computer Science DOI: 10.1007/978-3-642-10520-3_9
+ER  - 
+
+TY  - ELEC
+TI  - Color Schemes / D3
+AU  - Bostock, Mike
+T2  - Observable
+UR  - https://observablehq.com/@d3/color-schemes
+Y2  - 2024/03/12/11:48:26
+L2  - https://observablehq.com/@d3/color-schemes
+ER  - 
+
+TY  - JOUR
+TI  - Colorgorical: Creating discriminable and preferable color palettes for information visualization
+AU  - Gramazio, Connor C.
+AU  - Laidlaw, David H.
+AU  - Schloss, Karen B.
+T2  - IEEE Transactions on Visualization and Computer Graphics
+DA  - 2017/01//
+PY  - 2017
+DO  - 10.1109/TVCG.2016.2598918
+DP  - DOI.org (Crossref)
+VL  - 23
+IS  - 1
+SP  - 521
+EP  - 530
+J2  - IEEE Trans. Visual. Comput. Graphics
+SN  - 1077-2626
+ST  - Colorgorical
+UR  - http://ieeexplore.ieee.org/document/7539386/
+Y2  - 2024/03/12/11:23:51
+L4  - https://doi.org/10.1109/TVCG.2016.2598918
+ER  - 
+
+TY  - ELEC
+TI  - Color modes
+AU  - Adobe Corporation
+AB  - Learn the basics of the different color modes in Adobe Photoshop.
+LA  - en-US
+UR  - https://helpx.adobe.com/content/help/en/photoshop/using/color-modes.html
+Y2  - 2024/03/10/14:43:28
+L2  - https://helpx.adobe.com/photoshop/using/color-modes.html
+ER  - 
+
+TY  - RPRT
+TI  - Tidymodels: a collection of packages for modeling and machine learning using tidyverse principles.
+AU  - Kuhn, Max
+AU  - Wickham, Hadley
+DA  - 2020///
+PY  - 2020
+M3  - manual
+UR  - https://www.tidymodels.org
+ER  - 
+
+TY  - RPRT
+TI  - RStudio: Integrated development environment for R
+AU  - Posit team
+CY  - Boston, MA
+DA  - 2024///
+PY  - 2024
+M3  - manual
+PB  - Posit Software, PBC
+UR  - http://www.posit.co/
+ER  - 
+
+TY  - ELEC
+TI  - Differences between the base R and magrittr pipes
+AU  - Wickham, Hadley
+T2  - Tidyverse Blog
+AB  - A discussion of the (relatively minor) differences between the native R pipe,  `|>`, and the magrittr pipe, `%>%`.
+DA  - 2023/04/21/
+PY  - 2023
+LA  - en-us
+UR  - https://www.tidyverse.org/blog/2023/04/base-vs-magrittr-pipe/
+Y2  - 2024/02/04/16:35:14
+L2  - https://www.tidyverse.org/blog/2023/04/base-vs-magrittr-pipe/
+ER  - 
+
+TY  - COMP
+TI  - UCLouvain-CBIO/WSBIM1207: Introduction to Bioinformatics
+AU  - Gatto, Laurent
+AU  - Gatto, Laurent
+AU  - Missault, Kevin
+AU  - Martin, Manon
+AB  - Uses RNA-seq data for the data analysis and visualisation chapters
+DA  - 2021/09/27/
+PY  - 2021
+DO  - 10.5281/ZENODO.5532658
+DP  - DOI.org (Datacite)
+PB  - Zenodo
+ST  - UCLouvain-CBIO/WSBIM1207
+UR  - https://zenodo.org/record/5532658
+Y2  - 2024/02/04/20:21:04
+ER  - 
+
+TY  - BOOK
+TI  - Chapter 3 Organizing your project | Intro to Reproducibility in Cancer Informatics
+AU  - Johns Hopkins Data Science Lab
+AB  - Description about Course/Book.
+DP  - jhudatascience.org
+UR  - https://jhudatascience.org/Reproducibility_in_Cancer_Informatics/organizing-your-project.html
+Y2  - 2024/01/10/16:20:00
+ER  - 
+
+TY  - CHAP
+TI  - A Review of R Modeling Fundamentals
+AU  - Kuhn, Max
+AU  - Silge, Julia
+T2  - Tidy modeling with R: a framework for modeling in the tidyverse
+AB  - Get going with tidymodels, a collection of R packges for modeling and machine learning. Whether you're just starting out or have years of experience with modeling, this practical introduction shows data analysts, business analysts, and data scientists how the tidymodels framework offers a consistent, flexible approach for your work. RStudio engineers Max Kuhn and Julia Silge demonstrate ways to create models by focusing on an R dialect called the tidyverse. Software that adops tidyverse principles shares both a high-level design philosophy and low-level grammar and data structures, so learning one piece of the ecosystem makes it easier to learn the next. You'll understand why the tidymodels framework has been built to be used by a broad range of people
+CY  - Sebastopol, CA
+DA  - 2022///
+PY  - 2022
+SP  - 27
+EP  - 41
+PB  - O'Reilly Media
+SN  - 978-1-4920-9648-1
+ST  - Tidy modeling with R
+N1  - Chapter 3
+KW  - R (Computer program language)
+KW  - Mathematical models
+KW  - Machine learning
+KW  - Quantitative research
+ER  - 
+
+TY  - CHAP
+TI  - Number and reference equations
+AU  - Xie, Yihui
+T2  - Authoring Books and Technical Documents with R Markdown
+AB  - A guide to authoring books with R Markdown
+DP  - bookdown.org
+UR  - https://bookdown.org/yihui/bookdown/markdown-extensions-by-bookdown.html#equations%20https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+Y2  - 2024/01/02/16:05:44
+ER  - 
+
+TY  - ELEC
+TI  - Quarto for Scientists: Math
+AU  - Tierney, Nicholas
+UR  - https://qmd4sci.njtierney.com/math
+Y2  - 2024/01/02/15:20:11
+L2  - https://qmd4sci.njtierney.com/math
+ER  - 
+
+TY  - CHAP
+TI  - Developing an audience outreach strategy
+AU  - Elsbree, Amy
+AU  - Peake, Amy
+T2  - Elevate the debate : A multilayered approach to communicating your research
+A2  - Schwabish, Jonathan A.
+CY  - Newark, UNITED STATES
+DA  - 2020///
+PY  - 2020
+PB  - John Wiley & Sons, Incorporated
+SN  - 978-1-119-62003-7
+UR  - http://ebookcentral.proquest.com/lib/cua/detail.action?docID=6037682
+KW  - Sociology
+KW  - Urban-Research-United States
+KW  - Urban-Research-United States.
+ER  - 
+
+TY  - CHAP
+TI  - Better presentations: More effective speaking
+AU  - Schwabish, Jonathan
+T2  - Elevate the debate : A multilayered approach to communicating your research
+A2  - Schwabish, Jonathan
+CY  - Newark, UNITED STATES
+DA  - 2020///
+PY  - 2020
+PB  - John Wiley & Sons, Incorporated
+SN  - 978-1-119-62003-7
+UR  - http://ebookcentral.proquest.com/lib/cua/detail.action?docID=6037682
+KW  - Sociology
+KW  - Urban-Research-United States
+KW  - Urban-Research-United States.
+ER  - 
+
+TY  - CHAP
+TI  - Introduction to Statistics
+AU  - Triola, Mario F.
+T2  - Essentials of statistics
+CY  - Hoboken, N.J.
+DA  - 2021///
+PY  - 2021
+ET  - Seventh edition
+SP  - 1
+EP  - 42
+LA  - eng
+PB  - Pearson
+SN  - 978-0-13-746609-2
+ER  - 
+
+TY  - CHAP
+TI  - Exploring Data with Graphs
+AU  - Triola, Mario F.
+T2  - Essentials of statistics
+CY  - Hoboken, N.J.
+DA  - 2021///
+PY  - 2021
+ET  - Seventh edition
+SP  - 43
+EP  - 85
+LA  - eng
+PB  - Pearson
+SN  - 978-0-13-746609-2
+N1  - Chapter 2
+ER  - 
+
+TY  - CHAP
+TI  - Describing, Exploring, and Comparing Data
+AU  - Triola, Mario F.
+T2  - Essentials of statistics
+CY  - Hoboken, N.J.
+DA  - 2021///
+PY  - 2021
+ET  - Seventh edition
+SP  - 86
+EP  - 141
+LA  - eng
+PB  - Pearson
+SN  - 978-0-13-746609-2
+KW  - Statistics Textbooks.
+ER  - 
+
+TY  - CHAP
+TI  - Correlation and Regression
+AU  - Triola, Mario F.
+T2  - Essentials of statistics
+CY  - Hoboken, N.J.
+DA  - 2021///
+PY  - 2021
+ET  - Seventh edition
+SP  - 495
+EP  - 596
+LA  - eng
+PB  - Pearson
+SN  - 978-0-13-746609-2
+N1  - Chapter 10
+ER  - 
+
+TY  - CHAP
+TI  - Understanding the most commonly used image file formats
+AU  - Wilke, C.
+T2  - Fundamentals of data visualization: a primer on making informative and compelling figures.
+CY  - Sebastopol, CA
+DA  - 2019///
+PY  - 2019
+ET  - First edition.
+SP  - 319
+EP  - 324
+PB  - O'Reilly Media
+SN  - 978-1-4920-3108-6 1-4920-3108-9
+KW  - Data Visualization.
+KW  - Information visualization.
+KW  - Visual analytics.
+KW  - Visualization Data processing.
+ER  - 
+
+TY  - CHAP
+TI  - A Tidyverse Primer
+AU  - Kuhn, Max
+AU  - Silge, Julia
+T2  - Tidy modeling with R: a framework for modeling in the tidyverse
+AB  - Get going with tidymodels, a collection of R packges for modeling and machine learning. Whether you're just starting out or have years of experience with modeling, this practical introduction shows data analysts, business analysts, and data scientists how the tidymodels framework offers a consistent, flexible approach for your work. RStudio engineers Max Kuhn and Julia Silge demonstrate ways to create models by focusing on an R dialect called the tidyverse. Software that adops tidyverse principles shares both a high-level design philosophy and low-level grammar and data structures, so learning one piece of the ecosystem makes it easier to learn the next. You'll understand why the tidymodels framework has been built to be used by a broad range of people
+CY  - Sebastopol, CA
+DA  - 2022///
+PY  - 2022
+DP  - Library of Congress ISBN
+SP  - 17
+EP  - 26
+PB  - O'Reilly Media
+SN  - 1-4920-9648-2
+N1  - Chapter 2
+KW  - R (Computer program language)
+KW  - Mathematical models
+KW  - Machine learning
+KW  - Quantitative research
+ER  - 
+
+TY  - CHAP
+TI  - Software for modeling
+AU  - Kuhn, Max
+AU  - Silge, Julia
+T2  - Tidy modeling with R: a framework for modeling in the tidyverse
+AB  - Get going with tidymodels, a collection of R packges for modeling and machine learning. Whether you're just starting out or have years of experience with modeling, this practical introduction shows data analysts, business analysts, and data scientists how the tidymodels framework offers a consistent, flexible approach for your work. RStudio engineers Max Kuhn and Julia Silge demonstrate ways to create models by focusing on an R dialect called the tidyverse. Software that adops tidyverse principles shares both a high-level design philosophy and low-level grammar and data structures, so learning one piece of the ecosystem makes it easier to learn the next. You'll understand why the tidymodels framework has been built to be used by a broad range of people
+CY  - Sebastopol, CA
+DA  - 2022///
+PY  - 2022
+SP  - 3
+EP  - 15
+PB  - O'Reilly Media
+SN  - 978-1-4920-9648-1
+ST  - Tidy modeling with R
+KW  - R (Computer program language)
+KW  - Mathematical models
+KW  - Machine learning
+KW  - Quantitative research
+ER  - 
+
+TY  - CHAP
+TI  - The truth continuum
+AU  - Cairo, Alberto
+T2  - The truthful art : data, charts, and maps for communication
+CY  - San Francisco, California
+DA  - 2016///
+PY  - 2016
+SP  - 118
+EP  - 157
+PB  - New Riders
+SN  - 978-0-321-93407-9
+N1  - 2016304900 Alberto Cairo. illustrations ; 23 cm Includes bibliographical references and index. Foundations – Truthful – Functional – Practice.
+KW  - diagrams
+KW  - etc. Design. Computergrafik. Datenverarbeitung. Visualisierung.
+KW  - Optical images. Information visualization. Computer graphics. Charts
+ER  - 
+
+TY  - CHAP
+TI  - The five qualities of great visualizations
+AU  - Cairo, Alberto
+T2  - The truthful art : data, charts, and maps for communication
+CY  - San Francisco, California
+DA  - 2016///
+PY  - 2016
+SP  - 78
+EP  - 116
+PB  - New Riders
+SN  - 978-0-321-93407-9
+N1  - 2016304900 Alberto Cairo. illustrations ; 23 cm Includes bibliographical references and index. Foundations – Truthful – Functional – Practice.
+KW  - diagrams
+KW  - etc. Design. Computergrafik. Datenverarbeitung. Visualisierung.
+KW  - Optical images. Information visualization. Computer graphics. Charts
+ER  - 
+
+TY  - CHAP
+TI  - Seeing relationships
+AU  - Cairo, Alberto
+T2  - The truthful art : data, charts, and maps for communication
+CY  - San Francisco, California
+DA  - 2016///
+PY  - 2016
+SP  - 332
+EP  - 373
+PB  - New Riders
+SN  - 978-0-321-93407-9
+N1  - 2016304900 Alberto Cairo. illustrations ; 23 cm Includes bibliographical references and index. Foundations – Truthful – Functional – Practice.
+N1  - Section: 9 Type: Book section
+KW  - diagrams
+KW  - etc. Design. Computergrafik. Datenverarbeitung. Visualisierung.
+KW  - Optical images. Information visualization. Computer graphics. Charts
+ER  - 
+
+TY  - CHAP
+TI  - Revealing change
+AU  - Cairo, Alberto
+T2  - The truthful art : data, charts, and maps for communication
+CY  - San Francisco, California
+DA  - 2016///
+PY  - 2016
+SP  - 288
+EP  - 330
+PB  - New Riders
+SN  - 978-0-321-93407-9
+N1  - <p>2016304900<br/>Alberto Cairo.<br/>illustrations ; 23 cm<br/>Includes bibliographical references and index.<br/>Foundations -- Truthful -- Functional -- Practice.</p>
+N1  - 2016304900 Alberto Cairo. illustrations ; 23 cm Includes bibliographical references and index. Foundations – Truthful – Functional – Practice.
+KW  - Information visualization.
+KW  - Visualisierung.
+KW  - Computer graphics.
+KW  - Charts, diagrams, etc. Design.
+KW  - diagrams
+KW  - etc. Design. Computergrafik. Datenverarbeitung. Visualisierung.
+KW  - Optical images. Information visualization. Computer graphics. Charts
+KW  - Computergrafik.
+KW  - Datenverarbeitung.
+KW  - Optical images.
+KW  - {Charts
+KW  - etc. Design.}
+ER  - 
+
+TY  - CHAP
+TI  - Of conjectures and uncertainty
+AU  - Cairo, Alberto
+T2  - The truthful art : data, charts, and maps for communication
+CY  - San Francisco, California
+DA  - 2016///
+PY  - 2016
+SP  - 158
+EP  - 184
+PB  - New Riders
+SN  - 978-0-321-93407-9
+N1  - 2016304900 Alberto Cairo. illustrations ; 23 cm Includes bibliographical references and index. Foundations – Truthful – Functional – Practice.
+KW  - diagrams
+KW  - etc. Design. Computergrafik. Datenverarbeitung. Visualisierung.
+KW  - Optical images. Information visualization. Computer graphics. Charts
+ER  - 
+
+TY  - CHAP
+TI  - Basic principles of visualization
+AU  - Cairo, Alberto
+T2  - The truthful art : data, charts, and maps for communication
+CY  - San Francisco, California
+DA  - 2016///
+PY  - 2016
+SP  - 186
+EP  - 221
+PB  - New Riders
+SN  - 978-0-321-93407-9
+N1  - 2016304900 Alberto Cairo. illustrations ; 23 cm Includes bibliographical references and index. Foundations – Truthful – Functional – Practice.
+KW  - diagrams
+KW  - etc. Design. Computergrafik. Datenverarbeitung. Visualisierung.
+KW  - Optical images. Information visualization. Computer graphics. Charts
+ER  - 
+
+TY  - CHAP
+TI  - Visualizing distributions
+AU  - Cairo, Alberto
+T2  - The truthful art : data, charts, and maps for communication
+CY  - San Francisco, California
+DA  - 2016///
+PY  - 2016
+SP  - 242
+EP  - 287
+PB  - New Riders
+SN  - 978-0-321-93407-9
+N1  - 2016304900 Alberto Cairo. illustrations ; 23 cm Includes bibliographical references and index. Foundations – Truthful – Functional – Practice.
+KW  - diagrams
+KW  - etc. Design. Computergrafik. Datenverarbeitung. Visualisierung.
+KW  - Optical images. Information visualization. Computer graphics. Charts
+ER  - 
+
+TY  - CHAP
+TI  - What we talk about when we talk about visualization
+AU  - Cairo, Alberto
+T2  - The truthful art : data, charts, and maps for communication
+CY  - San Francisco, California
+DA  - 2016///
+PY  - 2016
+SP  - 59
+EP  - 77
+PB  - New Riders
+SN  - 978-0-321-93407-9
+N1  - 2016304900 Alberto Cairo. illustrations ; 23 cm Includes bibliographical references and index. Foundations – Truthful – Functional – Practice.
+KW  - diagrams
+KW  - etc. Design. Computergrafik. Datenverarbeitung. Visualisierung.
+KW  - Optical images. Information visualization. Computer graphics. Charts
+ER  - 
+
+TY  - CHAP
+TI  - Telling a story and making a point
+AU  - Wilke, C.
+T2  - Fundamentals of data visualization: a primer on making informative and compelling figures.
+CY  - Sebastopol, CA
+DA  - 2019///
+PY  - 2019
+ET  - First edition.
+SP  - 333
+EP  - 350
+PB  - O'Reilly Media
+SN  - 978-1-4920-3108-6 1-4920-3108-9
+KW  - Data Visualization.
+KW  - Information visualization.
+KW  - Visual analytics.
+KW  - Visualization Data processing.
+ER  - 
+
+TY  - CHAP
+TI  - Handling overlapping points
+AU  - Wilke, C.
+T2  - Fundamentals of data visualization: a primer on making informative and compelling figures
+CY  - Sebastopol, CA
+DA  - 2019///
+PY  - 2019
+ET  - First edition.
+SP  - 219
+EP  - 225
+PB  - O'Reilly Media
+SN  - 978-1-4920-3108-6 1-4920-3108-9
+KW  - Data Visualization.
+KW  - Information visualization.
+KW  - Visual analytics.
+KW  - Visualization Data processing.
+ER  - 
+
+TY  - CHAP
+TI  - Directory of Visualization
+AU  - Wilke, C.
+T2  - Fundamentals of data visualization: a primer on making informative and compelling figures
+CY  - Sebastopol, CA
+DA  - 2019///
+PY  - 2019
+ET  - First edition.
+SP  - 37
+EP  - 44
+PB  - O'Reilly Media
+SN  - 978-1-4920-3108-6 1-4920-3108-9
+KW  - Data Visualization.
+KW  - Information visualization.
+KW  - Visual analytics.
+KW  - Visualization Data processing.
+ER  - 
+
+TY  - CHAP
+TI  - Coordinate Systems and Axes
+AU  - Wilke, C.
+T2  - Fundamentals of data visualization: a primer on making informative and compelling figures
+CY  - Sebastopol, CA
+DA  - 2019///
+PY  - 2019
+ET  - First edition.
+SP  - 13
+EP  - 26
+PB  - O'Reilly Media
+SN  - 978-1-4920-3108-6 1-4920-3108-9
+KW  - Data Visualization.
+KW  - Information visualization.
+KW  - Visual analytics.
+KW  - Visualization Data processing.
+ER  - 
+
+TY  - CHAP
+TI  - Common pitfalls of color use
+AU  - Wilke, C.
+T2  - Fundamentals of data visualization: a primer on making informative and compelling figures
+CY  - Sebastopol, CA
+DA  - 2019///
+PY  - 2019
+ET  - First edition.
+SP  - 233
+EP  - 242
+PB  - O'Reilly Media
+SN  - 978-1-4920-3108-6 1-4920-3108-9
+KW  - Data Visualization.
+KW  - Information visualization.
+KW  - Visual analytics.
+KW  - Visualization Data processing.
+ER  - 
+
+TY  - CHAP
+TI  - Color Scales
+AU  - Wilke, C.
+T2  - Fundamentals of data visualization: a primer on making informative and compelling figures
+CY  - Sebastopol, CA
+DA  - 2019///
+PY  - 2019
+ET  - First edition.
+SP  - 27
+EP  - 36
+PB  - O'Reilly Media
+SN  - 978-1-4920-3108-6 1-4920-3108-9
+KW  - Data Visualization.
+KW  - Information visualization.
+KW  - Visual analytics.
+KW  - Visualization Data processing.
+ER  - 
+
+TY  - CHAP
+TI  - Balance the Data and the Context
+AU  - Wilke, C.
+T2  - Fundamentals of data visualization: a primer on making informative and compelling figures
+CY  - Sebastopol, CA
+DA  - 2019///
+PY  - 2019
+ET  - First edition.
+SP  - 277
+EP  - 290
+PB  - O'Reilly Media
+SN  - 978-1-4920-3108-6 1-4920-3108-9
+KW  - Data Visualization.
+KW  - Information visualization.
+KW  - Visual analytics.
+KW  - Visualization Data processing.
+ER  - 
+
+TY  - CHAP
+TI  - Multipanel Figures
+AU  - Wilke, C.
+T2  - Fundamentals of data visualization: a primer on making informative and compelling figures
+CY  - Sebastopol, CA
+DA  - 2019///
+PY  - 2019
+ET  - First edition.
+SP  - 255
+EP  - 260
+PB  - O'Reilly Media
+SN  - 978-1-4920-3108-6 1-4920-3108-9
+KW  - Data Visualization.
+KW  - Information visualization.
+KW  - Visual analytics.
+KW  - Visualization Data processing.
+ER  - 
+
+TY  - CHAP
+TI  - Comparing categories
+AU  - Schwabish, Jonathan
+T2  - Better data visualizations
+T3  - A guide for scholars, researchers, and wonks
+AB  - The graphs in this chapter are intended to help our readers compare values across categories. Bars, lines, and dots can all let our readers compare within and between groups. In some cases, we want our reader to see both levels ¡em¿and¡/em¿ change, or some other variable combination; in other cases, we want to focus their attention on one comparison or another. The challenge when comparing categorical data is deciding what we want the chart to convey. Is there a primary argument or story? Is there something you can identify as the most important comparison you want the reader to make?
+DA  - 2021///
+PY  - 2021
+SP  - 67
+EP  - 132
+PB  - Columbia University Press
+SN  - 978-0-231-19310-8
+UR  - http://www.jstor.org.proxycu.wrlc.org/stable/10.7312/schw19310.7
+ER  - 
+
+TY  - JOUR
+TI  - Visualization of biomedical data
+AU  - O'Donoghue, Seán I.
+AU  - Baldi, Benedetta Frida
+AU  - Clark, Susan J.
+AU  - Darling, Aaron E.
+AU  - Hogan, James M.
+AU  - Kaur, Sandeep
+AU  - Maier-Hein, Lena
+AU  - McCarthy, Davis J.
+AU  - Moore, William J.
+AU  - Stenau, Esther
+AU  - Swedlow, Jason R.
+AU  - Vuong, Jenny
+AU  - Procter, James B.
+T2  - Annual Review of Biomedical Data Science
+AB  - The rapid increase in volume and complexity of biomedical data requires changes in research, communication, and clinical practices. This includes learning how to effectively integrate automated analysis with high–data density visualizations that clearly express complex phenomena. In this review, we summarize key principles and resources from data visualization research that help address this difficult challenge. We then survey how visualization is being used in a selection of emerging biomedical research areas, including three-dimensional genomics, single-cell RNA sequencing (RNA-seq), the protein structure universe, phosphoproteomics, augmented reality–assisted surgery, and metagenomics. While specific research areas need highly tailored visualizations, there are common challenges that can be addressed with general methods and strategies. Also common, however, are poor visualization practices. We outline ongoing initiatives aimed at improving visualization practices in biomedical research via better tools, peer-to-peer learning, and interdisciplinary collaboration with computer scientists, science communicators, and graphic designers. These changes are revolutionizing how we see and think about our data.
+DA  - 2018///
+PY  - 2018
+DO  - 10.1146/annurev-biodatasci-080917-013424
+VL  - 1
+IS  - 1
+SP  - 275
+EP  - 304
+UR  - https://doi.org/10.1146/annurev-biodatasci-080917-013424
+ER  - 
+
+TY  - CHAP
+TI  - Perceiving Objects and Scenes
+AU  - Goldstein, E. Bruce
+AU  - Cacciamani, Laura
+T2  - Sensation and perception
+CY  - Belmont, CA
+DA  - 2022///
+PY  - 2022
+ET  - 11
+SP  - 88
+EP  - 121
+PB  - Wadsworth, Cengage Learning
+SN  - 978-0-357-44647-8
+KW  - Senses and sensation. Perception.
+ER  - 
+
+TY  - CHAP
+TI  - The Eye and Retina
+AU  - Goldstein, E. Bruce
+AU  - Cacciamani, Laura
+T2  - Sensation and perception
+CY  - Belmont, CA
+DA  - 2022///
+PY  - 2022
+ET  - 11
+SP  - 39
+EP  - 64
+PB  - Wadsworth, Cengage Learning
+SN  - 978-0-357-44647-8
+KW  - Senses and sensation. Perception.
+ER  - 
+
+TY  - CHAP
+TI  - Visual attention
+AU  - Goldstein, E. Bruce
+AU  - Cacciamani, Laura
+T2  - Sensation and perception
+CY  - Belmont, CA
+DA  - 2022///
+PY  - 2022
+ET  - 11
+SP  - 122
+EP  - 146
+PB  - Wadsworth, Cengage Learning
+SN  - 978-0-357-44647-8
+KW  - Senses and sensation. Perception.
+ER  - 
+
+TY  - CHAP
+TI  - The Visual Cortex and Beyond
+AU  - Goldstein, E. Bruce
+AU  - Cacciamani, Laura
+T2  - Sensation and perception
+CY  - Belmont, CA
+DA  - 2022///
+PY  - 2022
+ET  - 11
+SP  - 67
+EP  - 87
+PB  - Wadsworth, Cengage Learning
+SN  - 978-0-357-44647-8
+KW  - Senses and sensation. Perception.
+ER  - 
+
+TY  - CHAP
+TI  - Introduction to perception
+AU  - Goldstein, E. Bruce
+AU  - Cacciamani, Laura
+T2  - Sensation and perception
+CY  - Belmont, CA
+DA  - 2022///
+PY  - 2022
+ET  - 11
+SP  - 3
+EP  - 20
+PB  - Wadsworth, Cengage Learning
+SN  - 978-0-357-44647-8
+KW  - Perception.
+KW  - Senses and sensation.
+KW  - Senses and sensation. Perception.
+ER  - 
+
+TY  - CHAP
+TI  - Putting It All Together to Make a Difference
+AU  - Schwabish, Jonathan A.
+T2  - Elevate the Debate : A Multilayered Approach to Communicating Your Research
+CY  - Newark, UNITED STATES
+DA  - 2020///
+PY  - 2020
+SP  - 175
+EP  - 194
+PB  - John Wiley & Sons, Incorporated
+SN  - 978-1-119-62003-7
+UR  - http://ebookcentral.proquest.com/lib/cua/detail.action?docID=6037682
+KW  - Sociology
+KW  - Urban-Research-United States
+ER  - 
+
+TY  - CHAP
+TI  - An Introduction to Visualizing Your Research
+AU  - Schwabish, Jonathan A.
+T2  - Elevate the Debate : A Multilayered Approach to Communicating Your Research
+CY  - Newark, UNITED STATES
+DA  - 2020///
+PY  - 2020
+SP  - 37
+EP  - 66
+PB  - John Wiley & Sons, Incorporated
+SN  - 978-1-119-62003-7
+UR  - http://ebookcentral.proquest.com/lib/cua/detail.action?docID=6037682
+KW  - Sociology
+KW  - Urban-Research-United States
+ER  - 
+
+TY  - CHAP
+TI  - Why Research Needs a Big Audience
+AU  - Schwabish, Jonathan A.
+T2  - Elevate the Debate : A Multilayered Approach to Communicating Your Research
+CY  - Newark, UNITED STATES
+DA  - 2020///
+PY  - 2020
+SP  - 1
+EP  - 14
+PB  - John Wiley & Sons, Incorporated
+SN  - 978-1-119-62003-7
+UR  - http://ebookcentral.proquest.com/lib/cua/detail.action?docID=6037682
+KW  - Sociology
+KW  - Urban-Research-United States
+ER  - 
+
+TY  - CHAP
+TI  - Designing Cognitively Efficient Visualizations
+AU  - Ware, Colin
+T2  - Information Visualization
+DA  - 2021///
+PY  - 2021
+DO  - 10.1016/B978-0-12-812875-6.00012-8
+DP  - DOI.org (Crossref)
+SP  - 425
+EP  - 456
+LA  - en
+PB  - Elsevier
+SN  - 978-0-12-812875-6
+UR  - https://linkinghub.elsevier.com/retrieve/pii/B9780128128756000128
+Y2  - 2023/11/14/15:44:14
+ER  - 
+
+TY  - CHAP
+TI  - Thinking With Visualizations
+AU  - Ware, Colin
+T2  - Information Visualization
+DA  - 2021///
+PY  - 2021
+DO  - 10.1016/B978-0-12-812875-6.00011-6
+DP  - DOI.org (Crossref)
+SP  - 393
+EP  - 424
+LA  - en
+PB  - Elsevier
+SN  - 978-0-12-812875-6
+UR  - https://linkinghub.elsevier.com/retrieve/pii/B9780128128756000116
+Y2  - 2023/11/14/15:42:42
+ER  - 
+
+TY  - CHAP
+TI  - Interacting with Visualizations
+AU  - Ware, Colin
+T2  - Information Visualization
+DA  - 2021///
+PY  - 2021
+DO  - 10.1016/B978-0-12-812875-6.00010-4
+DP  - DOI.org (Crossref)
+SP  - 359
+EP  - 392
+LA  - en
+PB  - Elsevier
+SN  - 978-0-12-812875-6
+UR  - https://linkinghub.elsevier.com/retrieve/pii/B9780128128756000104
+Y2  - 2023/11/14/15:41:46
+ER  - 
+
+TY  - CHAP
+TI  - Static and Moving Patterns
+AU  - Ware, Colin
+T2  - Information Visualization
+DA  - 2021///
+PY  - 2021
+DO  - 10.1016/B978-0-12-812875-6.00006-2
+DP  - DOI.org (Crossref)
+SP  - 183
+EP  - 243
+LA  - en
+PB  - Elsevier
+SN  - 978-0-12-812875-6
+UR  - https://linkinghub.elsevier.com/retrieve/pii/B9780128128756000062
+Y2  - 2023/11/14/15:40:32
+ER  - 
+
+TY  - CHAP
+TI  - Visual Salience
+AU  - Ware, Colin
+T2  - Information Visualization
+DA  - 2021///
+PY  - 2021
+DO  - 10.1016/B978-0-12-812875-6.00005-0
+DP  - DOI.org (Crossref)
+SP  - 143
+EP  - 181
+LA  - en
+PB  - Elsevier
+SN  - 978-0-12-812875-6
+UR  - https://linkinghub.elsevier.com/retrieve/pii/B9780128128756000050
+Y2  - 2023/11/14/15:39:51
+ER  - 
+
+TY  - CHAP
+TI  - Lightness, Brightness, Contrast, and Constancy
+AU  - Ware, Colin
+T2  - Information Visualization
+DA  - 2021///
+PY  - 2021
+DO  - 10.1016/B978-0-12-812875-6.00003-7
+DP  - DOI.org (Crossref)
+SP  - 69
+EP  - 94
+LA  - en
+PB  - Elsevier
+SN  - 978-0-12-812875-6
+UR  - https://linkinghub.elsevier.com/retrieve/pii/B9780128128756000037
+Y2  - 2023/11/14/15:36:19
+ER  - 
+
+TY  - CHAP
+TI  - The Environment, Optics, Resolution, and the Display
+AU  - Ware, Colin
+T2  - Information Visualization
+DA  - 2021///
+PY  - 2021
+DO  - 10.1016/B978-0-12-812875-6.00002-5
+DP  - DOI.org (Crossref)
+SP  - 31
+EP  - 67
+LA  - en
+PB  - Elsevier
+SN  - 978-0-12-812875-6
+UR  - https://linkinghub.elsevier.com/retrieve/pii/B9780128128756000025
+Y2  - 2023/11/14/15:34:53
+ER  - 
+
+TY  - CHAP
+TI  - Foundations for an Applied Science of Data Visualization
+AU  - Ware, Colin
+T2  - Information Visualization
+DA  - 2021///
+PY  - 2021
+DO  - 10.1016/B978-0-12-812875-6.00001-3
+DP  - DOI.org (Crossref)
+SP  - 1
+EP  - 29
+LA  - en
+PB  - Elsevier
+SN  - 978-0-12-812875-6
+UR  - https://linkinghub.elsevier.com/retrieve/pii/B9780128128756000013
+Y2  - 2023/11/14/15:33:11
+ER  - 
+
+TY  - CHAP
+TI  - Charts
+AU  - Carter, Matt
+T2  - Designing Science Presentations
+DA  - 2013///
+PY  - 2013
+DO  - 10.1016/B978-0-12-385969-3.00008-8
+DP  - DOI.org (Crossref)
+SP  - 95
+EP  - 116
+LA  - en
+PB  - Elsevier
+SN  - 978-0-12-385969-3
+UR  - https://linkinghub.elsevier.com/retrieve/pii/B9780123859693000088
+Y2  - 2023/11/13/18:43:12
+ER  - 
+
+TY  - CHAP
+TI  - Design Goals for Different Presentation Formats
+AU  - Carter, Matt
+T2  - Designing Science Presentations
+DA  - 2013///
+PY  - 2013
+DO  - 10.1016/B978-0-12-385969-3.00002-7
+DP  - DOI.org (Crossref)
+SP  - 15
+EP  - 20
+LA  - en
+PB  - Elsevier
+SN  - 978-0-12-385969-3
+UR  - https://linkinghub.elsevier.com/retrieve/pii/B9780123859693000027
+Y2  - 2023/11/13/18:37:21
+ER  - 
+
+TY  - CHAP
+TI  - Scientists as Designers
+AU  - Carter, Matt
+T2  - Designing Science Presentations
+DA  - 2013///
+PY  - 2013
+DO  - 10.1016/B978-0-12-385969-3.00001-5
+DP  - DOI.org (Crossref)
+SP  - 3
+EP  - 13
+LA  - en
+PB  - Elsevier
+SN  - 978-0-12-385969-3
+UR  - https://linkinghub.elsevier.com/retrieve/pii/B9780123859693000015
+Y2  - 2023/11/13/18:36:34
+ER  - 
+
+TY  - CHAP
+TI  - Workflow: Scripts and Projects
+AU  - Wickham, Hadley
+AU  - Çetinkaya-Rundel, Mine
+AU  - Grolemund, Garrett
+T2  - R for data science : import, tidy, transform, visualize, and model data
+CY  - Sebastopol, CA
+DA  - 2023///
+PY  - 2023
+ET  - 2nd edition
+SP  - 85
+EP  - 94
+LA  - eng
+PB  - O'Reilly Media, Inc.
+ER  - 
+
+TY  - ELEC
+TI  - Setting up a computational projects
+AU  - Sharan, Malvika
+AU  - Colomb, Julien
+DA  - 2023///
+PY  - 2023
+UR  - https://carpentries-incubator.github.io/managing-computational-projects/07-setup.html
+Y2  - 2023/04/13/14:23:25
+ER  - 
+
+TY  - CHAP
+TI  - Regression
+AU  - Kabacoff, Robert I.
+T2  - R in action : data analysis and graphics with R and Tidyverse
+CY  - Shelter Island, NY
+DA  - 2022///
+PY  - 2022
+ET  - Third edition
+SP  - 179
+EP  - 220
+LA  - eng
+PB  - Manning Publications Co.
+SN  - 978-1-61729-605-5 1-61729-605-8 978-1-63835-701-8 1-63835-701-3
+ER  - 
+
+TY  - CHAP
+TI  - Exploratory Data Analysis
+AU  - Bruce, Peter C.
+AU  - Bruce, Andrew
+AU  - Gedeck, Peter
+T2  - Practical statistics for data scientists : 50+ essential concepts using R and Python
+CY  - Sebastopol, CA
+DA  - 2020///
+PY  - 2020
+ET  - Second edition
+SP  - 1
+EP  - 46
+LA  - eng
+PB  - O'Reilly Media, Inc.
+SN  - 978-1-4920-7294-2
+ER  - 
+
+TY  - CHAP
+TI  - Basic Statistics
+AU  - Kabacoff, Robert I.
+T2  - R in action : data analysis and graphics with R and Tidyverse
+CY  - Shelter Island, NY
+DA  - 2022///
+PY  - 2022
+ET  - Third edition
+SP  - 147
+EP  - 175
+LA  - eng
+PB  - Manning Publications Co.
+SN  - 978-1-61729-605-5 1-61729-605-8 978-1-63835-701-8 1-63835-701-3
+ER  - 
+
+TY  - CHAP
+TI  - Creating a Dataset
+AU  - Kabacoff, Robert I.
+T2  - R in action : data analysis and graphics with R and Tidyverse
+CY  - Shelter Island, NY
+DA  - 2022///
+PY  - 2022
+ET  - Third edition
+SP  - 20
+EP  - 45
+LA  - eng
+PB  - Manning Publications Co.
+SN  - 978-1-61729-605-5 1-61729-605-8 978-1-63835-701-8 1-63835-701-3
+ER  - 
+
+TY  - CHAP
+TI  - Big Data, Little Data
+AU  - Stuart, David
+T2  - Practical Data Science for Information Professionals
+CY  - London, UNITED KINGDOM
+DA  - 2020///
+PY  - 2020
+SP  - 17
+EP  - 38
+PB  - Facet Publishing
+SN  - 978-1-78330-346-5
+UR  - http://ebookcentral.proquest.com/lib/cua/detail.action?docID=6244431
+KW  - Data mining.
+ER  - 
+
+TY  - JOUR
+TI  - Nine simple ways to make it easier to (re)use your data
+AU  - White, Ethan
+AU  - Baldridge, Elita
+AU  - Brym, Zachary
+AU  - Locey, Kenneth
+AU  - McGlinn, Daniel
+AU  - Supp, Sarah
+T2  - Ideas in Ecology and Evolution
+DA  - 2013///
+PY  - 2013
+DO  - 10.4033/iee.2013.6b.6.f
+VL  - 6
+IS  - 2
+SN  - 19183178
+L1  - https://ojs.library.queensu.ca/index.php/IEE/article/download/4608/4898
+ER  - 
+
+TY  - JOUR
+TI  - Ten Simple Rules for Taking Advantage of Git and GitHub
+AU  - Perez-Riverol, Yasset
+AU  - Gatto, Laurent
+AU  - Wang, Rui
+AU  - Sachsenberg, Timo
+AU  - Uszkoreit, Julian
+AU  - Leprevost, Felipe Da Veiga
+AU  - Fufezan, Christian
+AU  - Ternent, Tobias
+AU  - Eglen, Stephen J.
+AU  - Katz, Daniel S.
+AU  - Pollard, Tom J.
+AU  - Konovalov, Alexander
+AU  - Flight, Robert M.
+AU  - Blin, Kai
+AU  - Vizcaíno, Juan Antonio
+T2  - PLOS Computational Biology
+A2  - Markel, Scott
+DA  - 2016/07/14/
+PY  - 2016
+DO  - 10.1371/journal.pcbi.1004947
+DP  - DOI.org (Crossref)
+VL  - 12
+IS  - 7
+SP  - e1004947
+J2  - PLoS Comput Biol
+LA  - en
+SN  - 1553-7358
+UR  - https://dx.plos.org/10.1371/journal.pcbi.1004947
+Y2  - 2023/07/29/16:24:41
+L1  - https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1004947&type=printable
+ER  - 
+
+TY  - BOOK
+TI  - The truthful art : data, charts, and maps for communication
+AU  - Cairo, Alberto
+CN  - QC397.5.I53 C35 2016
+CY  - Place of publication not identified
+DA  - 2016///
+PY  - 2016
+SP  - xvii, 382 pages
+PB  - New Riders
+SN  - 978-0-321-93407-9 0-321-93407-5
+AN  - 19137186
+N1  - <p>2016304900<br/>Alberto Cairo.<br/>illustrations ; 23 cm<br/>Includes bibliographical references and index.<br/>Foundations -- Truthful -- Functional -- Practice.</p>
+N1  - Foundations -- Truthful -- Functional -- Practice
+KW  - Information visualization.
+KW  - Visualisierung.
+KW  - Design
+KW  - Information visualization
+KW  - Computer graphics
+KW  - Datenverarbeitung
+KW  - Visualisierung
+KW  - Computer graphics.
+KW  - Charts, diagrams, etc. Design.
+KW  - Computergrafik.
+KW  - Datenverarbeitung.
+KW  - Optical images.
+KW  - Charts, diagrams, etc
+KW  - Computergrafik
+KW  - Optical images
+ER  - 
+
+TY  - BOOK
+TI  - Tidy modeling with R: a framework for modeling in the tidyverse
+AU  - Kuhn, Max
+AU  - Silge, Julia
+AB  - Get going with tidymodels, a collection of R packges for modeling and machine learning. Whether you're just starting out or have years of experience with modeling, this practical introduction shows data analysts, business analysts, and data scientists how the tidymodels framework offers a consistent, flexible approach for your work. RStudio engineers Max Kuhn and Julia Silge demonstrate ways to create models by focusing on an R dialect called the tidyverse. Software that adops tidyverse principles shares both a high-level design philosophy and low-level grammar and data structures, so learning one piece of the ecosystem makes it easier to learn the next. You'll understand why the tidymodels framework has been built to be used by a broad range of people
+CN  - Q325.5 .K84 2022
+CY  - Sebastopol, CA
+DA  - 2022///
+PY  - 2022
+DP  - Library of Congress ISBN
+SP  - 363
+PB  - O'Reilly Media
+SN  - 978-1-4920-9648-1
+ST  - Tidy modeling with R
+N1  - Software for modeling -- A tidyverse primer -- A review of R modeling fundamentals -- The ames housing data -- Spending our data -- Fitting models with parsnip -- A model workflow -- Feature engineering with recipes -- Judging model effectiveness -- Resampling for evaluating performance -- Comparing models with resampling -- Model tuning and the dangers of overfitting -- Grid search -- Iterative search -- Screening many models -- Dimensionality reduction -- Encoding categorical data -- Explaining models and predictions -- When should you trust your predictions? -- Ensembles of models -- Inferential analysis
+KW  - R (Computer program language)
+KW  - Mathematical models
+KW  - Machine learning
+KW  - Quantitative research
+ER  - 
+
+TY  - BOOK
+TI  - Data analysis for the life sciences with R
+AU  - Rafael A. Irizarry
+CN  - QH323.5 .I75 2017
+CY  - Boca Raton
+DA  - 2017///
+PY  - 2017
+DP  - Library of Congress ISBN
+SP  - 353
+PB  - CRC Press, Taylor & Francis Group
+SN  - 978-1-4987-7567-0
+N1  - "A Chapman & Hall book."
+N1  - OCLC: ocn959328452
+KW  - Life sciences
+KW  - Statistical methods
+ER  - 
+
+TY  - CHAP
+TI  - Uncertainty and significance
+AU  - Cairo, Alberto
+T2  - The truthful art : data, charts, and maps for communication
+CY  - San Francisco, California
+DA  - 2016///
+PY  - 2016
+SP  - 423
+EP  - 463
+PB  - New Riders
+SN  - 978-0-321-93407-9 0-321-93407-5
+N1  - 2016304900 Alberto Cairo. illustrations ; 23 cm Includes bibliographical references and index. Foundations – Truthful – Functional – Practice.
+KW  - diagrams
+KW  - etc. Design. Computergrafik. Datenverarbeitung. Visualisierung.
+KW  - Optical images. Information visualization. Computer graphics. Charts
+ER  - 
+
+TY  - JOUR
+TI  - Open science challenges, benefits and tips in early career and beyond
+AU  - Allen, Christopher
+AU  - Mehler, David M. A.
+T2  - PLOS Biology
+DA  - 2019/05/01/
+PY  - 2019
+DO  - 10.1371/journal.pbio.3000246
+DP  - DOI.org (Crossref)
+VL  - 17
+IS  - 5
+SP  - e3000246
+J2  - PLoS Biol
+LA  - en
+SN  - 1545-7885
+UR  - https://dx.plos.org/10.1371/journal.pbio.3000246
+Y2  - 2023/07/27/13:28:23
+ER  - 
+
+TY  - CHAP
+TI  - R Basics
+AU  - Kabacoff, Robert I.
+T2  - R in action : data analysis and graphics with R and Tidyverse
+CY  - Shelter Island, NY
+DA  - 2022///
+PY  - 2022
+ET  - Third edition
+SP  - 41
+EP  - 72
+LA  - eng
+PB  - Manning Publications Co.
+SN  - 978-1-61729-605-5 1-61729-605-8 978-1-63835-701-8 1-63835-701-3
+ER  - 
+
+TY  - CHAP
+TI  - Getting Started
+AU  - Kabacoff, Robert I.
+T2  - R in action : data analysis and graphics with R and Tidyverse
+CY  - Shelter Island, NY
+DA  - 2022///
+PY  - 2022
+ET  - Third edition
+SP  - 1
+EP  - 19
+LA  - eng
+PB  - Manning Publications Co.
+SN  - 978-1-61729-605-5 1-61729-605-8 978-1-63835-701-8 1-63835-701-3
+ER  - 
+
+TY  - RPRT
+TI  - data.table: Extension of `data.frame`
+AU  - Dowle, Matt
+AU  - Srinivasan, Arun
+DA  - 2023///
+PY  - 2023
+M3  - Manual
+N1  - https://r-datatable.com, https://Rdatatable.gitlab.io/data.table, https://github.com/Rdatatable/data.table
+ER  - 
+
+TY  - CHAP
+TI  - Introduction
+AU  - Irizarry, Rafael A.
+T2  - Introduction to data science : data analysis and prediction algorithms with R
+T3  - Chapman & Hall/CRC data science series
+CY  - Boca Raton
+DA  - 2020///
+PY  - 2020
+SP  - 27
+LA  - eng
+PB  - CRC Press
+SN  - 978-0-367-35798-6 0-367-35798-4 978-0-367-35799-3 0-367-35799-2
+ER  - 
+
+TY  - BOOK
+TI  - Introduction to data science : data analysis and prediction algorithms with R
+AU  - Irizarry, Rafael A.
+T2  - Chapman & Hall/CRC data science series
+CY  - Boca Raton
+DA  - 2020///
+PY  - 2020
+LA  - eng
+PB  - CRC Press
+SN  - 978-0-367-35798-6 0-367-35798-4 978-0-367-35799-3 0-367-35799-2
+ER  - 
+
+TY  - BOOK
+TI  - Practical data science for information professionals
+AU  - Stuart, David
+CY  - London
+DA  - 2020///
+PY  - 2020
+LA  - eng
+PB  - Facet
+SN  - 1-78330-346-8 978-1-78330-346-5
+ER  - 
+
+TY  - BOOK
+TI  - R in action : data analysis and graphics with R and Tidyverse
+AU  - Kabacoff, Robert I.
+CY  - Shelter Island, NY
+DA  - 2022///
+PY  - 2022
+ET  - Third edition
+LA  - eng
+PB  - Manning Publications Co.
+SN  - 978-1-61729-605-5 1-61729-605-8 978-1-63835-701-8 1-63835-701-3
+ER  - 
+
+TY  - CHAP
+TI  - The data analysis checklist
+AU  - Leek, Jeff
+T2  - The Elements of Data Analytic Style
+DA  - 2015///
+PY  - 2015
+SP  - 98
+PB  - Leanpub
+UR  - https://leanpub.com/datastyle
+ER  - 
+
+TY  - JOUR
+TI  - Practical Computational Reproducibility in the Life Sciences
+AU  - Gruning, B
+AU  - Chilton, J
+AU  - Koster, J
+AU  - Dale, R
+AU  - Soranzo, N
+AU  - van den Beek, M
+AU  - Goecks, J
+AU  - Backofen, R
+AU  - Nekrutenko, A
+AU  - Taylor, J
+T2  - CELL SYSTEMS
+AB  - Many areas of research suffer from poor reproducibility, particularly in computationally intensive domains where results rely on a series of complex methodological decisions that are not well captured by traditional publication approaches. Various guidelines have emerged for achieving reproducibility, but implementation of these practices remains difficult due to the challenge of assembling software tools plus associated libraries, connecting tools together into pipelines, and specifying parameters. Here, we discuss a suite of cutting-edge technologies that make computational reproducibility not just possible, but practical in both time and effort. This suite combines three well-tested components-a system for building highly portable packages of bioinformatics software, containerization and virtualization technologies for isolating reusable execution environments for these packages, and workflow systems that automatically orchestrate the composition of these packages for entire pipelines-to achieve an unprecedented level of computational reproducibility. We also provide a practical implementation and five recommendations to help set a typical researcher on the path to performing data analyses reproducibly.
+DA  - 2018/06/27/
+PY  - 2018
+DO  - 10.1016/j.cels.2018.03.014
+VL  - 6
+IS  - 6
+SP  - 631
+EP  - 635
+SN  - 2405-4712
+AN  - WOS:000436877800001
+ER  - 
+
+TY  - BOOK
+TI  - Practical statistics for data scientists : 50+ essential concepts using R and Python
+AU  - Bruce, Peter C.
+AU  - Bruce, Andrew
+AU  - Gedeck, Peter
+CY  - Sebastopol, CA
+DA  - 2020///
+PY  - 2020
+ET  - Second edition
+LA  - eng
+PB  - O'Reilly Media, Inc.
+SN  - 978-1-4920-7294-2 1-4920-7294-X
+ER  - 
+
+TY  - CHAP
+TI  - A few matters of form
+AU  - Leek, Jeff
+T2  - The Elements of Data Analytic Style
+DA  - 2015///
+PY  - 2015
+SP  - 85
+EP  - 86
+PB  - Leanpub
+UR  - https://leanpub.com/datastyle
+ER  - 
+
+TY  - CHAP
+TI  - Reproducibility
+AU  - Leek, Jeff
+T2  - The Elements of Data Analytic Style
+DA  - 2015///
+PY  - 2015
+SP  - 79
+EP  - 84
+PB  - Leanpub
+UR  - https://leanpub.com/datastyle
+ER  - 
+
+TY  - CHAP
+TI  - Creating Figures
+AU  - Leek, Jeff
+T2  - The Elements of Data Analytic Style
+DA  - 2015///
+PY  - 2015
+SP  - 58
+EP  - 69
+PB  - Leanpub
+UR  - https://leanpub.com/datastyle
+ER  - 
+
+TY  - CHAP
+TI  - Statistical modeling and inference
+AU  - Leek, Jeff
+T2  - The Elements of Data Analytic Style
+DA  - 2015///
+PY  - 2015
+SP  - 34
+EP  - 44
+PB  - Leanpub
+UR  - https://leanpub.com/datastyle
+ER  - 
+
+TY  - CHAP
+TI  - Written Analysis
+AU  - Leek, Jeff
+T2  - The Elements of Data Analytic Style
+DA  - 2015///
+PY  - 2015
+SP  - 53
+EP  - 57
+PB  - Leanpub
+UR  - https://leanpub.com/datastyle
+ER  - 
+
+TY  - CHAP
+TI  - Exploratory Analysis
+AU  - Leek, Jeff
+T2  - The Elements of Data Analytic Style
+DA  - 2015///
+PY  - 2015
+SP  - 23
+EP  - 33
+PB  - Leanpub
+UR  - https://leanpub.com/datastyle
+ER  - 
+
+TY  - CHAP
+TI  - Check the Data
+AU  - Leek, Jeff
+T2  - The Elements of Data Analytic Style
+DA  - 2015///
+PY  - 2015
+SP  - 17
+EP  - 22
+PB  - Leanpub
+UR  - https://leanpub.com/datastyle
+ER  - 
+
+TY  - CHAP
+TI  - Tidy the Data
+AU  - Leek, Jeff
+T2  - The Elements of Data Analytic Style
+DA  - 2015///
+PY  - 2015
+SP  - 10
+EP  - 16
+PB  - Leanpub
+UR  - https://leanpub.com/datastyle
+ER  - 
+
+TY  - CHAP
+TI  - The data analytic question
+AU  - Leek, Jeff
+T2  - The Elements of Data Analytic Style
+DA  - 2015///
+PY  - 2015
+SP  - 3
+EP  - 9
+PB  - Leanpub
+UR  - https://leanpub.com/datastyle
+ER  - 
+
+TY  - BOOK
+TI  - Tidyverse Skills for Data Science in R
+AU  - Wright, Carrie
+AU  - Ellis, Shannon
+AU  - Hicks, Stephanie
+AU  - Peng, Roger
+DA  - 2021///
+PY  - 2021
+PB  - Leanpub
+UR  - http://leanpub.com/tidyverseskillsdatascience
+ER  - 
+
+TY  - BOOK
+TI  - The Elements of Data Analytic Style
+AU  - Leek, Jeff
+DA  - 2015///
+PY  - 2015
+PB  - Leanpub
+UR  - https://leanpub.com/datastyle
+ER  - 
+
+TY  - JOUR
+TI  - The Tao of open science for ecology
+AU  - Hampton, Stephanie E.
+AU  - Anderson, Sean S.
+AU  - Bagby, Sarah C.
+AU  - Gries, Corinna
+AU  - Han, Xueying
+AU  - Hart, Edmund M.
+AU  - Jones, Matthew B.
+AU  - Lenhardt, W. Christopher
+AU  - MacDonald, Andrew
+AU  - Michener, William K.
+AU  - Mudge, Joe
+AU  - Pourmokhtarian, Afshin
+AU  - Schildhauer, Mark P.
+AU  - Woo, Kara H.
+AU  - Zimmerman, Naupaka
+T2  - Ecosphere
+AB  - The field of ecology is poised to take advantage of emerging technologies that facilitate the gathering, analyzing, and sharing of data, methods, and results. The concept of transparency at all stages of the research process, coupled with free and open access to data, code, and papers, constitutes ?open science.? Despite the many benefits of an open approach to science, a number of barriers to entry exist that may prevent researchers from embracing openness in their own work. Here we describe several key shifts in mindset that underpin the transition to more open science. These shifts in mindset include thinking about data stewardship rather than data ownership, embracing transparency throughout the data life-cycle and project duration, and accepting critique in public. Though foreign and perhaps frightening at first, these changes in thinking stand to benefit the field of ecology by fostering collegiality and broadening access to data and findings. We present an overview of tools and best practices that can enable these shifts in mindset at each stage of the research process, including tools to support data management planning and reproducible analyses, strategies for soliciting constructive feedback throughout the research process, and methods of broadening access to final research products.
+DA  - 2015/07/01/
+PY  - 2015
+DO  - 10.1890/ES14-00402.1
+VL  - 6
+IS  - 7
+SP  - art120
+J2  - Ecosphere
+PB  - John Wiley & Sons, Ltd
+SN  - 2150-8925
+UR  - https://doi.org/10.1890/ES14-00402.1
+Y2  - 2023/06/27/
+N1  - <p>https://doi.org/10.1890/ES14-00402.1</p>
+KW  - data management
+KW  - ecology
+KW  - open access
+KW  - open science
+KW  - reproducible research
+ER  - 
+
+TY  - CHAP
+TI  - Tools for Data Science
+AU  - Stuart, David
+T2  - Practical Data Science for Information Professionals
+CY  - London, UNITED KINGDOM
+DA  - 2020///
+PY  - 2020
+SP  - 133
+EP  - 146
+PB  - Facet Publishing
+SN  - 978-1-78330-346-5
+UR  - http://ebookcentral.proquest.com/lib/cua/detail.action?docID=6244431
+KW  - Data mining.
+ER  - 
+
+TY  - CHAP
+TI  - The future of data science and information professionals
+AU  - Stuart, David
+T2  - Practical Data Science for Information Professionals
+CY  - London, UNITED KINGDOM
+DA  - 2020///
+PY  - 2020
+SP  - 133
+EP  - 146
+PB  - Facet Publishing
+SN  - 978-1-78330-346-5
+UR  - http://ebookcentral.proquest.com/lib/cua/detail.action?docID=6244431
+KW  - Data mining.
+ER  - 
+
+TY  - CHAP
+TI  - Process of Data Science
+AU  - Stuart, David
+T2  - Practical Data Science for Information Professionals
+CY  - London, UNITED KINGDOM
+DA  - 2020///
+PY  - 2020
+SP  - 39
+EP  - 54
+PB  - Facet Publishing
+SN  - 978-1-78330-346-5
+UR  - http://ebookcentral.proquest.com/lib/cua/detail.action?docID=6244431
+KW  - Data mining.
+ER  - 
+
+TY  - CHAP
+TI  - What is Data Science?
+AU  - Stuart, David
+T2  - Practical Data Science for Information Professionals
+CY  - London, UNITED KINGDOM
+DA  - 2020///
+PY  - 2020
+SP  - 1
+EP  - 16
+PB  - Facet Publishing
+SN  - 978-1-78330-346-5
+UR  - http://ebookcentral.proquest.com/lib/cua/detail.action?docID=6244431
+KW  - Data mining.
+ER  - 
+
+TY  - JOUR
+TI  - Illusion of Causality in Visualized Data
+AU  - C. Xiong
+AU  - J. Shapiro
+AU  - J. Hullman
+AU  - S. Franconeri
+T2  - IEEE Transactions on Visualization and Computer Graphics
+AB  - Students who eat breakfast more frequently tend to have a higher grade point average. From this data, many people might confidently state that a before-school breakfast program would lead to higher grades. This is a reasoning error, because correlation does not necessarily indicate causation - X and Y can be correlated without one directly causing the other. While this error is pervasive, its prevalence might be amplified or mitigated by the way that the data is presented to a viewer. Across three crowdsourced experiments, we examined whether how simple data relations are presented would mitigate this reasoning error. The first experiment tested examples similar to the breakfast-GPA relation, varying in the plausibility of the causal link. We asked participants to rate their level of agreement that the relation was correlated, which they rated appropriately as high. However, participants also expressed high agreement with a causal interpretation of the data. Levels of support for the causal interpretation were not equally strong across visualization types: causality ratings were highest for text descriptions and bar graphs, but weaker for scatter plots. But is this effect driven by bar graphs aggregating data into two groups or by the visual encoding type? We isolated data aggregation versus visual encoding type and examined their individual effect on perceived causality. Overall, different visualization designs afford different cognitive reasoning affordances across the same data. High levels of data aggregation by graphs tend to be associated with higher perceived causality in data. Participants perceived line and dot visual encodings as more causal than bar encodings. Our results demonstrate how some visualization designs trigger stronger causal links while choosing others can help mitigate unwarranted perceptions of causality.
+DA  - 2020/01//
+PY  - 2020
+DO  - 10.1109/TVCG.2019.2934399
+VL  - 26
+IS  - 1
+SP  - 853
+EP  - 862
+J2  - IEEE Transactions on Visualization and Computer Graphics
+SN  - 1941-0506
+ER  - 
+
+TY  - ELEC
+TI  - Introduction to Reproducible Publications with Quarto
+AU  - UCSB Carpentry
+DA  - 2022/03//
+PY  - 2022
+UR  - https://carpentries-incubator.github.io/reproducible-publications-quarto/
+ER  - 
+
+TY  - JOUR
+TI  - Variation of Saturation Across Hue Affects Unique and Typical Hue Choices
+AU  - Witzel, C
+T2  - I-PERCEPTION
+AB  - Most studies on colour categorisation and many studies on unique hues have used samples of maximally saturated Munsell chips that vary in saturation across hue. Here we show that observers' choices of category prototypes and unique hues depend on the variation of Munsell chroma across hue. Both unique hue and prototype choices were shifted towards the more saturated hues in the respective stimulus set. This effect of saturation may explain cross-cultural regularities in colour categorisation. More generally, these findings highlight the importance of controlling saturation when measuring colour categories and unique hues.
+DA  - 2019/09//undefined
+PY  - 2019
+DO  - 10.1177/2041669519872226
+VL  - 10
+IS  - 5
+SN  - 2041-6695
+AN  - WOS:000488821000001
+ER  - 
+
+TY  - JOUR
+TI  - “Categorical Perception” and Linguistic Categorization of Color
+AU  - Ocelák, Radek
+T2  - Review of Philosophy and Psychology
+AB  - This paper offers a conceptual clarification of the phenomenon commonly referred to as categorical perception of color, both in adults and in infants. First, I argue against the common notion of categorical perception as involving a distortion of the perceptual color space. The effects observed in the categorical perception research concern categorical discrimination performance and the underlying processing; they need not directly reflect the relations of color similarity and difference. Moreover, the methodology of the research actually presupposes that the relations of similarity and difference do not vary with languages. The observed categorical perception effects should be conceived independently of the perceptual color space. Second, I challenge the usual opinion that the existing evidence on infant “categorical perception” allows us to conclude that infants perceptually categorize color, and in particular, that they have perceptual categories that resemble the basic color categories of English. Such conclusions rest on an unjustified interpretation of the infant “categorical perception” findings in terms of adult linguistic categorical boundaries. Based on the suggested new understanding, I propose that the phenomenon, as present in infants, should be conceived and examined as a possible explanatory factor with respect to the existing patterns of color naming in languages of the world.
+DA  - 2016/03/01/
+PY  - 2016
+DO  - 10.1007/s13164-015-0237-4
+VL  - 7
+IS  - 1
+SP  - 55
+EP  - 70
+J2  - Review of Philosophy and Psychology
+SN  - 1878-5166
+UR  - https://doi.org/10.1007/s13164-015-0237-4
+ER  - 
+
+TY  - CHAP
+TI  - Separate Visual Systems for Action and Perception
+AU  - Goodale, Melvyn A.
+AU  - Humphrey, G. Keith
+T2  - Blackwell Handbook of Sensation and Perception
+AB  - This chapter contains section titled: What Is Vision For? Action and Perception Systems in the Primate Brain Neuropsychological Evidence for Action and Perception Streams Electrophysiological and Behavioral Evidence in the Monkey Neuroimaging Evidence in Humans The Control of Action Versus Perceptual Representation Dissociations Between Action and Perception in Normal Observers Interactions Between Action And Perception
+DA  - 2008/02/01/
+PY  - 2008
+DO  - 10.1002/9780470753477.ch10
+SP  - 311
+EP  - 343
+SN  - 978-0-470-75347-7
+UR  - https://doi.org/10.1002/9780470753477.ch10
+Y2  - 2023/06/01/
+N1  - <p>Wiley Online Books</p>
+KW  - control mechanisms
+KW  - perception
+KW  - predator
+KW  - reconstructive approaches
+KW  - visual systems
+ER  - 
+
+TY  - CHAP
+TI  - Duplex Vision
+AU  - Goodale, Melvyn A.
+T2  - The Blackwell Companion to Consciousness
+AB  - Summary Visual systems first evolved not to enable animals to perceive the world, but to provide distal sensory control of their movements. Conscious sight is a relatively recent invention, but its emergence has enabled organisms such as humans and other primates to carry out complex cognitive operations on a detailed perceptual representation of the world. The two streams of visual processing that have been identified in the primate cerebral cortex are a reflection of these two functions of vision. The dorsal 'action' stream projecting from early visual areas to the posterior parietal cortex mediates the visual control of skilled motor acts. The ventral 'perceptual' stream projecting from early visual areas to the temporal lobe provides a perceptual experience of the world beyond our bodies. Both streams work together in the production of adaptive behavior.
+DA  - 2017/04/12/
+PY  - 2017
+DO  - 10.1002/9781119132363.ch46
+SP  - 648
+EP  - 661
+SN  - 978-1-119-13236-3
+UR  - https://doi.org/10.1002/9781119132363.ch46
+Y2  - 2023/06/01/
+KW  - dorsal stream
+KW  - grasping
+KW  - neuropsychology of vision
+KW  - perception and action
+KW  - Two visual systems
+KW  - ventral stream
+KW  - visual illusions
+ER  - 
+
+TY  - JOUR
+TI  - Typologies of attentional networks
+AU  - Raz, A
+AU  - Buhle, J
+T2  - Nature Reviews Neuroscience
+AB  - Attention is a central theme in cognitive science - it exemplifies the links between the brain and behaviour, and binds psychology to the techniques of neuroscience. A visionary model suggested by Michael Posner described attention as a set of independent control networks. This challenged the previously held view of attention as a uniform concept. The idea that disparate attentional networks correlate with discrete neural circuitry and can be influenced by focal brain injuries, mental state and specific drugs has since been supported by converging data from several modern methodologies. Given the recent explosion in empirical data, attentional typologies provide powerful conceptual tools with which to contextualize and integrate these findings.
+DA  - 2006/05//undefined
+PY  - 2006
+DO  - 10.1038/nrn1903
+VL  - 7
+IS  - 5
+SP  - 367
+EP  - 379
+SN  - 1471-003X
+AN  - WOS:000237072600015
+ER  - 
+
+TY  - JOUR
+TI  - The cognitive revolution: A historical perspective.
+AU  - Miller, George A.
+T2  - Trends in Cognitive Sciences
+AB  - Traces the history of the "cognitive revolution" in psychology from the author's perspective. Cognitive science is a child of the 1950s, the product of a time when psychology, anthropology and linguistics were redefining themselves and computer science and neuroscience as disciplines were coming into existence. It is suggested that psychology could not participate in the cognitive revolution until it had freed itself from behaviorism, thus restoring cognition to scientific respectability. By then, it was becoming clear in several disciplines that the solution to some of their problems depended crucially on solving problems traditionally allocated to other disciplines. Issues discussed related to this collaboration include the limitations of information theory, and interdisciplinary activities in the fields of psychology, linguistics, neuroscience, computer science, anthropology and philosophy. (PsycINFO Database Record (c) 2016 APA, all rights reserved)
+DA  - 2003///
+PY  - 2003
+DO  - 10.1016/S1364-6613(03)00029-9
+VL  - 7
+SP  - 141
+EP  - 144
+PB  - Elsevier Science
+SN  - 1364-6613(Print)
+KW  - *Cognitive Psychology
+KW  - *Cognitive Science
+KW  - *History of Psychology
+KW  - Interdisciplinary Research
+ER  - 
+
+TY  - JOUR
+TI  - Components of Attention
+AU  - Posner, MI
+AU  - Boies, SJ
+T2  - Psychological Review
+DA  - 1971///
+PY  - 1971
+DO  - 10.1037/h0031333
+VL  - 78
+IS  - 5
+SP  - 391
+EP  - &
+SN  - 0033-295X
+AN  - WOS:A1971K424900003
+ER  - 
+
+TY  - JOUR
+TI  - Testing the Efficiency and Independence of Attentional Networks
+AU  - Fan, Jin
+AU  - McCandliss, Bruce D.
+AU  - Sommer, Tobias
+AU  - Raz, Amir
+AU  - Posner, Michael I.
+T2  - Journal of Cognitive Neuroscience
+AB  - In recent years, three attentional networks have been defined in anatomical and functional terms. These functions involve alerting, orienting, and executive attention. Reaction time measures can be used to quantify the processing efficiency within each of these three networks. The Attention Network Test (ANT) is designed to evaluate alerting, orienting, and executive attention within a single 30-min testing session that can be easily performed by children, patients, and monkeys. A study with 40 normal adult subjects indicates that the ANT produces reliable single subject estimates of alerting, orienting, and executive function, and further suggests that the efficiencies of these three networks are uncorrelated. There are, however, some interactions in which alerting and orienting can modulate the degree of interference from flankers. This procedure may prove to be convenient and useful in evaluating attentional abnormalities associated with cases of brain injury, stroke, schizophrenia, and attention-deficit disorder. The ANT may also serve as an activation task for neuroimaging studies and as a phenotype for the study of the influence of genes on attentional networks.
+DA  - 2002/04/01/
+PY  - 2002
+DO  - 10.1162/089892902317361886
+VL  - 14
+IS  - 3
+SP  - 340
+EP  - 347
+J2  - Journal of Cognitive Neuroscience
+SN  - 0898-929X
+UR  - https://doi.org/10.1162/089892902317361886
+Y2  - 2023/05/31/
+ER  - 
+
+TY  - JOUR
+TI  - Orienting of Attention
+AU  - Posner, Michael I.
+T2  - Quarterly Journal of Experimental Psychology
+AB  - Bartlett viewed thinking as a high level skill exhibiting ballistic properties that he called its ?point of no return?. This paper explores one aspect of cognition through the use of a simple model task in which human subjects are asked to commit attention to a position in visual space other than fixation. This instruction is executed by orienting a covert (attentional) mechanism that seems sufficiently time locked to external events that its trajectory can be traced across the visual field in terms of momentary changes in the efficiency of detecting stimuli. A comparison of results obtained with alert monkeys, brain injured and normal human subjects shows the relationship of this covert system to saccadic eye movements and to various brain systems controlling perception and motion. In accordance with Bartlett's insight, the possibility is explored that similar principles apply to orienting of attention toward sensory input and orienting to the semantic structures used in thinking.
+DA  - 1980/02/01/
+PY  - 1980
+DO  - 10.1080/00335558008248231
+VL  - 32
+IS  - 1
+SP  - 3
+EP  - 25
+PB  - SAGE Publications
+SN  - 0033-555X
+UR  - https://doi.org/10.1080/00335558008248231
+Y2  - 2023/05/31/
+ER  - 
+
+TY  - JOUR
+TI  - Attention And The Detection Of Signals
+AU  - POSNER, MI
+AU  - SNYDER, CRR
+AU  - DAVIDSON, BJ
+T2  - JOURNAL OF EXPERIMENTAL PSYCHOLOGY-GENERAL
+DA  - 1980///
+PY  - 1980
+DO  - 10.1037/0096-3445.109.2.160
+VL  - 109
+IS  - 2
+SP  - 160
+EP  - 174
+SN  - 0096-3445
+AN  - WOS:A1980JU94600002
+ER  - 
+
+TY  - JOUR
+TI  - Reconsidering Visual Search
+AU  - Kristjansson, A
+T2  - I-PERCEPTION
+AB  - The visual search paradigm has had an enormous impact in many fields. A theme running through this literature has been the distinction between preattentive and attentive processing, which I refer to as the two-stage assumption. Under this assumption, slopes of set-size and response time are used to determine whether attention is needed for a given task or not. Even though a lot of findings question this two-stage assumption, it still has enormous influence, determining decisions on whether papers are published or research funded. The results described here show that the two-stage assumption leads to very different conclusions about the operation of attention for identical search tasks based only on changes in response (presence/absence versus Go/No-go responses). Slopes are therefore an ambiguous measure of attentional involvement. Overall, the results suggest that the two-stage model cannot explain all findings on visual search, and they highlight how slopes of response time and set-size should only be used with caution.
+DA  - 2015///
+PY  - 2015
+DO  - 10.1177/2041669515614670
+VL  - 6
+IS  - 6
+SN  - 2041-6695
+AN  - WOS:000365879200004
+ER  - 
+
+TY  - JOUR
+TI  - Guided Search 6.0: An updated model of visual search
+AU  - Wolfe, JM
+T2  - PSYCHONOMIC BULLETIN & REVIEW
+AB  - This paper describes Guided Search 6.0 (GS6), a revised model of visual search. When we encounter a scene, we can see something everywhere. However, we cannot recognize more than a few items at a time. Attention is used to select items so that their features can be "bound" into recognizable objects. Attention is "guided" so that items can be processed in an intelligent order. In GS6, this guidance comes from five sources of preattentive information: (1) top-down and (2) bottom-up feature guidance, (3) prior history (e.g., priming), (4) reward, and (5) scene syntax and semantics. These sources are combined into a spatial "priority map," a dynamic attentional landscape that evolves over the course of search. Selective attention is guided to the most active location in the priority map approximately 20 times per second. Guidance will not be uniform across the visual field. It will favor items near the point of fixation. Three types of functional visual field (FVFs) describe the nature of these foveal biases. There is a resolution FVF, an FVF governing exploratory eye movements, and an FVF governing covert deployments of attention. To be identified as targets or rejected as distractors, items must be compared to target templates held in memory. The binding and recognition of an attended object is modeled as a diffusion process taking > 150 ms/item. Since selection occurs more frequently than that, it follows that multiple items are undergoing recognition at the same time, though asynchronously, making GS6 a hybrid of serial and parallel processes. In GS6, if a target is not found, search terminates when an accumulating quitting signal reaches a threshold. Setting of that threshold is adaptive, allowing feedback about performance to shape subsequent searches. Simulation shows that the combination of asynchronous diffusion and a quitting signal can produce the basic patterns of response time and error data from a range of search experiments.
+DA  - 2021/08//undefined
+PY  - 2021
+DO  - 10.3758/s13423-020-01859-9
+VL  - 28
+IS  - 4
+SP  - 1060
+EP  - 1092
+SN  - 1069-9384
+AN  - WOS:000615131900002
+ER  - 
+
+TY  - JOUR
+TI  - Defending Yarbus: Eye movements reveal observers' task
+AU  - Borji, Ali
+AU  - Itti, Laurent
+T2  - Journal of Vision
+AB  - In a very influential yet anecdotal illustration, Yarbus suggested that human eye-movement patterns are modulated top down by different task demands. While the hypothesis that it is possible to decode the observer's task from eye movements has received some support (e.g., Henderson, Shinkareva, Wang, Luke, &amp; Olejarczyk, 2013; Iqbal &amp; Bailey, 2004), Greene, Liu, and Wolfe (2012) argued against it by reporting a failure. In this study, we perform a more systematic investigation of this problem, probing a larger number of experimental factors than previously. Our main goal is to determine the informativeness of eye movements for task and mental state decoding. We perform two experiments. In the first experiment, we reanalyze the data from a previous study by Greene et al. (2012) and contrary to their conclusion, we report that it is possible to decode the observer's task from aggregate eye-movement features slightly but significantly above chance, using a Boosting classifier (34.12% correct vs. 25% chance level; binomial test, p = 1.0722e – 04). In the second experiment, we repeat and extend Yarbus's original experiment by collecting eye movements of 21 observers viewing 15 natural scenes (including Yarbus's scene) under Yarbus's seven questions. We show that task decoding is possible, also moderately but significantly above chance (24.21% vs. 14.29% chance-level; binomial test, p = 2.4535e – 06). We thus conclude that Yarbus's idea is supported by our data and continues to be an inspiration for future computational and experimental eye-movement research. From a broader perspective, we discuss techniques, features, limitations, societal and technological impacts, and future directions in task decoding from eye movements.
+DA  - 2014/03/24/
+PY  - 2014
+DO  - 10.1167/14.3.29
+VL  - 14
+IS  - 3
+SP  - 29
+EP  - 29
+J2  - Journal of Vision
+SN  - 1534-7362
+UR  - https://doi.org/10.1167/14.3.29
+Y2  - 2023/05/28/
+ER  - 
+
+TY  - JOUR
+TI  - Modeling the role of salience in the allocation of overt visual attention
+AU  - Parkhurst, Derrick
+AU  - Law, Klinton
+AU  - Niebur, Ernst
+T2  - Vision Research
+AB  - A biologically motivated computational model of bottom-up visual selective attention was used to examine the degree to which stimulus salience guides the allocation of attention. Human eye movements were recorded while participants viewed a series of digitized images of complex natural and artificial scenes. Stimulus dependence of attention, as measured by the correlation between computed stimulus salience and fixation locations, was found to be significantly greater than that expected by chance alone and furthermore was greatest for eye movements that immediately follow stimulus onset. The ability to guide attention of three modeled stimulus features (color, intensity and orientation) was examined and found to vary with image type. Additionally, the effect of the drop in visual sensitivity as a function of eccentricity on stimulus salience was examined, modeled, and shown to be an important determiner of attentional allocation. Overall, the results indicate that stimulus-driven, bottom-up mechanisms contribute significantly to attentional guidance under natural viewing conditions.
+DA  - 2002///
+PY  - 2002
+DO  - https://doi.org/10.1016/S0042-6989(01)00250-4
+VL  - 42
+IS  - 1
+SP  - 107
+EP  - 123
+SN  - 0042-6989
+UR  - https://www.sciencedirect.com/science/article/pii/S0042698901002504
+N1  - Parkhurst, Derrick Law, Klinton Niebur, Ernst eng Research Support, Non-U.S. Gov't Research Support, U.S. Gov't, Non-P.H.S. Research Support, U.S. Gov't, P.H.S. England 2002/01/24 Vision Res. 2002 Jan;42(1):107-23. doi: 10.1016/s0042-6989(01)00250-4.
+KW  - Eye movements Natural images Visual attention Computational model Salience
+ER  - 
+
+TY  - JOUR
+TI  - A saliency-based search mechanism for overt and covert shifts of visual attention
+AU  - Itti, Laurent
+AU  - Koch, Christof
+T2  - Vision Research
+AB  - Most models of visual search, whether involving overt eye movements or covert shifts of attention, are based on the concept of a saliency map, that is, an explicit two-dimensional map that encodes the saliency or conspicuity of objects in the visual environment. Competition among neurons in this map gives rise to a single winning location that corresponds to the next attended target. Inhibiting this location automatically allows the system to attend to the next most salient location. We describe a detailed computer implementation of such a scheme, focusing on the problem of combining information across modalities, here orientation, intensity and color information, in a purely stimulus-driven manner. The model is applied to common psychophysical stimuli as well as to a very demanding visual search task. Its successful performance is used to address the extent to which the primate visual system carries out visual search via one or more such saliency maps and how this can be tested.
+DA  - 2000///
+PY  - 2000
+DO  - https://doi.org/10.1016/S0042-6989(99)00163-7
+VL  - 40
+IS  - 10
+SP  - 1489
+EP  - 1506
+SN  - 0042-6989
+UR  - https://www.sciencedirect.com/science/article/pii/S0042698999001637
+N1  - Itti, L Koch, C eng Research Support, Non-U.S. Gov't Research Support, U.S. Gov't, Non-P.H.S. Research Support, U.S. Gov't, P.H.S. England 2000/05/02 Vision Res. 2000;40(10-12):1489-506. doi: 10.1016/s0042-6989(99)00163-7.
+KW  - Visual attention Saliency Vision systems
+ER  - 
+
+TY  - JOUR
+TI  - How feature integration theory integrated cognitive psychology, neurophysiology, and psychophysics
+AU  - Kristjánsson, Árni
+AU  - Egeth, Howard
+T2  - Attention, Perception and Psychophysics, suppl. A Special Issue in Honor of the Contributions of Anne Treisman
+AB  - Anne Treisman's Feature Integration Theory (FIT) is a landmark in cognitive psychology and vision research. While many have discussed how Treisman's theory has fared since it was first proposed, it is less common to approach FIT from the other side in time: to examine what experimental findings, theoretical concepts, and ideas inspired it. The theory did not enter into a theoretical vacuum. Treisman's ideas were inspired by a large literature on a number of topics within visual psychophysics, cognitive psychology, and visual neurophysiology. Several key ideas developed contemporaneously within these fields that inspired FIT, and the theory involved an attempt at integrating them. Our aim here was to highlight the conceptual problems, experimental findings, and theoretical positions that Treisman was responding to with her theory and that the theory was intended to explain. We review a large number of findings from the decades preceding the proposal of feature integration theory showing how the theory integrated many ideas that developed in parallel within neurophysiology, visual psychophysics, and cognitive psychology. Our conclusion is that FIT made sense of many preceding findings, integrating them in an elegant way within a single theoretical account.
+DA  - 2020///
+PY  - 2020
+DO  - https://doi.org/10.3758/s13414-019-01803-7
+VL  - 82
+IS  - 1
+SP  - 7
+EP  - 23
+SN  - 19433921
+UR  - https://proxycu.wrlc.org/login?url=https://www.proquest.com/scholarly-journals/how-feature-integration-theory-integrated/docview/2356729310/se-2?accountid=9940 https://wrlc-cu.primo.exlibrisgroup.com/discovery/search?query=any,contains,How+feature+integration+theory+integrated+cognitive+psychology%2C+neurophysiology%2C+and+psychophysics&tab=Everything&search_scope=DN_and_CI&sortby=rank&vid=01WRLC_CAA:01WRLC_CAA&highlight=true&lang=en&offset=0&x=0&y=0&pcAvailability=true
+KW  - Psychology Research Theory Traditions Visual perception Neurophysiology Cognitive psychology
+ER  - 
+
+TY  - BOOK
+TI  - Information visualization: perception for design
+AU  - Ware, Colin
+T2  - Interactive technologies
+CN  - 006.6
+CY  - Cambridge
+DA  - 2021///
+PY  - 2021
+DP  - BnF ISBN
+ET  - 4th ed
+LA  - eng
+PB  - Elsevier
+SN  - 978-0-12-812875-6
+ST  - Information visualization
+ER  - 
+
+TY  - ELEC
+TI  - 216 Web Safe Color Chart Codes
+AU  - Shelley Lowery
+UR  - https://www.web-source.net/216_color_chart.htm#.YurhYuwpD9E
+Y2  - 2025/07/08/17:54:46
+L2  - https://www.web-source.net/216_color_chart.htm#.YurhYuwpD9E
+ER  - 
+
+TY  - ELEC
+TI  - ggplot2: Elegant Graphics for Data Analysis (3e)
+AU  - Wickham, Hadley
+UR  - https://ggplot2-book.org/
+Y2  - 2025/07/08/17:55:46
+L2  - https://ggplot2-book.org/
+ER  - 
+
+TY  - BOOK
+TI  - Modern Data Visualization with R
+AU  - Kabacoff, Robert
+AB  - This is an illustrated guide for creating data visualizations in R.
+DP  - rkabacoff.github.io
+UR  - https://rkabacoff.github.io/datavis/
+Y2  - 2025/07/08/17:56:07
+L2  - https://rkabacoff.github.io/datavis/
+ER  - 
+
+TY  - ELEC
+TI  - R for Data Science (2e)
+AU  - Wickham, Hadley
+UR  - https://r4ds.hadley.nz/
+Y2  - 2025/07/08/17:56:25
+L2  - https://r4ds.hadley.nz/
+ER  - 
+
+TY  - ELEC
+TI  - The R Graph Gallery – Help and inspiration for R charts
+AU  - Holtz, Yan
+T2  - The R Graph Gallery
+AB  - The R graph gallery displays hundreds of charts made with R, always providing the reproducible code.
+LA  - en
+UR  - https://r-graph-gallery.com/
+Y2  - 2025/07/08/17:56:48
+L2  - https://r-graph-gallery.com/
+ER  - 
+
+TY  - BOOK
+TI  - R Graphics Cookbook, 2nd edition
+AU  - Chang, Winston
+AB  - This cookbook contains more than 150 recipes to help scientists, engineers, programmers, and data analysts generate high-quality graphs quickly—without having to comb through all the details of R’s graphing systems. Each recipe tackles a specific problem with a solution you can apply to your own project and includes a discussion of how and why the recipe works.
+DP  - r-graphics.org
+UR  - https://r-graphics.org/
+Y2  - 2025/07/08/17:57:08
+L2  - https://r-graphics.org/
+ER  - 
+
+TY  - BLOG
+TI  - Resources
+T2  - PolicyViz
+LA  - en-US
+UR  - https://policyviz.com/resources/
+Y2  - 2025/07/08/17:57:41
+L2  - https://policyviz.com/resources/
+ER  - 
+
+TY  - ELEC
+TI  - SDS 375: Data Visualization in R
+AU  - Wilke, Claus
+T2  - SDS 375
+AB  - Data Visualization in R
+UR  - https://wilkelab.org/SDS375/
+Y2  - 2025/07/08/17:58:04
+L2  - https://wilkelab.org/SDS375/
+ER  - 
+
+TY  - ELEC
+TI  - ggplot2 Extensions Gallery
+AU  - Emaasit, Daniel
+UR  - https://exts.ggplot2.tidyverse.org/gallery/
+Y2  - 2025/07/08/17:58:45
+L2  - https://exts.ggplot2.tidyverse.org/gallery/
+ER  - 
+
+TY  - ELEC
+TI  - A ggplot2 Tutorial for Beautiful Plotting in R
+AU  - Cédric Scherer
+AB  - An extensive tutorial containing a general introduction to ggplot2 as well as many examples how to modify a ggplot, step by step. It covers several topics such as different chart types, themes, design choices, plot combinations, and modification of axes, labels, and legends, custom fonts, interactive charts and many more.
+LA  - en-us
+UR  - https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/
+Y2  - 2025/07/08/17:59:19
+L2  - https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/
+ER  - 
+
+TY  - BOOK
+TI  - Elevate the debate : A multilayered approach to communicating your research
+A3  - Schwabish, Jonathan A.
+CY  - Newark, UNITED STATES
+DA  - 2020///
+PY  - 2020
+PB  - John Wiley & Sons, Incorporated
+SN  - 978-1-119-62003-7
+UR  - http://ebookcentral.proquest.com/lib/cua/detail.action?docID=6037682
+KW  - Sociology
+KW  - Urban-Research-United States
+KW  - Urban-Research-United States.
+ER  - 
+
+TY  - JOUR
+TI  - An Empirical Study on Using Visual Embellishments in Visualization
+AU  - Borgo, R.
+AU  - Abdul-Rahman, A.
+AU  - Mohamed, F.
+AU  - Grant, P. W.
+AU  - Reppa, I.
+AU  - Floridi, L.
+AU  - Min Chen
+T2  - IEEE Transactions on Visualization and Computer Graphics
+DA  - 2012/12//
+PY  - 2012
+DO  - 10.1109/TVCG.2012.197
+DP  - DOI.org (Crossref)
+VL  - 18
+IS  - 12
+SP  - 2759
+EP  - 2768
+J2  - IEEE Trans. Visual. Comput. Graphics
+SN  - 1077-2626
+UR  - http://ieeexplore.ieee.org/document/6327282/
+Y2  - 2025/11/12/21:33:15
+L1  - https://philpapers.org/archive/FLOAES-2.pdf
+ER  - 
+
+TY  - CONF
+TI  - Useful junk?: the effects of visual embellishment on comprehension and memorability of charts
+AU  - Bateman, Scott
+AU  - Mandryk, Regan L.
+AU  - Gutwin, Carl
+AU  - Genest, Aaron
+AU  - McDine, David
+AU  - Brooks, Christopher
+T2  - CHI '10: CHI Conference on Human Factors in Computing Systems
+C1  - Atlanta Georgia USA
+C3  - Proceedings of the SIGCHI Conference on Human Factors in Computing Systems
+DA  - 2010/04/10/
+PY  - 2010
+DO  - 10.1145/1753326.1753716
+DP  - DOI.org (Crossref)
+SP  - 2573
+EP  - 2582
+LA  - en
+PB  - ACM
+SN  - 978-1-60558-929-9
+ST  - Useful junk?
+UR  - https://dl.acm.org/doi/10.1145/1753326.1753716
+Y2  - 2025/11/12/21:32:46
+ER  - 
+
+TY  - GEN
+TI  - Combinatorial Approaches to Viral Attenuation
+AU  - Paff, Matthew L.
+AU  - Jack, Benjamin R.
+AU  - Smith, Bartram L.
+AU  - Bull, James J.
+AU  - Wilke, Claus O.
+AB  - Abstract
+          Attenuated viruses have numerous applications, in particular in the context of live viral vaccines. However, purposefully designing attenuated viruses remains challenging, in particular if the attenuation is meant to be resistant to rapid evolutionary recovery. Here we develop and analyze a new attenuation method, promoter ablation, using an established viral model, bacteriophage T7. Ablating promoters of the two most highly expressed T7 proteins (scaffold and capsid) led to major reductions in transcript abundance of the affected genes, with the effect of the double knockout approximately additive of the effects of single knockouts. Fitness reduction was moderate and also approximately additive; fitness recovery on extended adaptation was partial and did not restore the promoters. The fitness effect of promoter knockouts combined with a previously tested codon deoptimization of the capsid gene was less than additive, as anticipated from their competing mechanisms of action. In one design, the engineering created an unintended consequence that led to further attenuation, the effect of which was studied and understood in hindsight. Overall, the mechanisms and effects of genome engineering on attenuation behaved in a predictable manner. Therefore, this work suggests that the rational design of viral attenuation methods is becoming feasible.
+          
+            Importance
+            Live viral vaccines rely on attenuated viruses that can successfully infect their host but have reduced fitness or virulence. Such attenuated viruses were originally developed through trial- and-error, typically by adaptation of the wild-type virus to novel conditions. That method was haphazard, with no way of controlling the degree of attenuation, the number of attenuating mutations, or preventing evolutionary reversion. Synthetic biology now enables rational design and engineering of viral attenuation, but rational design must be informed by biological principles to achieve stable, quantitative attenuation. This work shows that in a model system for viral attenuation, bacteriophage T7, attenuation can be obtained from rational design principles, and multiple different attenuation approaches can be combined for enhanced overall effect.
+DA  - 2018/04/11/
+PY  - 2018
+DO  - 10.1101/299180
+DP  - DOI.org (Crossref)
+LA  - en
+PB  - Microbiology
+UR  - http://biorxiv.org/lookup/doi/10.1101/299180
+Y2  - 2025/11/09/18:13:22
+L1  - https://journals.asm.org/doi/pdf/10.1128/msystems.00046-18
+ER  - 
+
+TY  - CONF
+TI  - ISOTYPE Visualization: Working Memory, Performance, and Engagement with Pictographs
+AU  - Haroz, Steve
+AU  - Kosara, Robert
+AU  - Franconeri, Steven L.
+T2  - CHI '15: CHI Conference on Human Factors in Computing Systems
+C1  - Seoul Republic of Korea
+C3  - Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems
+DA  - 2015/04/18/
+PY  - 2015
+DO  - 10.1145/2702123.2702275
+DP  - DOI.org (Crossref)
+SP  - 1191
+EP  - 1200
+LA  - en
+PB  - ACM
+SN  - 978-1-4503-3145-6
+ST  - ISOTYPE Visualization
+UR  - https://dl.acm.org/doi/10.1145/2702123.2702275
+Y2  - 2025/11/09/18:12:49
+L1  - https://osf.io/7mdw5/download
+ER  - 
+
+TY  - BOOK
+TI  - The visual display of quantitative information
+AU  - Tufte, Edward R.
+CY  - Cheshire, Conn
+DA  - 2018///
+PY  - 2018
+DP  - K10plus ISBN
+ET  - Second edition, tenth printing, April 2018
+SP  - 197
+LA  - eng
+PB  - Graphics Press
+SN  - 978-0-9613921-4-7 978-0-9613921-0-9
+N1  - Hier auch später erschienene, unveränderte Nachdrucke
+ER  - 
+
+TY  - JOUR
+TI  - Sex, sport, and body-size dependency of hematology in highly trained athletes
+AU  - Telford, R. D.
+AU  - Cunningham, R. B.
+T2  - Medicine and Science in Sports and Exercise
+AB  - Blood hemoglobin concentration, hematocrit, red cell count, white cell count (WBC), and plasma ferritin concentration were measured on 1604 occasions from 706 nationally ranked athletes in 12 sports. The blood samples were taken from a forearm vein amidst periods of moderate to intense training but at least 6 h after a training session. A multiple regression model, accounting for correlations between variables and incorporating the categorical variables of sex and sport revealed the following. Each blood variable was found to be dependent on body mass index, (mass/height2, BMI), with the exception of WBC in the males. As BMI increased so did the magnitude of these blood variables (P less than 0.01). Each blood variable was also dependent on the sport (P less than 0.01), significant differences being observed between several sports in each case. Furthermore, as has been previously reported, the magnitude of the blood variables was dependent on the sex of the athlete, each being significantly greater in males (P less than 0.01), with the exception of the WBC, which was greater in females (P less than 0.01). These data indicate that the rationality of interpreting the hematology in highly trained athletes may be increased by taking BMI and sport into account, as well as gender.
+DA  - 1991/07//
+PY  - 1991
+DP  - PubMed
+VL  - 23
+IS  - 7
+SP  - 788
+EP  - 794
+J2  - Med Sci Sports Exerc
+LA  - eng
+SN  - 0195-9131
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/1921671
+KW  - Adolescent
+KW  - Adult
+KW  - Analysis of Variance
+KW  - Body Height
+KW  - Body Mass Index
+KW  - Exercise
+KW  - Female
+KW  - Hematologic Tests
+KW  - Humans
+KW  - Male
+KW  - Regression Analysis
+KW  - Sex Factors
+KW  - Sports
+ER  - 
+
+TY  - BOOK
+TI  - Envisioning information
+A3  - Tufte, Edward R.
+CY  - Cheshire, Conn
+DA  - 2013///
+PY  - 2013
+DP  - K10plus ISBN
+ET  - 14. print
+SP  - 126
+LA  - eng
+PB  - Graphics Press
+SN  - 978-0-9613921-1-6
+N1  - ISBN nur auf dem Umschlag
+ER  - 
+
+TY  - JOUR
+TI  - An Engineering Model for Color Difference as a Function of Size
+AU  - Stone, Maureen
+AU  - Szafir, Danielle Albers
+AU  - Setlur, Vidya
+T2  - Color and Imaging Conference
+DA  - 2014/11/03/
+PY  - 2014
+DO  - 10.2352/CIC.2014.22.1.art00045
+DP  - DOI.org (Crossref)
+VL  - 22
+IS  - 1
+SP  - 253
+EP  - 258
+J2  - cic
+SN  - 2166-9635
+UR  - https://library.imaging.org/cic/articles/22/1/art00045
+Y2  - 2025/10/31/20:54:50
+ER  - 
+
+TY  - ELEC
+TI  - The Principle of Proportional Ink
+AU  - Carl Bergstrom
+AU  - Jevin West
+T2  - Calling Bullshit
+DA  - 2025/10/29/
+PY  - 2025
+LA  - en
+ST  - File
+UR  - https://callingbullshit.org/tools/tools_proportional_ink.html
+Y2  - 2025/10/19/17:54:40
+ER  - 
+
+TY  - CONF
+TI  - When (ish) is My Bus?: User-centered Visualizations of Uncertainty in Everyday, Mobile Predictive Systems
+AU  - Kay, Matthew
+AU  - Kola, Tara
+AU  - Hullman, Jessica R.
+AU  - Munson, Sean A.
+T2  - CHI'16: CHI Conference on Human Factors in Computing Systems
+C1  - San Jose California USA
+C3  - Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems
+DA  - 2016/05/07/
+PY  - 2016
+DO  - 10.1145/2858036.2858558
+DP  - DOI.org (Crossref)
+SP  - 5092
+EP  - 5103
+LA  - en
+PB  - ACM
+SN  - 978-1-4503-3362-7
+ST  - When (ish) is My Bus?
+UR  - https://dl.acm.org/doi/10.1145/2858036.2858558
+Y2  - 2025/10/29/20:17:45
+ER  - 
+
+TY  - JOUR
+TI  - The Connected Scatterplot for Presenting Paired Time Series
+AU  - Haroz, Steve
+AU  - Kosara, Robert
+AU  - Franconeri, Steven L.
+T2  - IEEE Transactions on Visualization and Computer Graphics
+DA  - 2016/09/01/
+PY  - 2016
+DO  - 10.1109/TVCG.2015.2502587
+DP  - DOI.org (Crossref)
+VL  - 22
+IS  - 9
+SP  - 2174
+EP  - 2186
+J2  - IEEE Trans. Visual. Comput. Graphics
+SN  - 1077-2626
+UR  - http://ieeexplore.ieee.org/document/7332976/
+Y2  - 2025/10/22/13:23:25
+ER  - 
+
+TY  - JOUR
+TI  - Complex Experiments
+AU  - Yates, F.
+T2  - Journal of the Royal Statistical Society Series B: Statistical Methodology
+DA  - 1935/07/01/
+PY  - 1935
+DO  - 10.2307/2983638
+DP  - DOI.org (Crossref)
+VL  - 2
+IS  - 2
+SP  - 181
+EP  - 223
+LA  - en
+SN  - 1369-7412, 1467-9868
+UR  - https://academic.oup.com/jrsssb/article/2/2/181/7026418
+Y2  - 2025/10/22/13:22:40
+ER  - 
+
+TY  - DATA
+TI  - Pittsburgh bridges
+AU  - Reich, Yoram
+AU  - Fenves, Steven
+DA  - 1989///
+PY  - 1989
+DO  - https://doi.org/10.24432/C5RP5H
+PB  - UCI Machine Learning Repository
+N1  - DOI: https://doi.org/10.24432/C5RP5H
+ER  - 
+
+TY  - ELEC
+TI  - UCI Machine Learning Repository
+AU  - Markelle Kelly
+AU  - Rachel Longjohn
+AU  - Kolby Nottingham
+T2  - The UCI Machine Learning Repository
+UR  - https://archive.ics.uci.edu/
+Y2  - 2025/10/20/15:01:34
+L2  - https://archive.ics.uci.edu/
+ER  - 
+
+TY  - ELEC
+TI  - Piecharts
+T2  - Wikimedia Commons
+DA  - 2024/01/11/
+PY  - 2024
+LA  - en
+ST  - File
+UR  - https://commons.wikimedia.org/wiki/File:Piecharts.svg
+Y2  - 2025/10/19/17:54:40
+L2  - https://commons.wikimedia.org/wiki/File:Piecharts.svg
+ER  - 
+
+TY  - ELEC
+TI  - File:Piecharts.svg - Wikipedia
+LA  - en
+ST  - File
+UR  - https://commons.wikimedia.org/wiki/File:Piecharts.svg
+Y2  - 2025/10/19/17:54:25
+L2  - https://commons.wikimedia.org/wiki/File:Piecharts.svg
+ER  - 
+
+TY  - ENCYC
+TI  - Pie chart
+T2  - Wikipedia
+AB  - A pie chart (or a circle chart) is a circular statistical graphic which is divided into slices to illustrate numerical proportion. In a pie chart, the arc length of each slice (and consequently its central angle and area) is proportional to the quantity it represents. While it is named for its resemblance to a pie which has been sliced, there are variations on the way it can be presented. The earliest known pie chart is generally credited to William Playfair's Statistical Breviary of 1801.
+Pie charts are very widely used in the business world and the mass media. However, they have been criticized, and many experts recommend avoiding them, as research has shown it is more difficult to make simple comparisons such as the size of different sections of a given pie chart, or to compare data across different pie charts. Some research has shown pie charts perform well for comparing complex combinations of sections (e.g., "A + B vs. C + D"). Commonly recommended alternatives to pie charts in most cases include bar charts, box plots, and dot plots.
+DA  - 2025/10/04/T07:03:19Z
+PY  - 2025
+DP  - Wikipedia
+LA  - en
+UR  - https://en.wikipedia.org/w/index.php?title=Pie_chart&oldid=1314986694
+Y2  - 2025/10/19/17:51:41
+L2  - https://en.wikipedia.org/w/index.php?title=Pie_chart&oldid=1314986694
+ER  - 
+
+TY  - ELEC
+TI  - It brings me ggjoy
+AU  - Wehrwein, Austin
+T2  - It brings me ggjoy
+AB  - Sporadic Data Analysis & Occasional Visualizations with R
+DA  - 2017/06/15/T21:13:14-05:00
+PY  - 2017
+UR  - https://austinwehrwein.com/data-visualization/it-brings-me-ggjoy/
+Y2  - 2025/10/17/13:38:52
+L2  - https://austinwehrwein.com/data-visualization/it-brings-me-ggjoy/
+ER  - 
+
+TY  - ELEC
+TI  - Color Universal Design (CUD) / Colorblind Barrier Free
+AU  - Okabe, Masataka
+AU  - Kei, Ito
+DA  - 2008/09/24/
+PY  - 2008
+UR  - https://jfly.uni-koeln.de/color/
+Y2  - 2025/10/15/13:57:41
+L2  - https://jfly.uni-koeln.de/color/
+ER  - 
+
+TY  - ELEC
+TI  - ColorBrewer: Color Advice for Maps
+AU  - Brewer, Cynthia
+T2  - ColorBrewer: Color Advice for Maps
+UR  - https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3
+Y2  - 2025/10/15/13:41:34
+L2  - https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3
+ER  - 
+
+TY  - CHAP
+TI  - Space Perception
+AU  - Ware, Colin
+T2  - Information Visualization: Perception for Design
+DA  - 2021///
+PY  - 2021
+PB  - Morgan Kaufmann
+SN  - 978-0-12-812875-6
+N1  - Chapter 7
+ER  - 
+
+TY  - JOUR
+TI  - REVIGO Summarizes and Visualizes Long Lists of Gene Ontology Terms
+AU  - Supek, Fran
+AU  - Bošnjak, Matko
+AU  - Škunca, Nives
+AU  - Šmuc, Tomislav
+T2  - PLoS ONE
+A2  - Gibas, Cynthia
+AB  - Outcomes of high-throughput biological experiments are typically interpreted by statistical testing for enriched gene functional categories defined by the Gene Ontology (GO). The resulting lists of GO terms may be large and highly redundant, and thus difficult to interpret. REVIGO is a Web server that summarizes long, unintelligible lists of GO terms by finding a representative subset of the terms using a simple clustering algorithm that relies on semantic similarity measures. Furthermore, REVIGO visualizes this non-redundant GO term set in multiple ways to assist in interpretation: multidimensional scaling and graph-based visualizations accurately render the subdivisions and the semantic relationships in the data, while treemaps and tag clouds are also offered as alternative views. REVIGO is freely available at http://revigo. irb.hr/.
+DA  - 2011/07/18/
+PY  - 2011
+DO  - 10.1371/journal.pone.0021800
+DP  - DOI.org (Crossref)
+VL  - 6
+IS  - 7
+SP  - e21800
+J2  - PLoS ONE
+LA  - en
+SN  - 1932-6203
+UR  - https://dx.plos.org/10.1371/journal.pone.0021800
+Y2  - 2025/12/03/21:36:47
+ER  - 
+
+TY  - CHAP
+TI  - Theory, planning, and design
+AU  - Schwabish, Jonathan
+T2  - Better presentations
+T3  - A guide for scholars, researchers, and wonks
+AB  - When you begin creating your presentation, try to refrain from immediately opening the computer and starting on a slide deck. The key is to organize first—outlining, writing, sketching, and drawing. This is not to say that you won't revise and edit your slides as you progress. In fact, you may find that building a draft of your slides and then changing, correcting, adding, and subtracting helps you get to a final version. Ultimately, you may decide you don't want to physically write or sketch a draft, but I encourage you to embrace the philosophy of planning your presentation before
+DA  - 2017///
+PY  - 2017
+SP  - 11
+EP  - 28
+PB  - Columbia University Press
+SN  - null
+ER  - 
+
+TY  - ELEC
+TI  - SDS 375 Syllabus
+AU  - Wilke, Claude
+T2  - SDS 375: Data Visualization in R
+ST  - SDS 375
+UR  - https://wilkelab.org/SDS375/syllabus.html
+Y2  - 2025/12/09/15:57:17
+L2  - https://wilkelab.org/SDS375/syllabus.html
+ER  - 
+
+TY  - JOUR
+TI  - Inducing Sleep by Remote Control Facilitates Memory Consolidation in <i>Drosophila</i>
+AU  - Donlea, Jeffrey M.
+AU  - Thimgan, Matthew S.
+AU  - Suzuki, Yasuko
+AU  - Gottschalk, Laura
+AU  - Shaw, Paul J.
+T2  - Science
+AB  - Inducing sleep in flies reverses deficits in long-term memory caused by social enrichment.
+          , 
+            
+              Sleep is believed to play an important role in memory consolidation. We induced sleep on demand by expressing the temperature-gated nonspecific cation channel
+              Transient receptor potential cation channel
+              (
+              UAS-TrpA1
+              ) in neurons, including those with projections to the dorsal fan-shaped body (FB). When the temperature was raised to 31°C, flies entered a quiescent state that meets the criteria for identifying sleep. When sleep was induced for 4 hours after a massed-training protocol for courtship conditioning that is not capable of inducing long-term memory (LTM) by itself, flies develop an LTM. Activating the dorsal FB in the absence of sleep did not result in the formation of LTM after massed training.
+DA  - 2011/06/24/
+PY  - 2011
+DO  - 10.1126/science.1202249
+DP  - DOI.org (Crossref)
+VL  - 332
+IS  - 6037
+SP  - 1571
+EP  - 1576
+J2  - Science
+LA  - en
+SN  - 0036-8075, 1095-9203
+UR  - https://www.science.org/doi/10.1126/science.1202249
+Y2  - 2026/01/12/21:17:10
+L1  - https://europepmc.org/articles/pmc4064462?pdf=render
+ER  - 
+
+TY  - GEN
+TI  - A half-center oscillator encodes sleep pressure
+AU  - Hasenhuetl, Peter S.
+AU  - Sarnataro, Raffaele
+AU  - Vrontou, Eleftheria
+AU  - Rorsman, H. Olof
+AU  - Talbot, Clifford B.
+AU  - Brain, Ruth
+AU  - Miesenböck, Gero
+AB  - Abstract
+          Oscillatory neural dynamics are an inseparable part of mammalian sleep. Characteristic rhythms are associated with different sleep stages and variable levels of sleep pressure, but it remains unclear whether these oscillations are passive mirrors or active generators of sleep. Here we report that sleep-control neurons innervating the dorsal fan-shaped body of Drosophila (dFBNs) produce slow-wave activity (SWA) in the delta frequency band (0.2–2 Hz) that is causally linked to sleep. The dFBN ensemble contains rhythmic cells whose membrane voltages oscillate in anti-phase between hyperpolarized DOWN and depolarized UP states releasing bursts of action potentials. The oscillations rely on direct interhemispheric competition of two inhibitory half-centers connected by glutamatergic synapses. Interference with glutamate release from dFBNs disrupts SWA and baseline as well as rebound sleep, while the optogenetic replay of SWA (with the help of intersectional, dFBN-restricted drivers) induces sleep. dFBNs generate SWA throughout the sleep–wake cycle— despite a mutually antagonistic ‘flip-flop’ arrangement with arousing dopaminergic neurons—but adjust its power to sleep need via an interplay of sleep history-dependent increases in excitability and homeostatic depression of their efferent synapses, as we demonstrate transcriptionally, structurally, functionally, and with a simple computational model. The oscillatory format permits a durable encoding of sleep pressure over long time scales but requires downstream mechanisms that convert the amplitude-modulated periodic signal into binary sleep–wake states.
+DA  - 2024/02/28/
+PY  - 2024
+DO  - 10.1101/2024.02.23.581780
+DP  - DOI.org (Crossref)
+LA  - en
+PB  - Neuroscience
+UR  - http://biorxiv.org/lookup/doi/10.1101/2024.02.23.581780
+Y2  - 2026/01/12/21:17:20
+L1  - https://www.biorxiv.org/content/biorxiv/early/2024/02/28/2024.02.23.581780.full.pdf
+ER  - 
+
+TY  - JOUR
+TI  - An ER-Mitochondria Tethering Complex Revealed by a Synthetic Biology Screen
+AU  - Kornmann, Benoît
+AU  - Currie, Erin
+AU  - Collins, Sean R.
+AU  - Schuldiner, Maya
+AU  - Nunnari, Jodi
+AU  - Weissman, Jonathan S.
+AU  - Walter, Peter
+T2  - Science
+AB  - Making Connections
+            
+              Endoplasmic reticulum (ER)–mitochondria connections have been implicated in many physiological processes, including calcium homeostasis, signaling, membrane biogenesis, and apoptosis.
+              
+                Kornmann
+                et al.
+              
+              (p.
+              477
+              , published online 25 June; see the Perspective by
+              
+                
+                  
+                    Wiedemann
+                    et al.
+                  
+                
+              
+              ) looked for a proteinaceous link between the ER and mitochondria and, using combinations of synthetic biology and classical yeast genetics, found a protein complex that tethers the two organelles. A large-scale genetic interaction map suggests that these ER-mitochondria connections are important for interorganellar phospholipid exchange.
+            
+          , 
+            A protein complex zippers mitochondria to endoplasmic reticulum for phospholipid transfer.
+          , 
+            Communication between organelles is an important feature of all eukaryotic cells. To uncover components involved in mitochondria/endoplasmic reticulum (ER) junctions, we screened for mutants that could be complemented by a synthetic protein designed to artificially tether the two organelles. We identified the Mmm1/Mdm10/Mdm12/Mdm34 complex as a molecular tether between ER and mitochondria. The tethering complex was composed of proteins resident of both ER and mitochondria. With the use of genome-wide mapping of genetic interactions, we showed that the components of the tethering complex were functionally connected to phospholipid biosynthesis and calcium-signaling genes. In mutant cells, phospholipid biosynthesis was impaired. The tethering complex localized to discrete foci, suggesting that discrete sites of close apposition between ER and mitochondria facilitate interorganelle calcium and phospholipid exchange.
+DA  - 2009/07/24/
+PY  - 2009
+DO  - 10.1126/science.1175088
+DP  - DOI.org (Crossref)
+VL  - 325
+IS  - 5939
+SP  - 477
+EP  - 481
+J2  - Science
+LA  - en
+SN  - 0036-8075, 1095-9203
+UR  - https://www.science.org/doi/10.1126/science.1175088
+Y2  - 2026/01/12/21:17:32
+L1  - https://europepmc.org/articles/pmc2933203?pdf=render
+ER  - 
+
+TY  - JOUR
+TI  - Sleep pressure accumulates in a voltage-gated lipid peroxidation memory
+AU  - Rorsman, H. Olof
+AU  - Müller, Max A.
+AU  - Liu, Patrick Z.
+AU  - Sanchez, Laura Garmendia
+AU  - Kempf, Anissa
+AU  - Gerbig, Stefanie
+AU  - Spengler, Bernhard
+AU  - Miesenböck, Gero
+T2  - Nature
+AB  - Abstract
+            
+              Voltage-gated potassium (K
+              V
+              ) channels contain cytoplasmically exposed β-subunits
+              1–5
+              whose aldo-keto reductase activity
+              6–8
+              is required for the homeostatic regulation of sleep
+              9
+              . Here we show that Hyperkinetic, the β-subunit of the K
+              V
+              1 channel Shaker in
+              Drosophila
+              7
+              , forms a dynamic lipid peroxidation memory. Information is stored in the oxidation state of Hyperkinetic’s nicotinamide adenine dinucleotide phosphate (NADPH) cofactor, which changes when lipid-derived carbonyls
+              10–13
+              , such as 4-oxo-2-nonenal or an endogenous analogue generated by illuminating a membrane-bound photosensitizer
+              9,14
+              , abstract an electron pair. NADP
+              +
+              remains locked in the active site of K
+              V
+              β until membrane depolarization permits its release and replacement with NADPH. Sleep-inducing neurons
+              15–17
+              use this voltage-gated oxidoreductase cycle to encode their recent lipid peroxidation history in the collective binary states of their K
+              V
+              β subunits; this biochemical memory influences—and is erased by—spike discharges driving sleep. The presence of a lipid peroxidation sensor at the core of homeostatic sleep control
+              16,17
+              suggests that sleep protects neuronal membranes against oxidative damage. Indeed, brain phospholipids are depleted of vulnerable polyunsaturated fatty acyl chains after enforced waking, and slowing the removal of their carbonylic breakdown products increases the demand for sleep.
+DA  - 2025/05/01/
+PY  - 2025
+DO  - 10.1038/s41586-025-08734-4
+DP  - DOI.org (Crossref)
+VL  - 641
+IS  - 8061
+SP  - 232
+EP  - 239
+J2  - Nature
+LA  - en
+SN  - 0028-0836, 1476-4687
+UR  - https://www.nature.com/articles/s41586-025-08734-4
+Y2  - 2026/01/12/21:17:41
+L1  - https://www.nature.com/articles/s41586-025-08734-4.pdf
+ER  - 
+
+TY  - JOUR
+TI  - The alternative oxidase lowers mitochondrial reactive oxygen production in plant cells
+AU  - Maxwell, Denis P.
+AU  - Wang, Yong
+AU  - McIntosh, Lee
+T2  - Proceedings of the National Academy of Sciences
+AB  - Besides the cytochrome
+              c
+              pathway, plant mitochondria have an alternative respiratory pathway that is comprised of a single homodimeric protein, alternative oxidase (AOX). Transgenic cultured tobacco cells with altered levels of AOX were used to test the hypothesis that the alternative pathway in plant mitochondria functions as a mechanism to decrease the formation of reactive oxygen species (ROS) produced during respiratory electron transport. Using the ROS-sensitive probe 2′,7′-dichlorofluorescein diacetate, we found that antisense suppression of AOX resulted in cells with a significantly higher level of ROS compared with wild-type cells, whereas the overexpression of AOX resulted in cells with lower ROS abundance. Laser-scanning confocal microscopy showed that the difference in ROS abundance among wild-type and AOX transgenic cells was caused by changes in mitochondrial-specific ROS formation. Mitochondrial ROS production was exacerbated by the use of antimycin A, which inhibited normal cytochrome electron transport. In addition, cells overexpressing AOX were found to have consistently lower expression of genes encoding ROS-scavenging enzymes, including the superoxide dismutase genes
+              SodA
+              and
+              SodB
+              , as well as glutathione peroxidase. Also, the abundance of mRNAs encoding salicylic acid-binding catalase and a pathogenesis-related protein were significantly higher in cells deficient in AOX. These results are evidence that AOX plays a role in lowering mitochondrial ROS formation in plant cells.
+DA  - 1999/07/06/
+PY  - 1999
+DO  - 10.1073/pnas.96.14.8271
+DP  - DOI.org (Crossref)
+VL  - 96
+IS  - 14
+SP  - 8271
+EP  - 8276
+J2  - Proc. Natl. Acad. Sci. U.S.A.
+LA  - en
+SN  - 0027-8424, 1091-6490
+UR  - https://pnas.org/doi/full/10.1073/pnas.96.14.8271
+Y2  - 2026/01/12/21:17:50
+L1  - https://europepmc.org/articles/pmc22224?pdf=render
+ER  - 
+
+TY  - JOUR
+TI  - The dynamin-related GTPase Dnm1 regulates mitochondrial fission in yeast
+AU  - Bleazard, William
+AU  - McCaffery, J. Michael
+AU  - King, Edward J.
+AU  - Bale, Susan
+AU  - Mozdy, Amy
+AU  - Tieu, Quinton
+AU  - Nunnari, Jodi
+AU  - Shaw, Janet M.
+T2  - Nature Cell Biology
+DA  - 1999/09//
+PY  - 1999
+DO  - 10.1038/13014
+DP  - DOI.org (Crossref)
+VL  - 1
+IS  - 5
+SP  - 298
+EP  - 304
+J2  - Nat Cell Biol
+LA  - en
+SN  - 1465-7392, 1476-4679
+UR  - https://www.nature.com/articles/ncb0999_298
+Y2  - 2026/01/12/21:17:59
+ER  - 
+
