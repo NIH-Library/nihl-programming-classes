@@ -6,15 +6,15 @@ This repository contains materials for NIH Library programming training. It is s
 
 ## Install prerequisites
 
--   R (≥ 4.3) and Quarto (≥ 1.4).
+- R (≥ 4.3) and Quarto (≥ 1.4).
 
--   RStudio (required; primary teaching environment).
+- RStudio (required; primary teaching environment).
 
--   Git.
+- Git.
 
--   Python (≥ 3.11).
+- Python (≥ 3.11).
 
--   Optional: Conda (Miniconda/Anaconda).
+- Optional: Conda (Miniconda/Anaconda).
 
 ## Option A: Downloading Project Structure Repo (recommended for classes)
 
@@ -46,7 +46,7 @@ cd nihl-programming-classes
 5.  Choose a parent directory (e.g., Documents).
 6.  Click Create Project. RStudio will open the repo.
 
-Ensure that Git is installed and recognized by RStudio (navigate to Tools ▸ Global Options ▸ Git/SVN)..
+Ensure that Git is installed and recognized by RStudio (navigate to Tools ▸ Global Options ▸ Git/SVN).
 
 ## RStudio: Environment Setup
 
@@ -79,10 +79,10 @@ pip install -r requirements.txt
 
 # Repository Structure
 
--   [Taming Messy Data: Practical R Wrangling with the Tidyverse](https://www.nihlibrary.nih.gov/training/taming-messy-data-practical-r-wrangling-tidyverse-0)
--   [Data Visualization in R: Introduction to ggplot (Part 2 of 3)](https://www.nihlibrary.nih.gov/training/data-visualization-r-introduction-ggplot-part-1-2-2)
--   [Data Visualization in R: Customizations (Part 3 of 3)](https://www.nihlibrary.nih.gov/training/data-visualization-r-customizations-part-2-2-2)
--   [Introduction to Quarto for Scientific Writing](https://www.nihlibrary.nih.gov/training/introduction-quarto-scientific-writing)
+- [Taming Messy Data: Practical R Wrangling with the Tidyverse](https://www.nihlibrary.nih.gov/training/taming-messy-data-practical-r-wrangling-tidyverse-0)
+- [Data Visualization in R: Introduction to ggplot (Part 2 of 3)](https://www.nihlibrary.nih.gov/training/data-visualization-r-introduction-ggplot-part-1-2-2)
+- [Data Visualization in R: Customizations (Part 3 of 3)](https://www.nihlibrary.nih.gov/training/data-visualization-r-customizations-part-2-2-2)
+- [Introduction to Quarto for Scientific Writing](https://www.nihlibrary.nih.gov/training/introduction-quarto-scientific-writing)
 
 The repository is organized into training-specific folders under `trainings/`. Each training folder follows a similar layout:
 
